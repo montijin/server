@@ -4431,6 +4431,7 @@ auto CLuaBaseEntity::addItem(sol::variadic_args va) const -> CItem*
     player:addItem({ id = itemID, silent    = true                   }) -- silently add 1 of itemID
     player:addItem({ id = itemID, signature = "Char"                 }) -- add 1 signed of itemID
     player:addItem({ id = itemID, exdata    = { ... }                }) -- add 1 of itemID with typed exdata (falls back to raw byte indices)
+    player:addItem({ id = itemID, location  = xi.inv.WARDROBE       }) -- add 1 of itemID to a specific container (default: INVENTORY)
     */
 
     if (va.get_type(0) == sol::type::table)
@@ -4450,7 +4451,10 @@ auto CLuaBaseEntity::addItem(sol::variadic_args va) const -> CItem*
             quantity = table.get<int32>("quantity");
         }
 
-        while (PChar->getStorage(LOC_INVENTORY)->GetFreeSlotsCount() != 0 && quantity > 0)
+        uint8 location = table.get_or("location", static_cast<uint8>(LOC_INVENTORY));
+        location       = (location < CONTAINER_ID::MAX_CONTAINER_ID ? location : static_cast<uint8>(LOC_INVENTORY));
+
+        while (PChar->getStorage(location)->GetFreeSlotsCount() != 0 && quantity > 0)
         {
             auto PItem = xi::items::spawn(id);
             if (PItem == nullptr)
@@ -4505,12 +4509,12 @@ auto CLuaBaseEntity::addItem(sol::variadic_args va) const -> CItem*
                 }
             }
 
-            SlotID = charutils::AddItem(PChar, LOC_INVENTORY, std::move(PItem), silent);
+            SlotID = charutils::AddItem(PChar, location, std::move(PItem), silent);
             if (SlotID == ERROR_SLOTID)
             {
                 break;
             }
-            AddedItem = PChar->getStorage(LOC_INVENTORY)->GetItem(SlotID);
+            AddedItem = PChar->getStorage(location)->GetItem(SlotID);
         }
     }
     else
