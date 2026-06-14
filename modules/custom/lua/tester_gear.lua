@@ -1,6 +1,6 @@
 -----------------------------------
 -- Starting Gear Module (Test Server)
--- Automatically gives new created characters a full set of gear placed in wardrobes for testing purposes.
+-- Automatically gives new characters a full set of gear for testing purposes.
 -- Wardrobe layout:
 --   W1: Main weapons (first half)
 --   W2: Main weapons (second half) + Sub + Ammo
@@ -10,14 +10,17 @@
 --   W6: Hands + Rings
 --   W7: Legs + Rings
 --   W8: Feet
---   Inventory: Consumables (food, ammo quivers/pouches, etc.) 
+--   Inventory: Consumables (food, quivers, pouches, etc.)
+--
+-- Requires the tester_gear.cpp module to be loaded, which registers
+-- the entity:addItemToContainer(itemId, locationId [, qty [, silent]]) method.
 -----------------------------------
 require('modules/module_utils')
 require('scripts/globals/player')
 -----------------------------------
 local m = Module:new('starting_gear')
 
--- Helper: add equipment to a container
+-- Helper: add equipment to a specific container (e.g. a wardrobe)
 local function addGear(player, container, items)
     for _, entry in ipairs(items) do
         local itemId, qty
@@ -29,7 +32,7 @@ local function addGear(player, container, items)
             qty = 1
         end
         for i = 1, qty do
-            player:addItem({ id = itemId, quantity = 1, location = container, silent = true })
+            addItemToContainer(player, itemId, container, 1, true)
         end
     end
 end
@@ -180,8 +183,6 @@ local wardrobe2Items =
     18396, -- Sea Robber Cudgel
     18395, -- Sea Wolf Cudgel
     18847, -- Seveneyes
-    18633, -- Chatoyant Staff
-    18632, -- Iridal Staff
     17546, -- Vulcan's Staff
     17558, -- Apollo's Staff
     17548, -- Aquilo's Staff
@@ -752,7 +753,7 @@ local inventoryItems =
 m:addOverride('xi.player.charCreate', function(player)
     super(player)
 
-    -- Open all wardrobes and expand inventory in case the server settings doesn't already come with these fully unlocked.
+    -- Open all wardrobes and expand inventory
     player:changeContainerSize(xi.inv.WARDROBE,  80)
     player:changeContainerSize(xi.inv.WARDROBE2, 80)
     player:changeContainerSize(xi.inv.WARDROBE3, 80)
@@ -763,7 +764,7 @@ m:addOverride('xi.player.charCreate', function(player)
     player:changeContainerSize(xi.inv.WARDROBE8, 80)
     player:changeContainerSize(xi.inv.INVENTORY, 80)
 
-    -- Populate wardrobes
+    -- Populate wardrobes using addItemToContainer (registered by tester_gear.cpp)
     addGear(player, xi.inv.WARDROBE,  wardrobe1Items)
     addGear(player, xi.inv.WARDROBE2, wardrobe2Items)
     addGear(player, xi.inv.WARDROBE3, wardrobe3Items)
