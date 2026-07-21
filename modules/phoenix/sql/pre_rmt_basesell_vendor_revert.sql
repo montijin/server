@@ -359,6 +359,10 @@ UPDATE item_basic SET baseSell = 811 WHERE itemid = 5722;
 
 -- Remedy
 UPDATE item_basic SET baseSell = 3200 WHERE itemid = 4155;
+
+-- Eye Drops
+UPDATE item_basic SET baseSell = 516 WHERE itemid = 4150;
+	
 ----------------------------------------------------------------------------------------------------------------------------
 -- PENDING -- I could not find prices for these items, but they were mentioned in patch notes as having price values changed
 ----------------------------------------------------------------------------------------------------------------------------
