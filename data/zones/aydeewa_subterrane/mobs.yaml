@@ -2274,11 +2274,11 @@ spawns:
     level:    [66, 68]
   17055752:
     template: Puktrap
-    at:       [62.047, 38.869, 107.405, 183]
+    region:   region_220
     level:    [67, 69]
   17055753:
     template: Puktrap
-    at:       [62.160, 38.872, 105.791, 65]
+    region:   region_220
     level:    [67, 69]
   17055754:
     template: Puktrap
@@ -2334,7 +2334,7 @@ spawns:
   17055765:
     template: Treant_Sapling_AS_CM
     script:   Treant_Sapling
-    at:       [217.910, 38.922, 47.321, 186]
+    region:   region_221
     level:    [66, 68]
   17055766:
     template: Qiqirn_Enterpriser
@@ -2443,7 +2443,7 @@ spawns:
     level:    [68, 70]
   17055791:
     template: Qiqirn_Lieuter
-    at:       [98.102, 35.757, -70.143, 73]
+    region:   region_222
     level:    [68, 70]
   17055792:
     template: Qiqirn_Mine
@@ -2466,7 +2466,7 @@ spawns:
     level:    [68, 70]
   17055797:
     template: Qiqirn_Lieuter
-    at:       [-226.200, 8.124, 98.215, 128]
+    region:   region_223
     level:    [68, 70]
   17055798:
     template: Qiqirn_Mine
@@ -2863,7 +2863,7 @@ spawns:
     level:    [75, 75]
   17055897:
     template: Qiqirn_Mosstrooper
-    at:       [-387.000, 7.883, -181.160, 9]
+    region:   region_224
     level:    [73, 75]
   17055898:
     template: Qiqirn_Mine
@@ -2901,7 +2901,7 @@ spawns:
     level:    [66, 68]
   17055907:
     template: Qiqirn_Archaeologist
-    at:       [-457.700, 11.000, -224.260, 66]
+    region:   region_225
     level:    [73, 75]
   17055908:
     template: Mold_Eater
@@ -2929,22 +2929,22 @@ spawns:
     level:    [66, 68]
   17055914:
     template: Qiqirn_Archaeologist
-    at:       [-421.700, 13.786, -288.710, 175]
+    region:   region_226
     level:    [73, 75]
   17055915:
     template: Mold_Eater
-    at:       [-357.300, 14.276, -338.670, 250]
+    region:   region_227
     level:    [69, 71]
   17055916:
     template: Qiqirn_Mosstrooper
-    at:       [-352.100, 14.251, -337.300, 243]
+    region:   region_227
     level:    [73, 75]
   17055917:
     template: Qiqirn_Mine
     level:    [75, 75]
   17055918:
     template: Mold_Eater
-    at:       [-331.900, 14.123, -336.080]
+    region:   region_228
     level:    [69, 71]
   17055919:
     template: Mold_Eater
@@ -3003,15 +3003,15 @@ spawns:
     level:    [75, 75]
   17055933:
     template: Fossorial_Flea
-    at:       [-298.200, 16.431, -468.360, 11]
+    region:   region_229
     level:    [66, 68]
   17055934:
     template: Fossorial_Flea
-    at:       [-300.800, 15.993, -458.620, 78]
+    region:   region_229
     level:    [66, 68]
   17055935:
     template: Qiqirn_Archaeologist
-    at:       [-300.500, 15.935, -456.720, 201]
+    region:   region_229
     level:    [73, 75]
   17055936:
     template: Qiqirn_Archaeologist
@@ -3031,7 +3031,7 @@ spawns:
     level:    [73, 75]
   17055940:
     template: Qiqirn_Archaeologist
-    at:       [-332.900, 10.703, -300.970, 17]
+    region:   region_230
     level:    [73, 75]
   17055941:
     template: Qiqirn_Archaeologist
@@ -3139,18 +3139,18 @@ spawns:
     level:    [68, 70]
   17055967:
     template: Qiqirn_Archaeologist
-    at:       [-14.900, 36.131, -107.680, 199]
+    region:   region_231
     level:    [73, 75]
   17055968:
     template: Qiqirn_Mosstrooper
-    at:       [-19.610, 36.237, -59.925, 179]
+    region:   region_231
     level:    [73, 75]
   17055969:
     template: Qiqirn_Mine
     level:    [75, 75]
   17055970:
     template: Qiqirn_Archaeologist
-    at:       [-19.890, 36.221, -56.506, 75]
+    region:   region_232
     level:    [73, 75]
   17055971:
     template: Qiqirn_Archaeologist
@@ -3158,11 +3158,11 @@ spawns:
     level:    [73, 75]
   17055972:
     template: Fossorial_Flea
-    at:       [-355.400, 36.187, -59.470]
+    region:   region_233
     level:    [66, 68]
   17055973:
     template: Fossorial_Flea
-    at:       [-356.900, 36.188, -59.430, 4]
+    region:   region_233
     level:    [66, 68]
   17055974:
     template: Slime_Mold
@@ -3681,7 +3681,7 @@ spawns:
     level:    [69, 71]
   17056103:
     template: Mold_Eater
-    at:       [459.630, -26.820, 276.803, 62]
+    region:   region_234
     level:    [69, 71]
   17056104:
     template: Qiqirn_Enterpriser
@@ -3709,11 +3709,11 @@ spawns:
     level:    [68, 70]
   17056110:
     template: Mold_Eater
-    at:       [258.870, 0.984, 357.726, 58]
+    region:   region_235
     level:    [69, 71]
   17056111:
     template: Mold_Eater
-    at:       [283.900, 0.881, 338.950, 122]
+    region:   region_236
     level:    [69, 71]
   17056112:
     template: Treant_Sapling_AS_CM
@@ -3727,7 +3727,7 @@ spawns:
   17056114:
     template: Treant_Sapling_AS_CM
     script:   Treant_Sapling
-    at:       [221.510, 1.052, 379.772, 66]
+    region:   region_237
     level:    [67, 69]
   17056115:
     template: Treant_Sapling_AS_CM
@@ -3749,11 +3749,11 @@ spawns:
   17056119:
     template: Treant_Sapling_AS_CM
     script:   Treant_Sapling
-    at:       [271.990, -17.880, 449.963, 221]
+    region:   region_238
     level:    [67, 69]
   17056120:
     template: Qiqirn_Enterpriser
-    at:       [184.610, 0.214, 374.875, 101]
+    region:   region_239
     level:    [68, 70]
   17056121:
     template: Puktrap
