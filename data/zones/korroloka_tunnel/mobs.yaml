@@ -1697,7 +1697,7 @@ spawns:
     level:    [27, 30]
   17485869:
     template: Thunder_Elemental
-    at:       [63.012, -0.132, 70.353, 19]
+    region:   c_41
     level:    [32, 34]
   17485870:
     template: Jelly_KT_GM
@@ -1750,7 +1750,7 @@ spawns:
     level:    [23, 27]
   17485881:
     template: Sea_Monk
-    at:       [-63.555, 0.656, 39.812, 127]
+    region:   region_111
     level:    [32, 35]
   17485882:
     template: Thread_Leech
@@ -1837,7 +1837,7 @@ spawns:
     level:    [27, 30]
   17485901:
     template: Thunder_Elemental
-    at:       [-160.678, -0.500, -1.089, 127]
+    region:   sw_71
     level:    [32, 34]
   17485902:
     template: Jelly_KT_GM
@@ -1847,11 +1847,11 @@ spawns:
   17485903:
     template: Greater_Pugil_KT_GM
     script:   Greater_Pugil
-    at:       [-188.680, 0.944, -8.608, 23]
+    region:   region_112
     level:    [30, 33]
   17485904:
     template: Clipper
-    at:       [-190.456, 0.843, -7.564, 24]
+    region:   region_112
     level:    [29, 32]
   17485905:
     template: Thread_Leech
@@ -1914,22 +1914,22 @@ spawns:
   17485918:
     template: Land_Worm_Korroloka
     script:   Land_Worm
-    at:       [-336.260, -1.977, -19.213, 127]
+    region:   sw_93
     level:    [20, 25]
   17485919:
     template: Land_Worm_Korroloka
     script:   Land_Worm
-    at:       [-359.000, -9.000, -19.000, 99]
+    region:   sw_98
     level:    [20, 25]
   17485920:
     template: Land_Worm_Korroloka
     script:   Land_Worm
-    at:       [-372.255, -9.973, -20.195, 36]
+    region:   sw_98
     level:    [20, 25]
   17485921:
     template: Land_Worm_Korroloka
     script:   Land_Worm
-    at:       [-391.050, -9.505, -17.957, 127]
+    region:   sw_99
     level:    [20, 25]
   17485922:
     template: Seeker_Bats_KT_RP_Qufim
@@ -2053,31 +2053,34 @@ spawns:
     level:    [23, 27]
   17485946:
     template: Sea_Monk
+    region:   region_97
     level:    [32, 35]
   17485947:
     template: Greater_Pugil_KT_GM
     script:   Greater_Pugil
+    region:   region_109
     level:    [30, 33]
   17485948:
     template: Clipper
-    at:       [107.000, -4.000, 17.000, 217]
+    region:   region_97
     level:    [29, 32]
   17485949:
     template: Greater_Pugil_KT_GM
     script:   Greater_Pugil
-    at:       [97.567, -5.000, 11.602, 165]
+    region:   region_98
     level:    [30, 33]
   17485950:
     template: Clipper
-    at:       [97.773, -5.000, 11.814, 127]
+    region:   region_98
     level:    [29, 32]
   17485951:
     template: Greater_Pugil_KT_GM
     script:   Greater_Pugil
+    region:   region_109
     level:    [30, 33]
   17485952:
     template: Clipper
-    at:       [92.000, -4.000, 23.000, 240]
+    region:   region_98
     level:    [29, 32]
   17485953:
     template: Seeker_Bats_KT_RP_Qufim
@@ -2213,7 +2216,7 @@ spawns:
     level:    [32, 35]
   17485980:
     template: Cargo_Crab_Colin
-    at:       [-52.000, -0.500, -33.000, 127]
+    region:   s_155
     level:    [34, 37]
   17485981:
     template: Seeker_Bats_KT_RP_Qufim
@@ -2297,36 +2300,37 @@ spawns:
   17485997:
     template: Seeker_Bats_KT_RP_Qufim
     script:   Seeker_Bats
-    at:       [-180.983, -0.500, -41.983, 127]
+    region:   s_172
     level:    [22, 26]
   17485998:
     template: Jammer_Leech
-    at:       [-111.960, 1.000, -101.099, 127]
+    region:   region_113
     level:    [60, 60]
   17485999:
     template: Jammer_Leech
-    at:       [-102.275, 1.007, -108.629, 22]
+    region:   region_114
     level:    [60, 60]
   17486000:
     template: Jammer_Leech
-    at:       [-89.715, 0.988, -105.495, 78]
+    region:   region_115
     level:    [60, 60]
   17486001:
     template: Greater_Pugil_KT_GM
     script:   Greater_Pugil
-    at:       [-33.428, 1.000, -32.295, 148]
+    region:   region_110
     level:    [30, 33]
   17486002:
     template: Clipper
-    at:       [-30.384, 1.000, -33.277, 111]
+    region:   region_110
     level:    [29, 32]
   17486003:
     template: Greater_Pugil_KT_GM
     script:   Greater_Pugil
+    region:   region_116
     level:    [30, 33]
   17486004:
     template: Clipper
-    at:       [-95.359, 1.000, -34.375, 127]
+    region:   region_116
     level:    [29, 32]
   17486005:
     template: Seeker_Bats_KT_RP_Qufim
@@ -2421,21 +2425,21 @@ spawns:
   17486023:
     template: Greater_Pugil_KT_GM
     script:   Greater_Pugil
-    at:       [-31.368, -5.024, 184.510, 80]
+    region:   region_124
     level:    [30, 33]
   17486024:
     template: Greater_Pugil_KT_GM
     script:   Greater_Pugil
-    at:       [-22.787, -5.000, 190.698, 116]
+    region:   region_125
     level:    [30, 33]
   17486025:
     template: Greater_Pugil_KT_GM
     script:   Greater_Pugil
-    at:       [-8.591, -5.000, 184.086, 194]
+    region:   region_126
     level:    [30, 33]
   17486026:
     template: Sea_Monk
-    at:       [-26.364, -5.648, 177.508, 38]
+    region:   region_125
     level:    [32, 35]
   17486027:
     template: Huge_Spider
@@ -2451,11 +2455,11 @@ spawns:
     level:    [28, 31]
   17486030:
     template: Huge_Spider
-    at:       [-63.688, -4.529, 139.858, 253]
+    region:   region_118
     level:    [28, 31]
   17486031:
     template: Falcatus_Aranei
-    at:       [-53.000, -4.418, 139.000, 127]
+    region:   c_203
     level:    [32, 32]
   17486032:
     template: Huge_Spider
@@ -2471,6 +2475,7 @@ spawns:
     level:    [28, 31]
   17486035:
     template: Huge_Spider
+    region:   c_212
     level:    [28, 31]
   17486036:
     template: Huge_Spider
@@ -2515,7 +2520,7 @@ spawns:
     level:    [29, 32]
   17486046:
     template: Clipper
-    at:       [-240.811, -6.191, 85.496, 127]
+    region:   region_127
     level:    [29, 32]
   17486047:
     template: Clipper
@@ -2573,12 +2578,12 @@ spawns:
   17486058:
     template: Greater_Pugil_KT_GM
     script:   Greater_Pugil
-    at:       [-249.589, -5.000, 71.915, 74]
+    region:   region_128
     level:    [30, 33]
   17486059:
     template: Seeker_Bats_KT_RP_Qufim
     script:   Seeker_Bats
-    at:       [-219.000, -5.999, 47.000, 127]
+    region:   region_129
     level:    [22, 26]
   17486060:
     template: Seeker_Bats_KT_RP_Qufim
@@ -2627,33 +2632,34 @@ spawns:
     level:    [23, 27]
   17486069:
     template: Sea_Monk
-    at:       [-260.829, -5.699, -64.481, 150]
+    region:   region_120
     level:    [32, 35]
   17486070:
     template: Greater_Pugil_KT_GM
     script:   Greater_Pugil
+    region:   region_121
     level:    [30, 33]
   17486071:
     template: Clipper
-    at:       [-164.000, -0.500, -84.000, 127]
+    region:   region_130
     level:    [29, 32]
   17486072:
     template: Greater_Pugil_KT_GM
     script:   Greater_Pugil
-    at:       [-249.287, -5.000, -60.627, 82]
+    region:   region_120
     level:    [30, 33]
   17486073:
     template: Clipper
-    at:       [-153.000, -0.500, -83.000, 127]
+    region:   region_131
     level:    [29, 32]
   17486074:
     template: Greater_Pugil_KT_GM
     script:   Greater_Pugil
-    at:       [-256.268, -5.000, -72.287, 1]
+    region:   region_119
     level:    [30, 33]
   17486075:
     template: Clipper
-    at:       [-144.000, -0.500, -60.000, 127]
+    region:   region_132
     level:    [29, 32]
   17486076:
     template: Seeker_Bats_KT_RP_Qufim
@@ -2711,34 +2717,34 @@ spawns:
     level:    [28, 31]
   17486089:
     template: Sea_Monk
-    at:       [-366.005, -5.598, 61.927, 15]
+    region:   region_135
     level:    [32, 35]
   17486090:
     template: Greater_Pugil_KT_GM
     script:   Greater_Pugil
-    at:       [-383.629, -5.000, 72.130, 129]
+    region:   region_137
     level:    [30, 33]
   17486091:
     template: Clipper
-    at:       [-106.000, -0.500, -49.000, 127]
+    region:   region_133
     level:    [29, 32]
   17486092:
     template: Greater_Pugil_KT_GM
     script:   Greater_Pugil
-    at:       [-378.905, -5.245, 61.487, 20]
+    region:   region_135
     level:    [30, 33]
   17486093:
     template: Clipper
-    at:       [-388.000, -5.000, 62.000, 55]
+    region:   region_135
     level:    [29, 32]
   17486094:
     template: Greater_Pugil_KT_GM
     script:   Greater_Pugil
-    at:       [-372.740, -5.421, 56.098, 189]
+    region:   region_136
     level:    [30, 33]
   17486095:
     template: Clipper
-    at:       [-85.000, -0.500, -37.000, 127]
+    region:   region_134
     level:    [29, 32]
   17486096:
     template: Thread_Leech
@@ -2786,19 +2792,19 @@ spawns:
     level:    [89, 91]
   17486107:
     template: Spool_Leech
-    at:       [-326.000, -10.000, 220.000, 83]
+    region:   nw_281
     level:    [89, 91]
   17486108:
     template: Spool_Leech
-    at:       [-338.032, -10.500, 239.306, 127]
+    region:   nw_281
     level:    [89, 91]
   17486109:
     template: Spool_Leech
-    at:       [-352.950, -10.693, 275.932, 127]
+    region:   region_138
     level:    [89, 91]
   17486110:
     template: Lacerator
-    at:       [-365.000, -10.436, 270.000, 84]
+    region:   region_138
     level:    [87, 89]
   17486111:
     template: Thread_Leech
@@ -2874,7 +2880,7 @@ spawns:
     level:    [30, 33]
   17486129:
     template: Dame_Blanche
-    at:       [-361.894, -0.500, 121.675, 5]
+    region:   w_302
     level:    [34, 35]
   17486130:
     template: Water_Elemental
@@ -2945,7 +2951,7 @@ spawns:
   17486146:
     template: Combat_KT
     script:   Combat
-    at:       [197.106, -1.744, 73.748, 127]
+    region:   region_99
     level:    [27, 30]
   17486147:
     template: Combat_KT
@@ -2955,22 +2961,22 @@ spawns:
   17486148:
     template: Combat_KT
     script:   Combat
-    at:       [141.005, 0.241, 73.153, 127]
+    region:   region_100
     level:    [27, 30]
   17486149:
     template: Combat_KT
     script:   Combat
-    at:       [120.228, -1.719, 74.787, 127]
+    region:   region_101
     level:    [27, 30]
   17486150:
     template: Combat_KT
     script:   Combat
-    at:       [107.125, -0.821, 89.632, 127]
+    region:   region_102
     level:    [27, 30]
   17486151:
     template: Combat_KT
     script:   Combat
-    at:       [98.966, -0.934, 70.145, 43]
+    region:   region_103
     level:    [27, 30]
   17486152:
     template: Combat_KT
@@ -2980,12 +2986,12 @@ spawns:
   17486153:
     template: Combat_KT
     script:   Combat
-    at:       [68.747, -3.523, 92.515, 127]
+    region:   region_104
     level:    [27, 30]
   17486154:
     template: Combat_KT
     script:   Combat
-    at:       [56.328, -0.143, 86.890, 70]
+    region:   region_105
     level:    [27, 30]
   17486155:
     template: Combat_KT
@@ -3005,32 +3011,32 @@ spawns:
   17486158:
     template: Combat_KT
     script:   Combat
-    at:       [30.348, -1.470, 27.121, 127]
+    region:   region_106
     level:    [27, 30]
   17486159:
     template: Combat_KT
     script:   Combat
-    at:       [3.086, -1.469, 46.108, 76]
+    region:   region_107
     level:    [27, 30]
   17486160:
     template: Combat_KT
     script:   Combat
-    at:       [-3.427, -1.645, 27.233, 127]
+    region:   region_108
     level:    [27, 30]
   17486161:
     template: Combat_KT
     script:   Combat
-    at:       [-39.139, -1.560, 51.861, 18]
+    region:   region_108
     level:    [27, 30]
   17486162:
     template: Combat_KT
     script:   Combat
-    at:       [-40.824, -1.664, 26.969, 124]
+    region:   region_117
     level:    [27, 30]
   17486163:
     template: Combat_KT
     script:   Combat
-    at:       [-80.994, -2.317, 51.934, 117]
+    region:   region_122
     level:    [27, 30]
   17486164:
     template: Combat_KT
@@ -3040,7 +3046,7 @@ spawns:
   17486165:
     template: Combat_KT
     script:   Combat
-    at:       [-126.000, -1.000, 26.000, 36]
+    region:   region_123
     level:    [27, 30]
   17486166:
     template: Gigas_Stonemason
