@@ -2539,7 +2539,7 @@ spawns:
     level:    [17, 19]
   16785461:
     template: Water_Elemental
-    at:       [-311.574, -2.599, 589.306, 54]
+    region:   nw_52
     level:    [24, 26]
   16785462:
     template: Land_Pugil
@@ -2547,7 +2547,7 @@ spawns:
     level:    [17, 19]
   16785463:
     template: Water_Elemental
-    at:       [-338.290, -4.719, 589.018, 127]
+    region:   nw_54
     level:    [24, 26]
   16785464:
     template: Land_Pugil
@@ -2786,7 +2786,7 @@ spawns:
     level:    [22, 24]
   16785521:
     template: Water_Elemental
-    at:       [-186.750, -3.510, 90.604, 71]
+    region:   c_111
     level:    [29, 31]
   16785522:
     template: Fosse_Pugil
@@ -2794,7 +2794,7 @@ spawns:
     level:    [22, 24]
   16785523:
     template: Water_Elemental
-    at:       [-144.915, -3.140, 14.114, 29]
+    region:   c_114
     level:    [29, 31]
   16785524:
     template: Fosse_Pugil
@@ -2802,7 +2802,7 @@ spawns:
     level:    [22, 24]
   16785525:
     template: Water_Elemental
-    at:       [-184.813, -2.807, -125.788, 180]
+    region:   c_116
     level:    [29, 31]
   16785526:
     template: Stag_Beetle
@@ -3100,7 +3100,7 @@ spawns:
     level:    [22, 24]
   16785599:
     template: Water_Elemental
-    at:       [-225.703, -3.787, -269.768, 74]
+    region:   c_189
     level:    [29, 31]
   16785600:
     template: Stag_Beetle
@@ -3235,7 +3235,7 @@ spawns:
     level:    [22, 24]
   16785632:
     template: Water_Elemental
-    at:       [-108.133, -4.420, -518.954, 154]
+    region:   s_222
     level:    [29, 31]
   16785633:
     template: Diving_Beetle
@@ -3451,7 +3451,7 @@ spawns:
     level:    [29, 31]
   16785683:
     template: Water_Elemental
-    at:       [86.747, -4.381, -430.457, 42]
+    region:   se_273
     level:    [36, 38]
   16785684:
     template: Spinous_Pugil
@@ -3459,7 +3459,7 @@ spawns:
     level:    [29, 31]
   16785685:
     template: Water_Elemental
-    at:       [213.543, -2.136, -488.857, 75]
+    region:   se_276
     level:    [36, 38]
   16785686:
     template: Spinous_Pugil
@@ -3467,7 +3467,7 @@ spawns:
     level:    [29, 31]
   16785687:
     template: Water_Elemental
-    at:       [207.822, -5.230, -560.125, 67]
+    region:   se_278
     level:    [36, 38]
   16785688:
     template: Diving_Beetle
