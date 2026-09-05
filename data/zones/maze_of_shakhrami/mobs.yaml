@@ -2463,7 +2463,7 @@ spawns:
     level:    [18, 21]
   17588278:
     template: Trembler_Tabitha
-    at:       [-103.800, 0.300, -96.700, 60]
+    region:   w_52
     level:    [55, 55]
   17588279:
     template: Goblin_Ambusher
@@ -2663,32 +2663,32 @@ spawns:
   17588323:
     template: Ghoul_war_GM_MoS
     script:   Ghoul
-    at:       [-187.317, -1.029, -11.248, 127]
+    region:   region_81
     level:    [22, 26]
   17588324:
     template: Ghoul_war_GM_MoS
     script:   Ghoul
-    at:       [-58.784, -1.294, -21.340, 32]
+    region:   region_82
     level:    [22, 26]
   17588325:
     template: Ghoul_war_GM_MoS
     script:   Ghoul
-    at:       [-98.372, -1.042, -102.696, 127]
+    region:   region_83
     level:    [22, 26]
   17588326:
     template: Ghoul_war_GM_MoS
     script:   Ghoul
-    at:       [231.000, 18.000, -199.000, 127]
+    region:   region_86
     level:    [22, 26]
   17588327:
     template: Ghoul_war_GM_MoS
     script:   Ghoul
-    at:       [276.000, 18.000, -248.000, 127]
+    region:   region_87
     level:    [22, 26]
   17588328:
     template: Wendigo_blm_MoS
     script:   Wendigo
-    at:       [-70.828, -10.798, 156.023, 12]
+    region:   region_84
     level:    [24, 28]
   17588329:
     template: Combat_MoS
@@ -2840,7 +2840,7 @@ spawns:
     level:    [84, 85]
   17588362:
     template: Chaser_Bats
-    at:       [123.294, -0.799, 86.650, 24]
+    region:   n_149
     level:    [84, 85]
   17588363:
     template: Air_Elemental
@@ -2872,15 +2872,15 @@ spawns:
     level:    [83, 85]
   17588370:
     template: Crypterpillar
-    at:       [141.811, -0.808, 22.382, 1]
+    region:   c_166
     level:    [87, 88]
   17588371:
     template: Air_Elemental
-    at:       [116.946, 0.234, 10.967, 127]
+    region:   c_161
     level:    [33, 36]
   17588372:
     template: Earth_Elemental
-    at:       [156.495, -0.472, 5.078, 33]
+    region:   c_161
     level:    [33, 36]
   17588373:
     template: Bleeder_Leech
@@ -2908,7 +2908,7 @@ spawns:
     level:    [33, 36]
   17588379:
     template: Earth_Elemental
-    at:       [166.515, 0.266, -52.960, 118]
+    region:   c_184
     level:    [33, 36]
   17588380:
     template: Bleeder_Leech
@@ -2972,7 +2972,7 @@ spawns:
     level:    [84, 85]
   17588395:
     template: Chaser_Bats
-    at:       [266.752, -1.626, -146.686, 127]
+    region:   se_215
     level:    [84, 85]
   17588396:
     template: Bleeder_Leech
@@ -2996,11 +2996,11 @@ spawns:
     level:    [84, 85]
   17588401:
     template: Crypterpillar
-    at:       [224.580, -0.513, -146.274, 127]
+    region:   se_210
     level:    [87, 88]
   17588402:
     template: Chaser_Bats
-    at:       [240.309, -0.461, -115.896, 107]
+    region:   se_205
     level:    [84, 85]
   17588403:
     template: Crypterpillar
@@ -3028,7 +3028,7 @@ spawns:
     level:    [84, 85]
   17588409:
     template: Crypterpillar
-    at:       [190.000, -1.000, -106.000, 127]
+    region:   e_195
     level:    [87, 88]
   17588410:
     template: Crypterpillar
@@ -3197,12 +3197,12 @@ spawns:
   17588450:
     template: Ghoul_war_GM_MoS
     script:   Ghoul
-    at:       [-179.574, 9.567, -67.017, 62]
+    region:   sw_267
     level:    [22, 26]
   17588451:
     template: Wendigo_blm_MoS
     script:   Wendigo
-    at:       [-179.191, 9.316, -118.260, 127]
+    region:   sw_267
     level:    [24, 28]
   17588452:
     template: Ancient_Bat_LDT_MoS
@@ -3296,22 +3296,22 @@ spawns:
   17588470:
     template: Ghoul_war_GM_MoS
     script:   Ghoul
-    at:       [-197.695, 19.500, 1.674, 31]
+    region:   w_277
     level:    [22, 26]
   17588471:
     template: Wendigo_blm_MoS
     script:   Wendigo
-    at:       [258.790, -1.150, 62.367, 216]
+    region:   region_85
     level:    [24, 28]
   17588472:
     template: Ghoul_war_GM_MoS
     script:   Ghoul
-    at:       [190.748, 2.905, 15.168, 86]
+    region:   region_88
     level:    [22, 26]
   17588473:
     template: Wendigo_blm_MoS
     script:   Wendigo
-    at:       [164.111, 17.934, -20.229, 3]
+    region:   region_88
     level:    [24, 28]
   17588474:
     template: Goblin_Ambusher
@@ -3370,12 +3370,12 @@ spawns:
   17588487:
     template: Ghoul_war_GM_MoS
     script:   Ghoul
-    at:       [59.467, 19.499, -4.648, 127]
+    region:   region_89
     level:    [22, 26]
   17588488:
     template: Ghoul_war_GM_MoS
     script:   Ghoul
-    at:       [-18.157, 19.625, -6.461, 127]
+    region:   c_308
     level:    [22, 26]
   17588489:
     template: Jelly_MS_OC
@@ -3468,15 +3468,15 @@ spawns:
     level:    [20, 23]
   17588510:
     template: Goblin_Mugger
-    at:       [-47.848, 19.576, -47.172, 127]
+    region:   c_327
     level:    [22, 26]
   17588511:
     template: Goblin_Leecher
-    at:       [-45.615, 19.990, -63.870, 127]
+    region:   c_327
     level:    [22, 26]
   17588512:
     template: Goblin_Gambler
-    at:       [-125.000, 19.000, -34.000, 93]
+    region:   c_327
     level:    [22, 26]
   17588513:
     template: Abyss_Worm
@@ -3534,22 +3534,22 @@ spawns:
   17588525:
     template: Wight_war
     script:   Wight
-    at:       [-105.838, 17.690, -96.894, 64]
+    region:   sw_343
     level:    [32, 35]
   17588526:
     template: Wight_blm
     script:   Wight
-    at:       [57.599, 19.048, 46.960, 176]
+    region:   region_90
     level:    [32, 35]
   17588527:
     template: Wight_war
     script:   Wight
-    at:       [-23.429, 20.218, 10.213, 59]
+    region:   region_91
     level:    [32, 35]
   17588528:
     template: Wight_blm
     script:   Wight
-    at:       [-49.120, 18.633, -13.697, 31]
+    region:   region_92
     level:    [32, 35]
   17588529:
     template: Wight_war
@@ -3735,72 +3735,72 @@ spawns:
   17588570:
     template: Wight_war
     script:   Wight
-    at:       [-36.483, 19.319, 5.305, 190]
+    region:   c_306
     level:    [32, 35]
   17588571:
     template: Wight_blm
     script:   Wight
-    at:       [99.726, 12.857, -185.486, 41]
+    region:   s_391
     level:    [32, 35]
   17588572:
     template: Wight_war
     script:   Wight
-    at:       [102.059, 19.287, -164.017, 62]
+    region:   s_391
     level:    [32, 35]
   17588573:
     template: Wight_blm
     script:   Wight
-    at:       [111.173, 19.993, -144.990, 127]
+    region:   s_391
     level:    [32, 35]
   17588574:
     template: Wight_war
     script:   Wight
-    at:       [141.000, 9.000, -224.000, 127]
+    region:   region_93
     level:    [32, 35]
   17588575:
     template: Wight_blm
     script:   Wight
-    at:       [-29.728, 20.210, -57.849, 139]
+    region:   region_94
     level:    [32, 35]
   17588576:
     template: Wight_war
     script:   Wight
-    at:       [-70.412, 19.282, -48.405, 138]
+    region:   w_320
     level:    [32, 35]
   17588577:
     template: Wight_blm
     script:   Wight
-    at:       [-60.305, 18.844, -57.265, 219]
+    region:   region_95
     level:    [32, 35]
   17588578:
     template: Wight_war
     script:   Wight
-    at:       [141.000, 10.000, -201.000, 118]
+    region:   s_398
     level:    [32, 35]
   17588579:
     template: Wight_blm
     script:   Wight
-    at:       [150.059, 3.787, -184.561, 113]
+    region:   s_398
     level:    [32, 35]
   17588580:
     template: Wight_war
     script:   Wight
-    at:       [-101.755, 19.197, -30.609, 65]
+    region:   region_96
     level:    [32, 35]
   17588581:
     template: Wight_blm
     script:   Wight
-    at:       [-101.440, 19.941, -31.902, 52]
+    region:   region_96
     level:    [32, 35]
   17588582:
     template: Wight_war
     script:   Wight
-    at:       [-123.752, 19.222, -46.740, 90]
+    region:   region_97
     level:    [32, 35]
   17588583:
     template: Wight_blm
     script:   Wight
-    at:       [-110.937, 19.526, -48.500, 52]
+    region:   region_97
     level:    [32, 35]
   17588584:
     template: Ancient_Bat_LDT_MoS
@@ -3912,32 +3912,32 @@ spawns:
   17588609:
     template: Ghoul_war_GM_MoS
     script:   Ghoul
-    at:       [86.860, 18.883, -126.675, 199]
+    region:   region_98
     level:    [22, 26]
   17588610:
     template: Wendigo_blm_MoS
     script:   Wendigo
-    at:       [322.000, 19.517, -140.000, 64]
+    region:   se_423
     level:    [24, 28]
   17588611:
     template: Ghoul_war_GM_MoS
     script:   Ghoul
-    at:       [101.074, 18.418, -99.322, 31]
+    region:   region_99
     level:    [22, 26]
   17588612:
     template: Wendigo_blm_MoS
     script:   Wendigo
-    at:       [292.198, 20.132, -138.770, 127]
+    region:   se_430
     level:    [24, 28]
   17588613:
     template: Ghoul_war_GM_MoS
     script:   Ghoul
-    at:       [114.680, 19.239, -74.301, 162]
+    region:   region_100
     level:    [22, 26]
   17588614:
     template: Wendigo_blm_MoS
     script:   Wendigo
-    at:       [300.796, 19.791, -132.434, 127]
+    region:   se_430
     level:    [24, 28]
   17588615:
     template: Carnivorous_Crawler_MS
@@ -3967,12 +3967,12 @@ spawns:
   17588620:
     template: Ghoul_war_GM_MoS
     script:   Ghoul
-    at:       [140.650, 9.262, -222.604, 182]
+    region:   s_394
     level:    [22, 26]
   17588621:
     template: Wendigo_blm_MoS
     script:   Wendigo
-    at:       [262.238, 18.940, -85.907, 127]
+    region:   region_93
     level:    [24, 28]
   17588622:
     template: Poison_Leech
@@ -4006,7 +4006,6 @@ spawns:
     level:    [31, 34]
   17588629:
     template: Goblins_Bat
-    region:   e_404
     level:    [24, 26]
   17588630:
     template: Goblin_Furrier
@@ -4022,7 +4021,7 @@ spawns:
     level:    [31, 34]
   17588633:
     template: Goblin_Pathfinder
-    at:       [297.000, 20.000, -135.000, 127]
+    region:   se_430
     level:    [31, 34]
   17588634:
     template: Goblins_Bat
@@ -4030,6 +4029,7 @@ spawns:
     level:    [24, 26]
   17588635:
     template: Goblin_Furrier
+    region:   se_430
     level:    [31, 34]
   17588636:
     template: Goblin_Smithy
@@ -4140,55 +4140,53 @@ spawns:
     level:    [31, 34]
   17588661:
     template: Goblin_Pathfinder
-    region:   e_437
+    region:   region_102
     level:    [33, 34]
   17588662:
     template: Goblins_Bat
-    region:   e_437
     level:    [24, 26]
   17588663:
     template: Goblin_Furrier
-    region:   e_437
+    region:   region_102
     level:    [31, 34]
   17588664:
     template: Goblin_Smithy
-    region:   e_437
+    region:   region_102
     level:    [31, 34]
   17588665:
     template: Goblin_Shaman
-    region:   e_437
+    region:   region_102
     level:    [31, 34]
   17588666:
     template: Goblin_Pathfinder
-    region:   e_437
+    region:   region_102
     level:    [31, 34]
   17588667:
     template: Goblins_Bat
-    region:   e_437
     level:    [24, 26]
   17588668:
     template: Goblin_Furrier
-    region:   e_437
+    region:   region_102
     level:    [31, 34]
   17588669:
     template: Goblin_Smithy
-    region:   e_437
+    region:   region_102
     level:    [31, 34]
   17588670:
     template: Goblin_Shaman
-    region:   e_437
+    region:   region_102
     level:    [31, 34]
   17588671:
     template: Labyrinth_Scorpion
-    region:   e_437
+    region:   region_102
     level:    [30, 33]
   17588672:
     template: Labyrinth_Scorpion
-    region:   e_437
+    region:   region_102
     level:    [30, 33]
   17588673:
     template: Protozoan
-    region:   e_437
+    region:   region_102
     level:    [29, 31]
   17588674:
     template: Argus
@@ -4238,7 +4236,7 @@ spawns:
     level:    [24, 28]
   17588685:
     template: Leech_King
-    at:       [270.000, 18.000, -205.000, 127]
+    region:   region_101
     level:    [35, 36]
   17588686:
     template: Poison_Leech
@@ -4274,33 +4272,37 @@ spawns:
     level:    [24, 28]
   17588694:
     template: Protozoan
-    at:       [269.119, 20.226, -229.505, 68]
+    region:   se_453
     level:    [29, 31]
   17588695:
     template: Wight_blm
     script:   Wight
+    region:   region_103
     level:    [32, 35]
   17588696:
     template: Wight_war
     script:   Wight
+    region:   region_103
     level:    [32, 35]
   17588697:
     template: Wight_blm
     script:   Wight
+    region:   region_87
     level:    [32, 35]
   17588698:
     template: Wight_war
     script:   Wight
+    region:   region_87
     level:    [32, 35]
   17588699:
     template: Wight_war
     script:   Wight
-    at:       [231.621, 19.263, -199.838, 128]
+    region:   region_86
     level:    [32, 35]
   17588700:
     template: Wight_blm
     script:   Wight
-    at:       [237.567, 19.470, -197.699, 242]
+    region:   se_462
     level:    [32, 35]
   17588701:
     template: Wyrmfly
