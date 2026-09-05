@@ -1237,7 +1237,7 @@ spawns:
     level:    [8, 10]
   17354784:
     template: Orcish_Flamethrower
-    at:       [-25.006, -20.855, -83.545, 65]
+    region:   region_36
     level:    [16, 18]
   17354785:
     template: Orcish_Fodder
@@ -1397,7 +1397,7 @@ spawns:
     level:    [8, 10]
   17354815:
     template: Orcish_Flamethrower
-    at:       [-32.396, -24.173, 127.006, 198]
+    region:   region_37
     level:    [16, 18]
   17354816:
     template: Orcish_Fodder
@@ -1473,7 +1473,7 @@ spawns:
     level:    [8, 10]
   17354828:
     template: Hundredscar_Hajwaj
-    at:       [1.000, -28.000, -52.000, 123]
+    region:   sw_72
     level:    [12, 13]
   17354829:
     template: Orcish_Fodder
@@ -1665,11 +1665,11 @@ spawns:
           end:    5
   17354864:
     template: Orcish_Stonechucker
-    at:       [183.152, -46.597, 101.022, 61]
+    region:   region_38
     level:    [11, 13]
   17354865:
     template: Orcish_Fighter
-    at:       [183.865, -46.357, 103.986, 6]
+    region:   region_38
     level:    [21, 21]
   17354866:
     template: Orcish_Grunt
@@ -1705,32 +1705,32 @@ spawns:
           end:    4
   17354871:
     template: Orcish_Grunt
-    at:       [49.981, -51.347, 85.212, 127]
+    region:   region_39
     level:    [11, 13]
   17354872:
     template: Orcish_Stonechucker
-    at:       [81.000, -52.000, 105.000, 53]
+    region:   region_39
     level:    [11, 13]
   17354873:
     template: Orcish_Neckchopper
-    at:       [49.000, -52.000, 95.000, 127]
+    region:   region_39
     level:    [11, 13]
   17354874:
     template: Orcish_Grunt
-    at:       [31.394, -51.923, 98.771, 52]
+    region:   region_39
     level:    [11, 13]
   17354875:
     template: Orcish_Stonechucker
-    at:       [86.000, -60.000, 31.000, 127]
+    region:   c_190
     level:    [11, 13]
   17354876:
     template: Orcish_Neckchopper
-    at:       [93.000, -55.000, 85.000, 127]
+    region:   region_39
     level:    [11, 13]
   17354877:
     template: Spectacled_Bats_FG
     script:   Spectacled_Bats
-    at:       [40.366, -51.997, 103.596, 127]
+    region:   region_39
     level:    [6, 8]
     attributes:
       spawn:
@@ -1740,7 +1740,7 @@ spawns:
   17354878:
     template: Cheiroptera_FG
     script:   Cheiroptera
-    at:       [33.000, -52.000, 103.000, 102]
+    region:   region_39
     level:    [8, 10]
     attributes:
       spawn:
@@ -1749,7 +1749,7 @@ spawns:
           end:    6
   17354879:
     template: Orcish_Flamethrower
-    at:       [72.732, -51.576, 84.155, 197]
+    region:   region_40
     level:    [16, 18]
   17354880:
     template: Orcish_Grunt
@@ -1814,7 +1814,7 @@ spawns:
   17354895:
     template: Orcish_Fighter_2
     script:   Orcish_Fighter
-    at:       [19.099, -48.178, 35.343, 127]
+    region:   c_136
     level:    [21, 21]
   17354896:
     template: Chariotbuster_Byakzak
@@ -1822,7 +1822,7 @@ spawns:
     level:    [23, 24]
   17354897:
     template: Orcish_Flamethrower
-    at:       [51.361, -49.007, 21.917, 127]
+    region:   region_41
     level:    [16, 18]
   17354898:
     template: Orcish_Grunt
@@ -1976,15 +1976,15 @@ spawns:
           end:    6
   17354931:
     template: Orcish_Stonechucker
-    at:       [145.000, -45.599, -108.000, 127]
+    region:   region_42
     level:    [11, 13]
   17354932:
     template: Orcish_Fighter
-    at:       [140.382, -45.599, -104.377, 127]
+    region:   region_42
     level:    [21, 21]
   17354933:
     template: Orcish_Flamethrower
-    at:       [111.626, -43.474, -96.720, 58]
+    region:   region_43
     level:    [16, 18]
   17354934:
     template: Orcish_Grunt
@@ -2098,11 +2098,11 @@ spawns:
     level:    [21, 21]
   17354957:
     template: Orcish_Stonechucker
-    at:       [69.992, -61.599, 16.824, 79]
+    region:   region_44
     level:    [14, 17]
   17354958:
     template: Orcish_Cursemaker
-    at:       [67.789, -61.599, 20.341, 127]
+    region:   region_44
     level:    [21, 21]
   17354959:
     template: Orcish_Neckchopper
@@ -2114,7 +2114,7 @@ spawns:
     level:    [21, 21]
   17354961:
     template: Orcish_Flamethrower
-    at:       [130.026, -60.693, 18.403, 253]
+    region:   region_45
     level:    [16, 18]
   17354962:
     template: Orcish_Grunt
