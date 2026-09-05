@@ -2890,7 +2890,7 @@ spawns:
     level:    [20, 21]
   17260612:
     template: Will-o-the-Wisp
-    at:       [-444.580, -8.890, -189.219, 217]
+    region:   sw_47
     level:    [25, 27]
   17260613:
     template: Backoo
@@ -2994,8 +2994,8 @@ spawns:
     level:    [18, 19]
   17260636:
     template: Zombie_war
-    region:   nw_78
     script:   Zombie
+    region:   nw_78
     level:    [18, 19]
   17260637:
     template: Ghoul_blm
@@ -3234,13 +3234,13 @@ spawns:
     level:    [19, 20]
   17260694:
     template: Zombie_war
-    region:   n_139
     script:   Zombie
+    region:   n_139
     level:    [21, 22]
   17260695:
     template: Ghoul_blm
-    region:   n_139
     script:   Ghoul
+    region:   n_139
     level:    [22, 23]
   17260696:
     template: Sylvestre
@@ -3327,7 +3327,7 @@ spawns:
     level:    [22, 23]
   17260716:
     template: Will-o-the-Wisp
-    at:       [-77.242, -0.450, -157.954, 244]
+    region:   s_152
     level:    [25, 27]
   17260717:
     template: Air_Elemental
@@ -3633,7 +3633,7 @@ spawns:
     level:    [22, 23]
   17260790:
     template: Will-o-the-Wisp
-    at:       [0.782, -16.255, 5.094, 32]
+    region:   c_228
     level:    [25, 27]
   17260791:
     template: Air_Elemental
@@ -3778,8 +3778,8 @@ spawns:
     level:    [21, 22]
   17260826:
     template: Ghoul_blm
-    region:   n_266
     script:   Ghoul
+    region:   n_266
     level:    [22, 23]
   17260827:
     template: Ghoul_blm
@@ -3788,7 +3788,7 @@ spawns:
     level:    [22, 23]
   17260828:
     template: Will-o-the-Wisp
-    at:       [142.186, -24.193, 165.765, 80]
+    region:   n_266
     level:    [25, 27]
   17260829:
     template: Air_Elemental
@@ -4005,7 +4005,7 @@ spawns:
     level:    [23, 24]
   17260880:
     template: Will-o-the-Wisp
-    at:       [362.571, -0.435, -86.687, 45]
+    region:   e_318
     level:    [25, 27]
   17260881:
     template: Air_Elemental
@@ -4066,7 +4066,7 @@ spawns:
   17260895:
     template: Zombie_war
     script:   Zombie
-    at:       [452.844, 1.990, -222.982, 7]
+    region:   se_338
     level:    [21, 22]
   17260896:
     template: Ghoul_blm
@@ -4075,7 +4075,7 @@ spawns:
     level:    [23, 24]
   17260897:
     template: Will-o-the-Wisp
-    at:       [407.880, -0.201, -202.098]
+    region:   se_338
     level:    [23, 24]
   17260898:
     template: Air_Elemental
@@ -4115,7 +4115,7 @@ spawns:
     level:    [23, 24]
   17260907:
     template: Helldiver
-    at:       [475.000, -0.500, -240.000, 127]
+    region:   se_355
     level:    [29, 30]
   17260908:
     template: Goblin_Mugger
@@ -4192,20 +4192,20 @@ spawns:
   17260926:
     template: Zombie_war
     script:   Zombie
-    at:       [344.738, 0.251, 89.080, 79]
+    region:   e_368
     level:    [21, 22]
   17260927:
     template: Ghoul_blm
     script:   Ghoul
-    at:       [441.661, 0.258, 20.120, 127]
+    region:   e_368
     level:    [23, 24]
   17260928:
     template: Will-o-the-Wisp
-    at:       [328.918, -0.350, 39.699, 24]
+    region:   e_368
     level:    [25, 27]
   17260929:
     template: Air_Elemental
-    at:       [419.798, 0.462, -83.507, 127]
+    region:   e_368
     level:    [28, 30]
   17260930:
     template: Carnivorous_Crawler
@@ -4328,7 +4328,7 @@ spawns:
     level:    [23, 24]
   17260959:
     template: Will-o-the-Wisp
-    at:       [314.331, -0.408, 126.959, 252]
+    region:   e_397
     level:    [25, 27]
   17260960:
     template: Air_Elemental
@@ -4372,11 +4372,11 @@ spawns:
     level:    [23, 24]
   17260970:
     template: Bogy
-    at:       [361.000, -8.000, 278.000, 127]
+    region:   ne_417
     level:    [23, 25]
   17260971:
     template: Will-o-the-Wisp
-    at:       [311.952, -1.448, 342.727, 141]
+    region:   ne_417
     level:    [25, 27]
   17260972:
     template: Air_Elemental
@@ -4447,7 +4447,7 @@ spawns:
     level:    [23, 24]
   17260988:
     template: Will-o-the-Wisp
-    at:       [353.833, 0.189, 221.934, 160]
+    region:   ne_432
     level:    [25, 27]
   17260989:
     template: Air_Elemental
@@ -4511,7 +4511,7 @@ spawns:
     level:    [26, 27]
   17261003:
     template: Buburimboo
-    at:       [444.916, 19.499, 154.289, 78]
+    region:   e_454
     level:    [30, 31]
   17261004:
     template: Bogy
