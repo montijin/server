@@ -3186,7 +3186,7 @@ spawns:
     level:    [36, 38]
   17207308:
     template: Lumber_Jack
-    at:       [-670.000, -23.000, 352.000, 127]
+    region:   nw_6
     level:    [55, 55]
   17207309:
     template: May_Fly
@@ -3380,7 +3380,7 @@ spawns:
     level:    [26, 32]
   17207353:
     template: Ignis_Fatuus
-    at:       [-269.239, -27.089, -56.951, 127]
+    region:   c_47
     level:    [34, 35]
   17207354:
     template: May_Fly
@@ -3544,15 +3544,15 @@ spawns:
     level:    [38, 40]
   17207391:
     template: Goblin_Furrier
-    at:       [-457.282, -15.717, -93.748, 127]
+    region:   region_49
     level:    [30, 31]
   17207392:
     template: Goblin_Smithy
-    at:       [-459.340, -15.765, -88.176, 54]
+    region:   region_49
     level:    [30, 31]
   17207393:
     template: Goblin_Shaman
-    at:       [-460.460, -16.276, -99.022, 14]
+    region:   region_49
     level:    [30, 31]
   17207394:
     template: May_Fly
@@ -3693,7 +3693,7 @@ spawns:
     level:    [26, 27]
   17207426:
     template: Orcish_Brawler
-    at:       [-367.261, -16.106, 271.735, 15]
+    region:   region_52
     level:    [30, 31]
   17207427:
     template: Goblin_Mugger
@@ -3713,7 +3713,7 @@ spawns:
     level:    [26, 27]
   17207431:
     template: Goblin_Furrier
-    at:       [-448.950, -14.149, 99.818, 127]
+    region:   nw_124
     level:    [30, 31]
   17207432:
     template: Goblin_Gambler
@@ -3721,7 +3721,7 @@ spawns:
     level:    [26, 27]
   17207433:
     template: Goblin_Smithy
-    at:       [-368.028, -15.730, 226.336, 117]
+    region:   region_51
     level:    [30, 31]
   17207434:
     template: Goblin_Shaman
@@ -3765,15 +3765,15 @@ spawns:
     level:    [30, 31]
   17207443:
     template: Orcish_Brawler
-    at:       [-344.625, -15.942, 255.723, 33]
+    region:   region_50
     level:    [30, 31]
   17207444:
     template: Goblin_Furrier
-    at:       [-380.918, -16.254, 102.267, 8]
+    region:   region_51
     level:    [30, 31]
   17207445:
     template: Goblin_Smithy
-    at:       [-385.019, -15.724, 101.838, 36]
+    region:   region_51
     level:    [30, 31]
   17207446:
     template: Goblin_Shaman
@@ -3865,7 +3865,7 @@ spawns:
     level:    [31, 32]
   17207466:
     template: Orcish_Fighter
-    at:       [-194.696, -1.280, 238.555, 94]
+    region:   n_171
     level:    [26, 27]
   17207467:
     template: Orcish_Impaler
@@ -3894,7 +3894,7 @@ spawns:
   17207473:
     template: Wight_war
     script:   Wight
-    at:       [-158.502, -2.097, 227.833, 133]
+    region:   n_171
     level:    [26, 32]
   17207474:
     template: Wight_blm
@@ -3903,15 +3903,15 @@ spawns:
     level:    [26, 32]
   17207475:
     template: Ice_Elemental
-    at:       [-287.589, -7.776, 267.616, 127]
+    region:   n_166
     level:    [38, 40]
   17207476:
     template: Tottering_Toby
-    at:       [-255.542, -7.872, 185.826, 64]
+    region:   n_171
     level:    [27, 28]
   17207477:
     template: Orcish_Fighter
-    at:       [-135.000, -1.000, 306.000, 84]
+    region:   region_52
     level:    [26, 27]
   17207478:
     template: Orcish_Cursemaker
@@ -4428,8 +4428,8 @@ spawns:
     level:    [26, 32]
   17207598:
     template: Wight_blm
-    region:   ne_294
     script:   Wight
+    region:   ne_294
     level:    [26, 32]
   17207599:
     template: Ba
@@ -4570,15 +4570,15 @@ spawns:
     level:    [34, 36]
   17207632:
     template: Goblin_Furrier
-    at:       [377.113, 7.714, -99.702, 85]
+    region:   region_53
     level:    [30, 31]
   17207633:
     template: Goblin_Smithy
-    at:       [378.000, 8.000, -107.000, 127]
+    region:   region_53
     level:    [30, 31]
   17207634:
     template: Goblin_Shaman
-    at:       [376.587, 7.715, -99.686, 123]
+    region:   region_53
     level:    [30, 31]
   17207635:
     template: Evil_Weapon
@@ -4602,7 +4602,7 @@ spawns:
     level:    [37, 38]
   17207640:
     template: Prankster_Maverix
-    at:       [159.000, 7.500, -314.000, 60]
+    region:   se_339
     level:    [51, 52]
   17207641:
     template: Ba
@@ -4658,8 +4658,8 @@ spawns:
     level:    [30, 31]
   17207654:
     template: Wight_war
-    region:   se_345
     script:   Wight
+    region:   se_345
     level:    [26, 32]
   17207655:
     template: Wight_blm
@@ -4668,7 +4668,7 @@ spawns:
     level:    [26, 32]
   17207656:
     template: Ice_Elemental
-    at:       [105.596, 4.769, -404.876, 62]
+    region:   se_345
     level:    [38, 40]
   17207657:
     template: Ahtu
@@ -4814,16 +4814,16 @@ spawns:
   17207691:
     template: Wight_war
     script:   Wight
-    at:       [-501.185, -24.787, 371.361, 127]
+    region:   nw_385
     level:    [26, 32]
   17207692:
     template: Wight_blm
     script:   Wight
-    at:       [-465.029, -23.954, 405.164, 127]
+    region:   nw_385
     level:    [26, 32]
   17207693:
     template: Ignis_Fatuus
-    at:       [-395.401, -23.494, 413.703, 127]
+    region:   nw_385
     level:    [34, 36]
   17207694:
     template: Treant
