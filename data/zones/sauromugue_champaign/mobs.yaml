@@ -3417,7 +3417,7 @@ spawns:
     level:    [26, 27]
   17268790:
     template: Goblin_Pathfinder
-    at:       [592.680, 23.556, 173.781, 164]
+    region:   e_38
     level:    [26, 27]
   17268791:
     template: Goblins_Beetle
@@ -3429,7 +3429,7 @@ spawns:
     level:    [26, 27]
   17268793:
     template: Goblin_Furrier
-    at:       [521.130, 23.538, 196.738, 179]
+    region:   e_38
     level:    [26, 27]
   17268794:
     template: Goblin_Gambler
@@ -3448,8 +3448,8 @@ spawns:
     level:    [26, 28]
   17268798:
     template: Wight_blm
-    region:   e_53
     script:   Wight
+    region:   e_53
     level:    [26, 28]
   17268799:
     template: Earth_Elemental
@@ -3457,7 +3457,7 @@ spawns:
     level:    [38, 40]
   17268800:
     template: Goblin_Pathfinder
-    at:       [535.734, 8.059, -61.829, 39]
+    region:   region_64
     level:    [31, 32]
   17268801:
     template: Goblins_Beetle
@@ -3465,7 +3465,7 @@ spawns:
     level:    [23, 27]
   17268802:
     template: Goblin_Furrier
-    at:       [533.068, 8.082, -64.292, 96]
+    region:   region_64
     level:    [31, 32]
   17268803:
     template: Goblin_Smithy
@@ -3473,7 +3473,7 @@ spawns:
     level:    [31, 32]
   17268804:
     template: Goblin_Shaman
-    at:       [536.934, 7.598, -63.765, 127]
+    region:   region_64
     level:    [31, 32]
   17268805:
     template: Sabertooth_Tiger_SC
@@ -3670,8 +3670,8 @@ spawns:
     level:    [29, 34]
   17268841:
     template: Wight_blm
-    region:   e_95
     script:   Wight
+    region:   e_95
     level:    [29, 34]
   17268842:
     template: Ignis_Fatuus
@@ -4031,11 +4031,11 @@ spawns:
     level:    [38, 40]
   17268909:
     template: Goblin_Mugger
-    at:       [298.168, 16.023, -96.778, 127]
+    region:   region_65
     level:    [26, 27]
   17268910:
     template: Goblin_Pathfinder
-    at:       [302.279, 16.032, -95.777, 127]
+    region:   region_65
     level:    [31, 32]
   17268911:
     template: Goblins_Beetle
@@ -4043,11 +4043,11 @@ spawns:
     level:    [26, 27]
   17268912:
     template: Goblin_Gambler
-    at:       [296.545, 15.970, -95.483, 127]
+    region:   region_65
     level:    [26, 27]
   17268913:
     template: Goblin_Smithy
-    at:       [299.212, 16.065, -98.340, 100]
+    region:   region_65
     level:    [31, 32]
   17268914:
     template: Evil_Weapon
@@ -4771,7 +4771,7 @@ spawns:
     level:    [26, 27]
   17269047:
     template: Goblin_Furrier
-    at:       [-104.000, -23.000, -361.000, 25]
+    region:   s_299
     level:    [31, 32]
   17269048:
     template: Goblin_Gambler
@@ -4797,7 +4797,7 @@ spawns:
     level:    [27, 33]
   17269053:
     template: Thunder_Elemental
-    at:       [92.631, -12.360, -306.195, 61]
+    region:   s_307
     level:    [38, 40]
   17269054:
     template: Goblin_Pathfinder
@@ -4809,7 +4809,7 @@ spawns:
     level:    [23, 27]
   17269056:
     template: Goblin_Furrier
-    at:       [-100.000, -23.000, -374.000, 89]
+    region:   s_299
     level:    [31, 32]
   17269057:
     template: Goblin_Smithy
