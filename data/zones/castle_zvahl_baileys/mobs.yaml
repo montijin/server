@@ -2203,7 +2203,7 @@ spawns:
     level:    [46, 48]
   17436678:
     template: Dark_Elemental
-    at:       [299.000, -16.000, -20.000, 127]
+    region:   e_3
     level:    [48, 49]
   17436679:
     template: Ice_Elemental
@@ -2223,7 +2223,7 @@ spawns:
     level:    [46, 48]
   17436683:
     template: Dark_Elemental
-    at:       [292.259, -20.517, 61.493, 5]
+    region:   e_8
     level:    [48, 49]
   17436684:
     template: Ice_Elemental
@@ -2243,7 +2243,7 @@ spawns:
     level:    [46, 48]
   17436688:
     template: Dark_Elemental
-    at:       [186.604, -24.507, 22.337, 35]
+    region:   e_13
     level:    [48, 49]
   17436689:
     template: Ice_Elemental
@@ -2583,7 +2583,7 @@ spawns:
     level:    [46, 48]
   17436773:
     template: Evil_Eye
-    at:       [48.573, -24.500, 21.315, 127]
+    region:   region_94
     level:    [46, 48]
   17436774:
     template: Goblin_Poacher
@@ -2979,11 +2979,11 @@ spawns:
     level:    [64, 66]
   17436872:
     template: Blood_Demon
-    at:       [85.764, -8.500, 148.307, 127]
+    region:   n_202
     level:    [64, 66]
   17436873:
     template: Doom_Demon
-    at:       [99.354, -8.500, 142.056, 35]
+    region:   n_202
     level:    [64, 66]
   17436874:
     template: Abyssal_Demon
@@ -3015,7 +3015,7 @@ spawns:
     level:    [49, 54]
   17436881:
     template: Marquis_Sabnock
-    at:       [70.800, -8.000, -119.500, 60]
+    region:   region_101
     level:    [73, 75]
   17436882:
     template: Doom_Demon
@@ -3095,23 +3095,23 @@ spawns:
     level:    [49, 54]
   17436901:
     template: Ahriman
-    at:       [40.136, -8.525, 140.683, 127]
+    region:   region_95
     level:    [63, 65]
   17436902:
     template: Ahriman
-    at:       [35.265, -8.522, -98.959]
+    region:   region_96
     level:    [63, 65]
   17436903:
     template: Ahriman
-    at:       [-156.114, -8.527, 141.314]
+    region:   region_97
     level:    [63, 65]
   17436904:
     template: Ahriman
-    at:       [-145.473, -8.502, -98.465, 127]
+    region:   region_98
     level:    [63, 65]
   17436905:
     template: Ahriman
-    at:       [-19.288, -4.509, 91.330, 127]
+    region:   region_99
     level:    [63, 65]
   17436906:
     template: Ahriman
@@ -3123,7 +3123,7 @@ spawns:
     level:    [63, 65]
   17436908:
     template: Ahriman
-    at:       [-100.000, -4.526, -41.000, 91]
+    region:   region_100
     level:    [63, 65]
   17436909:
     template: Dread_Demon_CZB
