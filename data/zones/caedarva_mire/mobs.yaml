@@ -3735,7 +3735,7 @@ spawns:
     level:    [64, 66]
   17100829:
     template: Water_Elemental
-    at:       [135.250, -0.130, -697.086, 119]
+    region:   s_26
     level:    [70, 71]
   17100830:
     template: Puktrap
@@ -3869,7 +3869,7 @@ spawns:
     level:    [64, 66]
   17100861:
     template: Water_Elemental
-    at:       [202.899, -0.445, -560.923, 135]
+    region:   s_59
     level:    [70, 71]
   17100862:
     template: Marsh_Murre
@@ -3889,11 +3889,11 @@ spawns:
     level:    [64, 66]
   17100866:
     template: Puktrap
-    at:       [186.973, 0.650, -618.610, 53]
+    region:   region_158
     level:    [64, 66]
   17100867:
     template: Puktrap
-    at:       [158.850, 0.696, -623.267, 145]
+    region:   region_159
     level:    [64, 66]
   17100868:
     template: Caedarva_Leech
@@ -3933,7 +3933,7 @@ spawns:
     level:    [68, 70]
   17100877:
     template: Water_Elemental
-    at:       [317.504, -16.525, -360.700, 70]
+    region:   se_75
     level:    [70, 71]
   17100878:
     template: Wild_Karakul
@@ -3946,12 +3946,12 @@ spawns:
   17100880:
     template: Jnun_CM
     script:   Jnun
-    at:       [301.229, -15.545, -368.114, 241]
+    region:   region_160
     level:    [72, 73]
   17100881:
     template: Jnun_CM
     script:   Jnun
-    at:       [300.517, -15.085, -382.627, 149]
+    region:   region_161
     level:    [72, 73]
   17100882:
     template: Oil_Slick_CM
@@ -4088,7 +4088,7 @@ spawns:
   17100910:
     template: Jnun_CM
     script:   Jnun
-    at:       [135.303, -7.233, -181.500, 166]
+    region:   region_162
     level:    [72, 73]
   17100911:
     template: Mature_Treant
@@ -4201,17 +4201,17 @@ spawns:
     level:    [76, 77]
   17100935:
     template: Water_Elemental
-    at:       [446.211, -7.513, -302.275, 21]
+    region:   se_133
     level:    [70, 71]
   17100936:
     template: Jnun_CM
     script:   Jnun
-    at:       [450.107, -6.307, -299.079, 135]
+    region:   region_163
     level:    [76, 77]
   17100937:
     template: Jnun_CM
     script:   Jnun
-    at:       [462.380, -7.209, -329.571, 45]
+    region:   region_164
     level:    [76, 77]
   17100938:
     template: Spongilla_Fly
@@ -4450,7 +4450,7 @@ spawns:
     level:    [67, 69]
   17100992:
     template: Orderly_Imp
-    at:       [-427.570, 7.885, -596.115, 1]
+    region:   region_165
     level:    [66, 68]
   17100993:
     template: Marsh_Murre
@@ -4479,12 +4479,12 @@ spawns:
     level:    [67, 69]
   17100999:
     template: Qiqirn_Rock_Hound
-    at:       [-420.630, 7.504, -585.338, 127]
+    region:   region_166
     level:    [67, 69]
   17101000:
     template: Guard_Skeleton_war
     script:   Guard_Skeleton
-    at:       [-405.310, 7.643, -585.286, 126]
+    region:   region_166
     level:    [67, 69]
   17101001:
     template: Marsh_Murre
@@ -4549,16 +4549,16 @@ spawns:
   17101016:
     template: Chigoe_Small
     script:   Chigoe
-    at:       [-494.846, 5.224, -579.510, 245]
+    region:   region_167
     level:    [64, 66]
   17101017:
     template: Chigoe_Small
     script:   Chigoe
-    at:       [-493.151, 4.865, -579.481, 240]
+    region:   region_167
     level:    [64, 66]
   17101018:
     template: Orderly_Imp
-    at:       [-512.107, 10.812, -581.521, 129]
+    region:   region_167
     level:    [66, 68]
   17101019:
     template: Marsh_Murre
@@ -4671,7 +4671,7 @@ spawns:
   17101044:
     template: Jnun_CM
     script:   Jnun
-    at:       [-616.358, 12.786, -189.502, 22]
+    region:   region_168
     level:    [75, 77]
   17101045:
     template: Ephramadian_Shade_cor
@@ -4685,7 +4685,7 @@ spawns:
     level:    [75, 77]
   17101047:
     template: Water_Elemental
-    at:       [-595.500, 10.767, -182.620, 232]
+    region:   w_246
     level:    [70, 71]
   17101048:
     template: Ephramadian_Shade_rdm
@@ -4700,7 +4700,7 @@ spawns:
   17101050:
     template: Ephramadian_Shade_cor
     script:   Ephramadian_Shade
-    at:       [-700.200, 9.819, -215.940, 192]
+    region:   region_169
     level:    [75, 77]
   17101051:
     template: Ephramadian_Shade_mnk
@@ -4733,7 +4733,7 @@ spawns:
   17101057:
     template: Draugar_Servant_drg
     script:   Draugar_Servant
-    at:       [-533.845, 11.673, -219.798, 128]
+    region:   region_170
     level:    [78, 80]
   17101058:
     template: Draugars_Wyvern
@@ -4777,12 +4777,12 @@ spawns:
   17101066:
     template: Jnun_CM
     script:   Jnun
-    at:       [-423.378, -3.326, -177.261, 28]
+    region:   region_171
     level:    [75, 77]
   17101067:
     template: Jnun_CM
     script:   Jnun
-    at:       [-412.104, -3.153, -179.663, 206]
+    region:   region_172
     level:    [75, 77]
   17101068:
     template: Jnun_CM
@@ -4816,7 +4816,7 @@ spawns:
     level:    [79, 81]
   17101074:
     template: Water_Elemental
-    at:       [-415.382, -4.145, -148.733, 6]
+    region:   w_272
     level:    [70, 71]
   17101075:
     template: Draugars_Wyvern
@@ -5019,7 +5019,7 @@ spawns:
   17101119:
     template: Ephramadian_Shade_mnk
     script:   Ephramadian_Shade
-    at:       [-693.600, -8.052, 191.863, 67]
+    region:   region_173
     level:    [75, 77]
   17101120:
     template: Ephramadian_Shade_rdm
@@ -5127,7 +5127,7 @@ spawns:
     level:    [76, 76]
   17101143:
     template: Peallaidh
-    at:       [279.313, -16.214, -390.119, 69]
+    region:   s_73
     level:    [75, 75]
   17101144:
     template: Zikko
@@ -5292,12 +5292,12 @@ spawns:
   17101180:
     template: Heraldic_Imp_CM
     script:   Heraldic_Imp
-    at:       [725.780, -8.512, 511.204, 97]
+    region:   ne_382
     level:    [80, 82]
   17101181:
     template: Heraldic_Imp_CM
     script:   Heraldic_Imp
-    at:       [732.430, -7.873, 461.785, 38]
+    region:   ne_382
     level:    [80, 82]
   17101182:
     template: Heraldic_Imp_CM
