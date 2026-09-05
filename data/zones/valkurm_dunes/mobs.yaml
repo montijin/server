@@ -3526,11 +3526,11 @@ spawns:
     level:    [22, 23]
   17199186:
     template: Fire_Elemental
-    at:       [-425.130, -15.950, 268.240]
+    region:   nw_388
     level:    [38, 40]
   17199187:
     template: Fire_Elemental
-    at:       [641.780, 0.160, -192.760]
+    region:   se_138
     level:    [38, 40]
   17199188:
     template: Sand_Hare
@@ -3954,11 +3954,11 @@ spawns:
     level:    [17, 18]
   17199279:
     template: Fire_Elemental
-    at:       [805.780, 0.090, -196.650]
+    region:   se_152
     level:    [38, 40]
   17199280:
     template: Fire_Elemental
-    at:       [868.990, 0.460, -165.170]
+    region:   se_152
     level:    [38, 40]
   17199281:
     template: Snipper
@@ -4415,10 +4415,11 @@ spawns:
   17199392:
     template: Ghoul_blm
     script:   Ghoul
+    region:   c_268
     level:    [22, 23]
   17199393:
     template: Will-o-the-Wisp
-    region:   region_38
+    region:   c_268
     level:    [25, 26]
   17199394:
     template: Goblin_Mugger
@@ -4434,11 +4435,11 @@ spawns:
     level:    [23, 24]
   17199397:
     template: Fire_Elemental
-    at:       [914.750, 0.060, -282.620]
+    region:   se_152
     level:    [38, 40]
   17199398:
     template: Fire_Elemental
-    at:       [964.060, -0.010, -242.180]
+    region:   se_152
     level:    [38, 40]
   17199399:
     template: Snipper
@@ -4750,12 +4751,12 @@ spawns:
   17199474:
     template: Ghoul_blm
     script:   Ghoul
-    region:   w_372
+    region:   w_358
     level:    [22, 23]
   17199475:
     template: Ghoul_blm
     script:   Ghoul
-    region:   w_372
+    region:   w_358
     level:    [22, 23]
   17199476:
     template: Goblin_Mugger
@@ -4771,11 +4772,11 @@ spawns:
     level:    [23, 24]
   17199479:
     template: Fire_Elemental
-    at:       [-340.550, -8.375, 94.746, 102]
+    region:   w_358
     level:    [38, 40]
   17199480:
     template: Fire_Elemental
-    at:       [-305.000, -7.000, 119.000, 29]
+    region:   w_358
     level:    [38, 40]
   17199481:
     template: Sand_Hare
@@ -5105,7 +5106,7 @@ spawns:
     level:    [25, 26]
   17199561:
     template: Bogy
-    region:   w_450
+    region:   nw_428
     level:    [28, 28]
   17199562:
     template: Giant_Bat
