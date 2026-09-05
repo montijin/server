@@ -1583,7 +1583,7 @@ spawns:
     level:    [79, 81]
   17563684:
     template: Goblin_Flesher
-    at:       [248.000, -1.000, 82.000, 127]
+    region:   ne_37
     level:    [80, 82]
   17563685:
     template: Goblin_Metallurgist
@@ -1879,7 +1879,7 @@ spawns:
     level:    [20, 23]
   17563758:
     template: Goblin_Leecher
-    at:       [-238.315, -0.002, -179.249, 97]
+    region:   sw_109
     level:    [20, 23]
   17563759:
     template: Goblin_Gambler
@@ -1987,7 +1987,7 @@ spawns:
     level:    [20, 23]
   17563785:
     template: Slendlix_Spindlethumb
-    at:       [-238.000, -0.500, -167.000, 127]
+    region:   sw_109
     level:    [33, 34]
   17563786:
     template: Battle_Bat
@@ -2015,7 +2015,7 @@ spawns:
     level:    [22, 26]
   17563792:
     template: Will-o-the-Wisp
-    at:       [-299.000, 0.500, -71.000, 63]
+    region:   region_51
     level:    [23, 25]
   17563793:
     template: Boggart
@@ -2051,7 +2051,7 @@ spawns:
     level:    [22, 26]
   17563801:
     template: Nocuous_Weapon
-    at:       [-234.000, 0.476, -52.000, 127]
+    region:   w_149
     level:    [25, 27]
   17563802:
     template: Will-o-the-Wisp
@@ -2117,7 +2117,7 @@ spawns:
   17563816:
     template: Wendigo_blm
     script:   Wendigo
-    at:       [-280.269, 0.500, 126.430, 127]
+    region:   nw_166
     level:    [25, 28]
   17563817:
     template: Battle_Bat
@@ -2167,7 +2167,7 @@ spawns:
     level:    [25, 28]
   17563827:
     template: Battle_Bat
-    at:       [-263.944, 0.002, 120.664, 55]
+    region:   nw_177
     level:    [17, 20]
   17563828:
     template: Battle_Bat
@@ -2176,7 +2176,7 @@ spawns:
   17563829:
     template: Wendigo_war
     script:   Wendigo
-    at:       [-278.000, -1.000, 98.000, 127]
+    region:   region_52
     level:    [25, 28]
   17563830:
     template: Wendigo_war
@@ -2186,7 +2186,7 @@ spawns:
   17563831:
     template: Wendigo_blm
     script:   Wendigo
-    at:       [-301.000, -1.000, 104.000, 127]
+    region:   region_53
     level:    [25, 28]
   17563832:
     template: Wendigo_blm
