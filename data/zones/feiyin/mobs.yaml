@@ -2150,8 +2150,8 @@ spawns:
     level:    [77, 77]
   17612812:
     template: Revenant_SoZ_ENS_FY
-    region:   sw_13
     script:   Revenant
+    region:   sw_13
     level:    [40, 42]
   17612813:
     template: Revenant_SoZ_ENS_FY
@@ -2213,10 +2213,11 @@ spawns:
     level:    [38, 40]
   17612825:
     template: Drone
-    at:       [-192.000, -16.110, -10.340, 62]
+    region:   region_90
     level:    [41, 43]
   17612826:
     template: Drone
+    region:   region_99
     level:    [41, 43]
   17612827:
     template: Undead_Bats_FY
@@ -2230,17 +2231,19 @@ spawns:
     level:    [38, 40]
   17612829:
     template: Drone
-    at:       [-109.000, -16.110, 11.384, 177]
+    region:   region_91
     level:    [41, 43]
   17612830:
     template: Drone
+    region:   region_100
     level:    [41, 43]
   17612831:
     template: Drone
+    region:   region_101
     level:    [41, 43]
   17612832:
     template: Drone
-    at:       [-88.090, -16.110, 33.298, 226]
+    region:   region_92
     level:    [41, 43]
   17612833:
     template: Revenant_SoZ_ENS_FY
@@ -2344,10 +2347,11 @@ spawns:
     level:    [38, 40]
   17612854:
     template: Drone
+    region:   region_130
     level:    [41, 43]
   17612855:
     template: Drone
-    at:       [-12.130, -16.110, -30.658, 186]
+    region:   region_93
     level:    [41, 43]
   17612856:
     template: Clockwork_Pod_FY
@@ -2366,15 +2370,15 @@ spawns:
     level:    [41, 43]
   17612859:
     template: Mind_Hoarder
-    at:       [40.000, -15.500, -38.000, 60]
+    region:   s_56
     level:    [61, 62]
   17612860:
     template: Drone
-    at:       [-27.316, -16.113, -50.322, 83]
+    region:   region_94
     level:    [41, 43]
   17612861:
     template: Drone
-    at:       [-7.513, -16.110, -50.102, 61]
+    region:   region_95
     level:    [41, 43]
   17612862:
     template: Ore_Golem
@@ -2484,7 +2488,7 @@ spawns:
     level:    [98, 99]
   17612885:
     template: Wekufe
-    at:       [137.290, -24.620, -61.514, 107]
+    region:   se_84
     level:    [98, 99]
   17612886:
     template: Wekufe
@@ -2492,7 +2496,7 @@ spawns:
     level:    [97, 99]
   17612887:
     template: Wekufe
-    at:       [119.990, -23.920, -38.256, 214]
+    region:   se_86
     level:    [98, 98]
   17612888:
     template: Wekufe
@@ -2576,7 +2580,7 @@ spawns:
     level:    [97, 99]
   17612905:
     template: Wekufe
-    at:       [155.180, -23.980, -6.105, 246]
+    region:   e_104
     level:    [97, 97]
   17612906:
     template: Sentient_Carafe
@@ -2616,7 +2620,7 @@ spawns:
     level:    [97, 99]
   17612915:
     template: Wekufe
-    at:       [198.320, -24.110, 20.162, 95]
+    region:   e_114
     level:    [97, 99]
   17612916:
     template: Wekufe
@@ -2696,7 +2700,7 @@ spawns:
     level:    [95, 97]
   17612935:
     template: Balayang
-    at:       [113.540, -23.730, 161.651, 4]
+    region:   e_133
     level:    [95, 97]
   17612936:
     template: Balayang
@@ -2720,7 +2724,7 @@ spawns:
     level:    [95, 97]
   17612941:
     template: Balayang
-    at:       [153.790, -24.510, 211.389, 4]
+    region:   ne_139
     level:    [95, 97]
   17612942:
     template: Shadow_war
@@ -2855,19 +2859,19 @@ spawns:
     level:    [50, 52]
   17612969:
     template: Talos
-    at:       [-71.840, -0.112, 30.037, 129]
+    region:   region_103
     level:    [53, 55]
   17612970:
     template: Talos
-    at:       [-62.330, -0.500, 19.027, 10]
+    region:   region_106
     level:    [53, 55]
   17612971:
     template: Talos
-    at:       [-51.190, -0.018, 32.207, 251]
+    region:   region_105
     level:    [53, 55]
   17612972:
     template: Talos
-    at:       [-49.720, -0.112, 5.450, 104]
+    region:   region_104
     level:    [53, 55]
   17612973:
     template: Droma_FY
@@ -2900,21 +2904,22 @@ spawns:
   17612979:
     template: Camazotz_FY
     script:   Camazotz
-    at:       [-29.880, -0.112, 91.417, 180]
+    region:   region_107
     level:    [52, 54]
   17612980:
     template: Camazotz_FY
     script:   Camazotz
-    at:       [-30.250, -0.104, 91.487, 223]
+    region:   region_107
     level:    [52, 54]
   17612981:
     template: Camazotz_FY
     script:   Camazotz
+    region:   region_108
     level:    [52, 54]
   17612982:
     template: Camazotz_FY
     script:   Camazotz
-    at:       [-29.810, -0.111, 107.843, 61]
+    region:   region_108
     level:    [52, 54]
   17612983:
     template: Underworld_Bats
@@ -2931,11 +2936,12 @@ spawns:
   17612986:
     template: Utukku_EN_FY
     script:   Utukku
+    region:   region_112
     level:    [55, 57]
   17612987:
     template: Utukku_EN_FY
     script:   Utukku
-    at:       [33.566, -0.112, 111.750, 34]
+    region:   region_111
     level:    [55, 57]
   17612988:
     template: Specter_war
@@ -2972,7 +2978,7 @@ spawns:
   17612995:
     template: Utukku_EN_FY
     script:   Utukku
-    at:       [30.948, -0.112, 131.809, 150]
+    region:   region_114
     level:    [55, 57]
   17612996:
     template: Camazotz_FY
@@ -3086,7 +3092,7 @@ spawns:
   17613019:
     template: Specter_war
     script:   Specter
-    at:       [9.573, 0.232, 207.354, 77]
+    region:   n_196
     level:    [55, 57]
   17613020:
     template: Specter_blm
@@ -3096,7 +3102,7 @@ spawns:
   17613021:
     template: Specter_rng
     script:   Specter
-    at:       [10.067, -0.072, 312.463, 16]
+    region:   n_220
     level:    [55, 57]
   17613022:
     template: Specter_thf
@@ -3115,7 +3121,7 @@ spawns:
   17613025:
     template: Specter_blm
     script:   Specter
-    at:       [46.199, 0.242, 284.638, 229]
+    region:   n_224
     level:    [55, 57]
   17613026:
     template: Specter_rng
@@ -3125,7 +3131,7 @@ spawns:
   17613027:
     template: Specter_thf
     script:   Specter
-    at:       [38.814, 0.075, 282.233, 59]
+    region:   n_224
     level:    [55, 57]
   17613028:
     template: Killing_Weapon
@@ -3199,46 +3205,47 @@ spawns:
     level:    [55, 57]
   17613044:
     template: Colossus
+    region:   region_131
     level:    [56, 58]
   17613045:
     template: Goliath
-    at:       [-165.400, -0.098, 189.481, 187]
+    region:   region_115
     level:    [62, 62]
   17613046:
     template: Colossus
-    at:       [-194.800, -0.097, 169.233, 132]
+    region:   region_119
     level:    [56, 58]
   17613047:
     template: Goliath
-    at:       [-192.400, -0.035, 168.529, 247]
+    region:   region_119
     level:    [62, 62]
   17613048:
     template: Colossus
-    at:       [-110.000, -0.092, 112.000, 127]
+    region:   region_102
     level:    [56, 58]
   17613049:
     template: Colossus
-    at:       [-188.700, -0.092, 149.289, 172]
+    region:   region_118
     level:    [56, 58]
   17613050:
     template: Colossus
-    at:       [-48.000, -0.112, 110.000, 67]
+    region:   region_109
     level:    [56, 58]
   17613051:
     template: Goliath
-    at:       [-165.800, -0.112, 148.027, 142]
+    region:   region_116
     level:    [62, 62]
   17613052:
     template: Colossus
-    at:       [-189.100, -0.112, 127.990, 242]
+    region:   region_117
     level:    [56, 58]
   17613053:
     template: Goliath
-    at:       [-90.000, -0.112, 72.000, 37]
+    region:   region_123
     level:    [62, 62]
   17613054:
     template: Colossus
-    at:       [-90.000, -0.112, 72.000, 37]
+    region:   region_123
     level:    [56, 58]
   17613055:
     template: Underworld_Bats
@@ -3258,27 +3265,27 @@ spawns:
     level:    [50, 52]
   17613059:
     template: Talos
-    at:       [-151.900, -0.107, 90.239, 205]
+    region:   region_127
     level:    [53, 55]
   17613060:
     template: Talos
-    at:       [-129.795, -0.500, 96.757, 194]
+    region:   region_120
     level:    [53, 55]
   17613061:
     template: Talos
-    at:       [-109.895, -0.500, 103.436, 35]
+    region:   region_102
     level:    [53, 55]
   17613062:
     template: Talos
-    at:       [-90.480, -0.024, 111.930, 225]
+    region:   region_128
     level:    [53, 55]
   17613063:
     template: Talos
-    at:       [-111.600, -0.500, 91.032, 251]
+    region:   region_121
     level:    [53, 55]
   17613064:
     template: Talos
-    at:       [-87.730, -0.108, 90.366, 172]
+    region:   region_122
     level:    [53, 55]
   17613065:
     template: Underworld_Bats
@@ -3299,63 +3306,64 @@ spawns:
   17613069:
     template: Camazotz_FY
     script:   Camazotz
-    at:       [-48.180, -0.019, 110.095, 135]
+    region:   region_109
     level:    [52, 54]
   17613070:
     template: Camazotz_FY
     script:   Camazotz
-    at:       [-49.150, -0.020, 109.322, 197]
+    region:   region_109
     level:    [52, 54]
   17613071:
     template: Camazotz_FY
     script:   Camazotz
-    at:       [-50.792, -0.113, 91.763, 187]
+    region:   region_110
     level:    [52, 54]
   17613072:
     template: Camazotz_FY
     script:   Camazotz
-    at:       [-45.560, -0.112, 90.378, 35]
+    region:   region_110
     level:    [52, 54]
   17613073:
     template: Killing_Weapon
-    at:       [-91.150, -0.500, 68.628, 37]
+    region:   region_123
     level:    [59, 61]
   17613074:
     template: Hellish_Weapon
-    at:       [-90.740, -0.025, 70.508, 196]
+    region:   region_123
     level:    [61, 63]
   17613075:
     template: Killing_Weapon
-    at:       [-113.100, -0.500, 70.530, 24]
+    region:   region_124
     level:    [59, 61]
   17613076:
     template: Hellish_Weapon
-    at:       [-107.900, -0.111, 69.235, 127]
+    region:   region_124
     level:    [61, 63]
   17613077:
     template: Killing_Weapon
-    at:       [-130.900, -0.037, 70.234, 219]
+    region:   region_125
     level:    [59, 61]
   17613078:
     template: Hellish_Weapon
-    at:       [-130.600, -0.430, 70.556, 221]
+    region:   region_125
     level:    [61, 63]
   17613079:
     template: Killing_Weapon
-    at:       [-149.500, -0.107, 68.233, 95]
+    region:   region_126
     level:    [59, 61]
   17613080:
     template: Hellish_Weapon
-    at:       [-147.400, -0.500, 73.491, 79]
+    region:   region_126
     level:    [61, 63]
   17613081:
     template: Utukku_EN_FY
     script:   Utukku
-    at:       [-130.600, -0.021, 7.524, 253]
+    region:   region_129
     level:    [55, 57]
   17613082:
     template: Utukku_EN_FY
     script:   Utukku
+    region:   region_132
     level:    [55, 57]
   17613083:
     template: Underworld_Bats
@@ -3411,7 +3419,7 @@ spawns:
     level:    [56, 58]
   17613095:
     template: Western_Shadow
-    at:       [-206.600, -16.190, 111.260, 202]
+    region:   w_292
     level:    [63, 63]
   17613096:
     template: Underworld_Bats
@@ -3443,7 +3451,7 @@ spawns:
     level:    [56, 58]
   17613102:
     template: Northern_Shadow
-    at:       [-162.000, -15.000, 154.000, 213]
+    region:   w_298
     level:    [63, 63]
   17613103:
     template: Underworld_Bats
@@ -3475,7 +3483,7 @@ spawns:
     level:    [56, 58]
   17613109:
     template: Eastern_Shadow
-    at:       [-92.120, -16.520, 160.277, 37]
+    region:   c_306
     level:    [63, 63]
   17613110:
     template: Underworld_Bats
@@ -3525,7 +3533,7 @@ spawns:
     level:    [56, 58]
   17613120:
     template: Southern_Shadow
-    at:       [-164.600, -16.010, 77.191, 169]
+    region:   w_317
     level:    [63, 63]
   17613121:
     template: Underworld_Bats
@@ -3542,12 +3550,12 @@ spawns:
   17613124:
     template: Droma_FY
     script:   Droma
-    at:       [-172.600, -16.090, 8.985, 118]
+    region:   region_97
     level:    [54, 56]
   17613125:
     template: Droma_FY
     script:   Droma
-    at:       [-187.700, -16.110, 7.022, 61]
+    region:   region_98
     level:    [54, 56]
   17613126:
     template: Underworld_Bats
