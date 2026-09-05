@@ -2549,7 +2549,7 @@ spawns:
     level:    [48, 50]
   17236004:
     template: Cursed_Weapon
-    at:       [246.000, -13.000, -105.000, 67]
+    region:   region_46
     level:    [43, 45]
   17236005:
     template: Cursed_Weapon
@@ -2597,7 +2597,7 @@ spawns:
     level:    [48, 50]
   17236015:
     template: Demon_Pawn
-    at:       [234.942, -20.900, -166.407, 81]
+    region:   region_47
     level:    [48, 50]
   17236016:
     template: Lost_Soul_war
@@ -2641,7 +2641,7 @@ spawns:
     level:    [48, 50]
   17236025:
     template: Cursed_Weapon
-    at:       [66.983, -19.594, -16.816, 127]
+    region:   c_58
     level:    [43, 45]
   17236026:
     template: Cursed_Weapon
@@ -2693,7 +2693,7 @@ spawns:
     level:    [48, 50]
   17236037:
     template: Demon_Pawn
-    at:       [118.887, -29.056, -112.005, 72]
+    region:   region_48
     level:    [48, 50]
   17236038:
     template: Demon_Pawn
@@ -2729,7 +2729,7 @@ spawns:
     level:    [42, 45]
   17236045:
     template: Timeworn_Warrior
-    at:       [47.210, -24.020, -367.510, 60]
+    region:   s_78
     level:    [57, 58]
   17236046:
     template: Lost_Soul_war
@@ -2793,7 +2793,7 @@ spawns:
     level:    [43, 46]
   17236059:
     template: Ereshkigal
-    at:       [-137.143, -19.278, -19.996]
+    region:   w_193
     level:    [48, 50]
   17236060:
     template: Evil_Eye
@@ -3289,7 +3289,7 @@ spawns:
     level:    [45, 46]
   17236180:
     template: Shadow_Eye
-    at:       [-236.734, -11.177, -23.543, 127]
+    region:   w_206
     level:    [48, 49]
   17236181:
     template: Demon_Pawn
@@ -3353,7 +3353,7 @@ spawns:
     level:    [48, 50]
   17236196:
     template: Evil_Eye
-    at:       [-376.085, -39.112, 21.464, 126]
+    region:   region_49
     level:    [47, 48]
   17236197:
     template: Demon_Wizard
