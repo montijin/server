@@ -2867,7 +2867,7 @@ spawns:
     level:    [11, 13]
   17256574:
     template: Earth_Elemental
-    at:       [40.017, -0.684, -49.741]
+    region:   region_52
     level:    [18, 19]
   17256575:
     template: Canyon_Rarab
@@ -3071,7 +3071,7 @@ spawns:
     level:    [13, 14]
   17256625:
     template: Grenade
-    at:       [-470.838, -40.806, -132.707, 127]
+    region:   w_167
     level:    [15, 17]
   17256626:
     template: Killer_Bee
@@ -3115,7 +3115,7 @@ spawns:
     level:    [13, 14]
   17256636:
     template: Grenade
-    at:       [-283.314, 7.685, 231.691, 127]
+    region:   nw_178
     level:    [15, 17]
   17256637:
     template: Canyon_Rarab
@@ -3191,7 +3191,7 @@ spawns:
     level:    [10, 11]
   17256655:
     template: Strolling_Sapling
-    at:       [-93.287, 0.674, 58.965, 127]
+    region:   c_203
     level:    [9, 10]
   17256656:
     template: Strolling_Sapling
@@ -3331,7 +3331,7 @@ spawns:
     level:    [15, 16]
   17256690:
     template: Serpopard_Ishtar
-    at:       [-0.048, 21.041, 266.381, 31]
+    region:   region_53
     level:    [19, 20]
   17256691:
     template: Barghest
@@ -3383,7 +3383,7 @@ spawns:
     level:    [11, 13]
   17256703:
     template: Earth_Elemental
-    at:       [46.427, 23.979, 250.787, 69]
+    region:   n_231
     level:    [18, 19]
   17256704:
     template: Akbaba_TC
@@ -3806,19 +3806,19 @@ spawns:
     level:    [9, 10]
   17256806:
     template: Killer_Bee
-    at:       [74.137, 39.567, 482.722, 62]
+    region:   n_349
     level:    [10, 11]
   17256807:
     template: Killer_Bee
-    at:       [121.911, 43.054, 459.437, 127]
+    region:   n_349
     level:    [10, 11]
   17256808:
     template: Killer_Bee
-    at:       [54.951, 29.297, 457.049, 127]
+    region:   n_349
     level:    [10, 11]
   17256809:
     template: Yagudo_Initiate
-    at:       [142.617, 39.428, 445.506, 127]
+    region:   n_349
     level:    [8, 9]
   17256810:
     template: Yagudo_Mendicant
@@ -3846,7 +3846,7 @@ spawns:
     level:    [13, 14]
   17256816:
     template: Skeleton_Warrior
-    at:       [132.338, 39.592, 457.858, 127]
+    region:   n_349
     level:    [10, 12]
   17256817:
     template: Skeleton_Sorcerer
@@ -3854,7 +3854,7 @@ spawns:
     level:    [11, 13]
   17256818:
     template: Grenade
-    at:       [143.195, 40.078, 243.133, 21]
+    region:   n_362
     level:    [15, 16]
   17256819:
     template: Poltergeist
@@ -3998,27 +3998,27 @@ spawns:
     level:    [10, 11]
   17256854:
     template: Strolling_Sapling
-    at:       [-231.238, 31.578, 428.557, 127]
+    region:   nw_401
     level:    [10, 11]
   17256855:
     template: Killer_Bee
-    at:       [-269.325, 31.552, 488.438]
+    region:   nw_401
     level:    [11, 12]
   17256856:
     template: Wild_Dhalmel
-    at:       [-236.976, 39.525, 515.551, 96]
+    region:   nw_401
     level:    [15, 16]
   17256857:
     template: Wild_Dhalmel
-    at:       [-246.599, 39.088, 482.859, 62]
+    region:   nw_401
     level:    [15, 16]
   17256858:
     template: Wild_Dhalmel
-    at:       [-264.803, 22.525, 384.910, 93]
+    region:   nw_401
     level:    [15, 16]
   17256859:
     template: Barghest
-    at:       [-253.538, 25.557, 396.842, 109]
+    region:   nw_401
     level:    [8, 11]
   17256860:
     template: Canyon_Rarab
@@ -4106,44 +4106,44 @@ spawns:
     level:    [11, 13]
   17256881:
     template: Earth_Elemental
-    at:       [-184.514, 17.372, 339.742, 127]
+    region:   nw_423
     level:    [18, 20]
   17256882:
     template: Akbaba_TC
     script:   Akbaba
-    at:       [-396.000, 14.883, 412.129, 127]
+    region:   nw_443
     level:    [12, 13]
   17256883:
     template: Akbaba_TC
     script:   Akbaba
-    at:       [-427.928, 15.621, 432.554, 2]
+    region:   nw_443
     level:    [12, 13]
   17256884:
     template: Akbaba_TC
     script:   Akbaba
-    at:       [-396.732, 14.975, 412.229, 127]
+    region:   nw_443
     level:    [12, 13]
   17256885:
     template: Akbaba_TC
     script:   Akbaba
-    at:       [-406.744, 15.005, 407.171, 117]
+    region:   nw_443
     level:    [12, 13]
   17256886:
     template: Akbaba_TC
     script:   Akbaba
-    at:       [-407.236, 15.355, 429.605, 118]
+    region:   nw_443
     level:    [12, 13]
   17256887:
     template: Akbaba_TC
     script:   Akbaba
-    at:       [-411.442, 15.574, 401.423, 127]
+    region:   nw_443
     level:    [12, 13]
   17256888:
     template: Skeleton_Warrior
     level:    [10, 12]
   17256889:
     template: Skeleton_Warrior
-    at:       [-430.313, 15.383, 423.858, 127]
+    region:   nw_443
     level:    [10, 12]
   17256890:
     template: Skeleton_Sorcerer
