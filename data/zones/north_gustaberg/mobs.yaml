@@ -2971,7 +2971,7 @@ spawns:
     level:    [1, 1]
   17211409:
     template: Tunnel_Worm
-    at:       [734.182, -2.663, 453.948, 127]
+    region:   e_6
     level:    [1, 1]
   17211410:
     template: Ding_Bats
@@ -3135,7 +3135,7 @@ spawns:
     level:    [1, 1]
   17211440:
     template: Tunnel_Worm
-    at:       [458.778, -0.355, 360.748, 127]
+    region:   e_38
     level:    [1, 1]
   17211441:
     template: Tunnel_Worm
@@ -3143,15 +3143,15 @@ spawns:
     level:    [1, 1]
   17211442:
     template: Tunnel_Worm
-    at:       [446.202, -0.842, 362.610, 52]
+    region:   e_38
     level:    [1, 1]
   17211443:
     template: Tunnel_Worm
-    at:       [374.717, -0.358, 364.194, 127]
+    region:   e_38
     level:    [1, 1]
   17211444:
     template: Tunnel_Worm
-    at:       [399.188, 0.815, 333.421, 65]
+    region:   e_38
     level:    [1, 1]
   17211445:
     template: Ding_Bats
@@ -3648,7 +3648,7 @@ spawns:
     level:    [4, 5]
   17211537:
     template: Stinging_Sophie
-    at:       [234.104, -40.332, 462.288, 127]
+    region:   c_139
     level:    [9, 10]
   17211538:
     template: Stone_Eater
@@ -3771,7 +3771,7 @@ spawns:
     level:    [4, 5]
   17211561:
     template: Stinging_Sophie
-    at:       [340.381, -40.473, 601.786, 127]
+    region:   c_164
     level:    [9, 10]
   17211562:
     template: Stone_Eater
@@ -3964,7 +3964,7 @@ spawns:
     level:    [2, 3]
   17211598:
     template: Stone_Eater
-    at:       [317.031, -0.829, 200.952, 127]
+    region:   s_212
     level:    [2, 3]
   17211599:
     template: Stone_Eater
@@ -3972,7 +3972,7 @@ spawns:
     level:    [2, 3]
   17211600:
     template: Stone_Eater
-    at:       [115.743, 0.142, 309.780, 127]
+    region:   s_212
     level:    [2, 3]
   17211601:
     template: Stone_Eater
@@ -4004,7 +4004,7 @@ spawns:
     level:    [3, 4]
   17211608:
     template: Young_Quadav
-    at:       [255.370, 2.261, 262.118, 127]
+    region:   region_48
     level:    [3, 4]
   17211609:
     template: Young_Quadav
@@ -4016,7 +4016,7 @@ spawns:
     level:    [3, 4]
   17211611:
     template: Young_Quadav
-    at:       [176.000, 1.000, 259.000, 127]
+    region:   region_48
     level:    [3, 4]
   17211612:
     template: Young_Quadav
@@ -4028,27 +4028,27 @@ spawns:
     level:    [3, 4]
   17211614:
     template: Stone_Eater
-    at:       [-25.184, 0.784, 118.137, 127]
+    region:   s_228
     level:    [2, 3]
   17211615:
     template: Stone_Eater
-    at:       [-99.142, 1.975, 82.611, 127]
+    region:   s_228
     level:    [2, 3]
   17211616:
     template: Stone_Eater
-    at:       [-61.402, -0.433, 119.843, 110]
+    region:   s_228
     level:    [2, 3]
   17211617:
     template: Stone_Eater
-    at:       [-1.401, 0.713, 147.759, 127]
+    region:   s_228
     level:    [2, 3]
   17211618:
     template: Stone_Eater
-    at:       [-11.005, 0.937, 121.217, 26]
+    region:   s_228
     level:    [2, 3]
   17211619:
     template: Stone_Eater
-    at:       [-11.325, 0.826, 109.344, 34]
+    region:   s_228
     level:    [2, 3]
   17211620:
     template: Rock_Lizard
@@ -4108,7 +4108,7 @@ spawns:
     level:    [3, 4]
   17211634:
     template: Amethyst_Quadav
-    at:       [-49.000, -0.010, 479.000, 127]
+    region:   region_49
     level:    [3, 4]
   17211635:
     template: Amber_Quadav
@@ -4116,7 +4116,7 @@ spawns:
     level:    [3, 4]
   17211636:
     template: Shrapnel
-    at:       [94.794, -0.299, 408.927, 24]
+    region:   c_239
     level:    [8, 10]
   17211637:
     template: Young_Quadav
@@ -4124,7 +4124,7 @@ spawns:
     level:    [3, 4]
   17211638:
     template: Young_Quadav
-    at:       [-83.000, -0.010, 399.000, 80]
+    region:   c_251
     level:    [3, 4]
   17211639:
     template: Amber_Quadav
@@ -4160,15 +4160,15 @@ spawns:
     level:    [3, 4]
   17211647:
     template: Amethyst_Quadav
-    at:       [-29.703, -1.834, 291.623, 59]
+    region:   c_251
     level:    [3, 4]
   17211648:
     template: Amber_Quadav
-    at:       [-124.225, -0.398, 293.719, 127]
+    region:   c_251
     level:    [3, 4]
   17211649:
     template: Shrapnel
-    at:       [-101.454, 2.560, 369.232, 127]
+    region:   c_251
     level:    [8, 8]
   17211650:
     template: Young_Quadav
@@ -4176,19 +4176,19 @@ spawns:
     level:    [3, 4]
   17211651:
     template: Young_Quadav
-    at:       [-58.817, 1.514, 254.668, 76]
+    region:   region_49
     level:    [3, 4]
   17211652:
     template: Amethyst_Quadav
-    at:       [-63.361, 2.143, 256.942, 29]
+    region:   region_49
     level:    [3, 3]
   17211653:
     template: Stone_Eater
-    at:       [-128.683, 2.497, 260.351, 89]
+    region:   s_266
     level:    [2, 3]
   17211654:
     template: Stone_Eater
-    at:       [-177.332, 2.529, 109.169, 127]
+    region:   s_266
     level:    [2, 3]
   17211655:
     template: Stone_Eater
@@ -4288,7 +4288,7 @@ spawns:
     level:    [3, 4]
   17211679:
     template: Shrapnel
-    at:       [-192.786, -0.674, 368.604, 127]
+    region:   c_279
     level:    [8, 10]
   17211680:
     template: River_Crab
@@ -4332,11 +4332,11 @@ spawns:
     level:    [4, 5]
   17211690:
     template: Stone_Eater
-    at:       [74.347, -0.244, 562.026, 39]
+    region:   c_295
     level:    [4, 5]
   17211691:
     template: Stone_Eater
-    at:       [35.425, -0.368, 561.337, 127]
+    region:   c_295
     level:    [4, 5]
   17211692:
     template: Walking_Sapling
@@ -4380,51 +4380,51 @@ spawns:
     level:    [4, 5]
   17211702:
     template: Maighdean_Uaine
-    at:       [272.000, -0.324, 797.800]
+    region:   n_323
     level:    [11, 11]
   17211703:
     template: Vulture
-    at:       [170.252, 0.972, 761.254, 127]
+    region:   c_305
     level:    [5, 6]
   17211704:
     template: Vulture
-    at:       [150.107, -0.465, 652.312, 2]
+    region:   c_305
     level:    [5, 6]
   17211705:
     template: Vulture
-    at:       [122.959, -0.533, 650.810, 127]
+    region:   c_305
     level:    [5, 6]
   17211706:
     template: Young_Quadav
-    at:       [101.556, 2.204, 657.896, 71]
+    region:   c_305
     level:    [6, 7]
   17211707:
     template: Amethyst_Quadav
-    at:       [141.242, 0.523, 690.146, 23]
+    region:   c_305
     level:    [6, 7]
   17211708:
     template: Amber_Quadav
-    at:       [114.107, -0.309, 620.033, 127]
+    region:   c_305
     level:    [6, 7]
   17211709:
     template: Walking_Sapling
-    at:       [290.544, -2.638, 840.552, 76]
+    region:   n_323
     level:    [5, 6]
   17211710:
     template: Walking_Sapling
-    at:       [239.992, -0.493, 788.037, 99]
+    region:   n_323
     level:    [5, 6]
   17211711:
     template: Walking_Sapling
-    at:       [289.709, -0.297, 750.252, 127]
+    region:   n_323
     level:    [5, 6]
   17211712:
     template: Walking_Sapling
-    at:       [233.074, -1.709, 853.486, 127]
+    region:   n_323
     level:    [5, 6]
   17211713:
     template: Walking_Sapling
-    at:       [313.953, -0.642, 728.251, 119]
+    region:   n_323
     level:    [5, 6]
   17211714:
     template: Maighdean_Uaine
@@ -4499,7 +4499,7 @@ spawns:
     level:    [7, 8]
   17211732:
     template: Amethyst_Quadav
-    at:       [483.867, -1.661, 676.336, 127]
+    region:   e_334
     level:    [7, 8]
   17211733:
     template: Amber_Quadav
@@ -4511,7 +4511,7 @@ spawns:
     level:    [7, 8]
   17211735:
     template: Amethyst_Quadav
-    at:       [496.614, -0.448, 617.949, 82]
+    region:   region_50
     level:    [7, 8]
   17211736:
     template: Amber_Quadav
@@ -4563,7 +4563,7 @@ spawns:
     level:    [6, 7]
   17211748:
     template: Amethyst_Quadav
-    at:       [245.872, -7.874, 902.640, 127]
+    region:   region_50
     level:    [7, 8]
   17211749:
     template: Amber_Quadav
@@ -4575,7 +4575,7 @@ spawns:
     level:    [7, 8]
   17211751:
     template: Amethyst_Quadav
-    at:       [261.622, -18.137, 1025.840, 127]
+    region:   region_50
     level:    [7, 8]
   17211752:
     template: Amber_Quadav
@@ -4591,39 +4591,39 @@ spawns:
     level:    [7, 8]
   17211755:
     template: Stone_Eater
-    at:       [-472.145, 49.293, 45.652, 10]
+    region:   sw_372
     level:    [5, 6]
   17211756:
     template: Stone_Eater
-    at:       [-379.546, 43.164, 2.284]
+    region:   sw_372
     level:    [5, 6]
   17211757:
     template: Stone_Eater
-    at:       [-366.389, 40.237, 1.897, 1]
+    region:   sw_372
     level:    [5, 6]
   17211758:
     template: Rock_Lizard
-    at:       [-450.864, 51.437, -26.670, 127]
+    region:   sw_372
     level:    [7, 8]
   17211759:
     template: Rock_Lizard
-    at:       [-435.400, 48.607, 23.684, 121]
+    region:   sw_372
     level:    [7, 8]
   17211760:
     template: Rock_Lizard
-    at:       [-394.567, 47.032, 4.769, 127]
+    region:   sw_372
     level:    [7, 8]
   17211761:
     template: Vulture
-    at:       [-419.596, 49.841, -4.919, 127]
+    region:   sw_372
     level:    [6, 7]
   17211762:
     template: Vulture
-    at:       [-380.843, 47.750, -28.829, 127]
+    region:   sw_372
     level:    [6, 7]
   17211763:
     template: Young_Quadav
-    at:       [-421.847, 41.812, -94.981]
+    region:   sw_372
     level:    [7, 8]
   17211764:
     template: Amethyst_Quadav
@@ -4636,11 +4636,11 @@ spawns:
   17211766:
     template: Enchanted_Bones_war
     script:   Enchanted_Bones
-    at:       [-394.238, 46.593, -56.040]
+    region:   sw_372
     level:    [5, 8]
   17211767:
     template: Shrapnel
-    at:       [-407.531, 48.691, -55.234, 127]
+    region:   sw_372
     level:    [8, 10]
   17211768:
     template: Stone_Eater
@@ -4652,7 +4652,7 @@ spawns:
     level:    [5, 6]
   17211770:
     template: Stone_Eater
-    at:       [-529.458, 40.311, 2.227, 127]
+    region:   sw_379
     level:    [5, 6]
   17211771:
     template: Rock_Lizard
@@ -4693,7 +4693,7 @@ spawns:
     level:    [5, 8]
   17211780:
     template: Shrapnel
-    at:       [-555.042, 40.099, 81.509, 127]
+    region:   sw_379
     level:    [8, 10]
   17211781:
     template: Stone_Eater
@@ -4701,7 +4701,7 @@ spawns:
     level:    [4, 5]
   17211782:
     template: Stone_Eater
-    at:       [-281.025, 39.598, 289.938, 127]
+    region:   w_391
     level:    [4, 5]
   17211783:
     template: Rock_Lizard
@@ -4717,44 +4717,44 @@ spawns:
     level:    [5, 6]
   17211786:
     template: Walking_Sapling
-    at:       [-303.492, 39.597, 202.056, 116]
+    region:   w_391
     level:    [5, 6]
   17211787:
     template: Vulture
-    at:       [-316.117, 40.477, 230.502, 127]
+    region:   w_391
     level:    [5, 6]
   17211788:
     template: Vulture
-    at:       [-283.000, 40.000, 213.000, 127]
+    region:   w_391
     level:    [5, 6]
   17211789:
     template: Young_Quadav
-    at:       [-365.500, 40.439, 191.942, 127]
+    region:   w_391
     level:    [6, 7]
   17211790:
     template: Amethyst_Quadav
-    at:       [-319.444, 39.838, 294.777, 127]
+    region:   w_391
     level:    [6, 7]
   17211791:
     template: Amber_Quadav
-    at:       [-353.513, 40.800, 203.890, 127]
+    region:   w_391
     level:    [6, 7]
   17211792:
     template: Black_Wolf
-    at:       [-293.111, 40.714, 245.035, 9]
+    region:   w_391
     level:    [5, 8]
   17211793:
     template: Enchanted_Bones_blm
     script:   Enchanted_Bones
-    at:       [-326.239, 40.276, 181.709, 127]
+    region:   w_391
     level:    [5, 8]
   17211794:
     template: Shrapnel
-    at:       [-454.318, 38.097, 274.242, 87]
+    region:   region_51
     level:    [8, 9]
   17211795:
     template: Stone_Eater
-    at:       [-633.260, 39.241, 289.333, 127]
+    region:   w_406
     level:    [4, 5]
   17211796:
     template: Stone_Eater
@@ -4811,7 +4811,7 @@ spawns:
     level:    [5, 6]
   17211809:
     template: Stone_Eater
-    at:       [-408.493, 38.851, 489.700, 127]
+    region:   w_418
     level:    [5, 6]
   17211810:
     template: Rock_Lizard
@@ -4835,39 +4835,39 @@ spawns:
     level:    [5, 6]
   17211815:
     template: Walking_Sapling
-    at:       [-370.407, 41.048, 460.262, 117]
+    region:   w_418
     level:    [5, 6]
   17211816:
     template: Young_Quadav
-    at:       [-311.067, 39.868, 477.737, 127]
+    region:   w_418
     level:    [7, 8]
   17211817:
     template: Amethyst_Quadav
-    at:       [-435.000, 40.000, 495.000, 25]
+    region:   w_418
     level:    [7, 8]
   17211818:
     template: Amber_Quadav
-    at:       [-371.501, 41.039, 460.377, 115]
+    region:   w_418
     level:    [7, 8]
   17211819:
     template: Stone_Eater
-    at:       [-534.755, 45.451, 404.160, 101]
+    region:   w_433
     level:    [5, 6]
   17211820:
     template: Stone_Eater
-    at:       [-616.327, 38.771, 443.984, 127]
+    region:   w_433
     level:    [5, 6]
   17211821:
     template: Stone_Eater
-    at:       [-553.150, 39.234, 442.016, 250]
+    region:   w_433
     level:    [5, 6]
   17211822:
     template: Rock_Lizard
-    at:       [-660.151, 42.272, 379.111, 127]
+    region:   w_433
     level:    [7, 8]
   17211823:
     template: Rock_Lizard
-    at:       [-651.326, 39.404, 394.331, 18]
+    region:   w_433
     level:    [7, 8]
   17211824:
     template: Rock_Lizard
@@ -4895,8 +4895,8 @@ spawns:
     level:    [7, 8]
   17211830:
     template: Enchanted_Bones_blm
-    region:   w_433
     script:   Enchanted_Bones
+    region:   w_433
     level:    [5, 8]
   17211831:
     template: Sand_Pugil
@@ -4956,11 +4956,11 @@ spawns:
     level:    [21, 22]
   17211845:
     template: Goblin_Leecher
-    at:       [-485.323, 98.103, 416.005, 127]
+    region:   w_447
     level:    [21, 22]
   17211846:
     template: Goblin_Gambler
-    at:       [-390.051, 97.756, 437.450, 4]
+    region:   w_447
     level:    [21, 22]
   17211847:
     template: Goblin_Digger_near
