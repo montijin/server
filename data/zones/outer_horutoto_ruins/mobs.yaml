@@ -3473,9 +3473,11 @@ spawns:
     level:    [81, 83]
   17571891:
     template: Black_Slime
+    region:   region_63
     level:    [23, 25]
   17571892:
     template: Black_Slime
+    region:   region_63
     level:    [23, 25]
   17571893:
     template: Ghoul_blm
@@ -3529,7 +3531,7 @@ spawns:
     level:    [20, 23]
   17571903:
     template: Ah_Puch
-    at:       [-418.000, 0.000, 633.000, 243]
+    region:   nw_53
     level:    [29, 30]
   17571904:
     template: Thorn_Bat
@@ -4225,92 +4227,100 @@ spawns:
     level:    [1, 5]
   17572077:
     template: Three_of_Cups
+    region:   region_49
     level:    [1, 5]
   17572078:
     template: Three_of_Batons
-    at:       [312.762, 0.005, 740.297, 127]
+    region:   region_51
     level:    [5, 9]
   17572079:
     template: Three_of_Swords
+    region:   region_56
     level:    [5, 9]
   17572080:
     template: Three_of_Coins
+    region:   region_58
     level:    [5, 9]
   17572081:
     template: Three_of_Cups
-    at:       [306.131, -0.032, 744.716, 105]
+    region:   region_56
     level:    [5, 9]
   17572082:
     template: Three_of_Batons
+    region:   region_57
     level:    [5, 9]
   17572083:
     template: Three_of_Swords
-    at:       [349.259, -0.032, 773.090, 127]
+    region:   region_57
     level:    [5, 9]
   17572084:
     template: Three_of_Coins
-    at:       [347.469, -0.020, 772.566, 77]
+    region:   region_57
     level:    [5, 9]
   17572085:
     template: Three_of_Cups
+    region:   region_57
     level:    [5, 9]
   17572086:
     template: Three_of_Batons
-    at:       [330.389, -0.500, 775.062, 54]
+    region:   region_58
     level:    [5, 9]
   17572087:
     template: Three_of_Swords
+    region:   region_58
     level:    [5, 9]
   17572088:
     template: Three_of_Coins
-    at:       [349.786, -0.012, 706.859, 63]
+    region:   region_56
     level:    [5, 9]
   17572089:
     template: Three_of_Cups
-    at:       [334.586, -0.118, 771.323, 127]
+    region:   region_58
     level:    [5, 9]
   17572090:
     template: Three_of_Batons
-    at:       [348.094, -0.500, 707.764, 122]
+    region:   region_56
     level:    [5, 9]
   17572091:
     template: Three_of_Swords
-    at:       [349.729, -0.500, 705.986, 127]
+    region:   region_51
     level:    [5, 9]
   17572092:
     template: Three_of_Coins
-    at:       [330.535, -0.004, 706.775, 61]
+    region:   region_51
     level:    [5, 9]
   17572093:
     template: Balloon_OHR
     script:   Balloon
-    at:       [310.000, 0.000, 710.000, 127]
+    region:   region_55
     level:    [8, 10]
   17572094:
     template: Bomb_King
-    at:       [310.000, 0.000, 710.000, 127]
+    region:   region_55
     level:    [16, 18]
   17572095:
     template: Doppelganger_Gog
-    at:       [310.000, 0.000, 710.000, 127]
+    region:   region_55
     level:    [23, 25]
   17572096:
     template: Doppelganger_Dio
-    at:       [310.000, 0.000, 710.000, 17]
+    region:   region_55
     level:    [23, 25]
   17572097:
     template: Three_of_Cups
-    at:       [330.679, -0.431, 704.728, 69]
+    region:   region_51
     level:    [5, 9]
   17572098:
     template: Three_of_Batons
+    region:   region_49
     level:    [5, 9]
   17572099:
     template: Three_of_Swords
-    at:       [308.000, -1.000, 706.000, 109]
+    region:   region_49
     level:    [5, 9]
   17572100:
     template: Three_of_Coins
+    region:   region_49
     level:    [5, 9]
   17572101:
     template: Three_of_Cups
@@ -4426,122 +4436,133 @@ spawns:
     level:    [1, 5]
   17572129:
     template: Three_of_Cups
+    region:   region_52
     level:    [5, 9]
   17572130:
     template: Three_of_Batons
+    region:   region_52
     level:    [5, 9]
   17572131:
     template: Three_of_Swords
-    at:       [530.975, 0.008, 737.750, 75]
+    region:   region_52
     level:    [5, 9]
   17572132:
     template: Three_of_Coins
-    at:       [527.427, 0.007, 740.874, 47]
+    region:   region_52
     level:    [5, 9]
   17572133:
     template: Three_of_Cups
+    region:   region_60
     level:    [5, 9]
   17572134:
     template: Three_of_Batons
+    region:   region_60
     level:    [5, 9]
   17572135:
     template: Three_of_Swords
-    at:       [490.786, -0.075, 770.830, 127]
+    region:   region_59
     level:    [5, 9]
   17572136:
     template: Three_of_Coins
-    at:       [492.054, -0.016, 772.764, 20]
+    region:   region_59
     level:    [5, 9]
   17572137:
     template: Three_of_Cups
+    region:   region_59
     level:    [5, 9]
   17572138:
     template: Three_of_Batons
-    at:       [509.489, -0.500, 771.366, 127]
+    region:   region_59
     level:    [5, 9]
   17572139:
     template: Three_of_Swords
-    at:       [491.808, 0.000, 706.556, 60]
+    region:   region_60
     level:    [5, 9]
   17572140:
     template: Three_of_Coins
+    region:   region_62
     level:    [5, 9]
   17572141:
     template: Balloon_OHR
     script:   Balloon
-    at:       [509.000, -1.000, 709.000, 18]
+    region:   region_61
     level:    [8, 10]
   17572142:
     template: Bomb_King
-    at:       [509.000, -1.000, 709.000, 98]
+    region:   region_61
     level:    [16, 18]
   17572143:
     template: Doppelganger_Gog
-    at:       [509.000, -1.000, 709.000, 32]
+    region:   region_61
     level:    [23, 25]
   17572144:
     template: Doppelganger_Dio
-    at:       [509.000, -1.000, 709.000, 2]
+    region:   region_61
     level:    [23, 25]
   17572145:
     template: Balloon_OHR
     script:   Balloon
-    at:       [549.000, -1.000, 769.000, 127]
+    region:   region_53
     level:    [8, 10]
   17572146:
     template: Bomb_King
-    at:       [549.000, -1.000, 769.000, 4]
+    region:   region_53
     level:    [16, 18]
   17572147:
     template: Doppelganger_Gog
-    at:       [549.000, -1.000, 769.000, 127]
+    region:   region_53
     level:    [23, 25]
   17572148:
     template: Doppelganger_Dio
-    at:       [549.000, -1.000, 769.000, 127]
+    region:   region_53
     level:    [23, 25]
   17572149:
     template: Three_of_Cups
+    region:   region_62
     level:    [5, 9]
   17572150:
     template: Three_of_Batons
-    at:       [530.360, -0.032, 775.007, 29]
+    region:   region_54
     level:    [5, 9]
   17572151:
     template: Three_of_Swords
+    region:   region_54
     level:    [5, 9]
   17572152:
     template: Three_of_Coins
-    at:       [548.076, -0.001, 771.708, 102]
+    region:   region_50
     level:    [5, 9]
   17572153:
     template: Three_of_Cups
-    at:       [531.890, -0.416, 769.860, 127]
+    region:   region_54
     level:    [5, 9]
   17572154:
     template: Three_of_Batons
-    at:       [540.941, -0.001, 771.514, 127]
+    region:   region_62
     level:    [5, 9]
   17572155:
     template: Three_of_Swords
+    region:   region_62
     level:    [5, 9]
   17572156:
     template: Three_of_Coins
-    at:       [530.311, -0.059, 706.344, 228]
+    region:   region_54
     level:    [5, 9]
   17572157:
     template: Three_of_Cups
+    region:   region_50
     level:    [5, 9]
   17572158:
     template: Three_of_Batons
+    region:   region_50
     level:    [5, 9]
   17572159:
     template: Three_of_Swords
-    at:       [548.424, 0.000, 706.006, 69]
+    region:   region_50
     level:    [5, 9]
   17572160:
     template: Three_of_Coins
-    at:       [530.893, -0.002, 706.686, 114]
+    region:   region_60
     level:    [5, 9]
   17572161:
     template: Battue_Bats
@@ -4557,7 +4578,7 @@ spawns:
     level:    [2, 4]
   17572164:
     template: Goblin_Thug
-    at:       [495.032, -0.036, -618.953, 102]
+    region:   se_325
     level:    [4, 7]
   17572165:
     template: Goblin_Thug
