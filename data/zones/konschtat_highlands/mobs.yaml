@@ -3232,7 +3232,7 @@ spawns:
     level:    [12, 13]
   17219795:
     template: Stray_Mary
-    at:       [-257.465, -15.805, -117.638, 87]
+    region:   w_235
     level:    [19, 20]
   17219796:
     template: Strolling_Sapling_LTP_KH
@@ -3460,7 +3460,7 @@ spawns:
     level:    [11, 12]
   17219850:
     template: Mist_Lizard
-    at:       [-121.159, 15.959, 192.146, 115]
+    region:   c_255
     level:    [11, 12]
   17219851:
     template: Huge_Wasp
@@ -3811,7 +3811,7 @@ spawns:
     level:    [12, 13]
   17219933:
     template: Stray_Mary
-    at:       [-212.268, 39.477, 329.581, 127]
+    region:   w_364
     level:    [19, 20]
   17219934:
     template: Strolling_Sapling_LTP_KH
