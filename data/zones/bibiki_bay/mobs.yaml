@@ -2720,7 +2720,7 @@ spawns:
     level:    [35, 38]
   16793646:
     template: Serra
-    at:       [-639.118, -0.301, -619.797, 131]
+    region:   sw_45
     level:    [44, 46]
   16793647:
     template: Viscous_Clot
@@ -3711,11 +3711,11 @@ spawns:
     level:    [137, 139]
   16793893:
     template: Locus_Fiddler_Crab
-    at:       [76.251, -30.811, 209.441, 129]
+    region:   c_287
     level:    [137, 139]
   16793894:
     template: Locus_Fiddler_Crab
-    at:       [95.304, -29.811, 210.106, 105]
+    region:   c_287
     level:    [137, 139]
   16793895:
     template: Locus_Ghost_Crab
@@ -3843,7 +3843,7 @@ spawns:
     level:    [137, 139]
   16793926:
     template: Locus_Fiddler_Crab
-    at:       [272.529, -2.678, 169.613, 120]
+    region:   e_319
     level:    [137, 139]
   16793927:
     template: Rohemolipaud
