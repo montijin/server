@@ -3343,7 +3343,7 @@ spawns:
     level:    [26, 28]
   17567901:
     template: Agar_Agar
-    at:       [-71.360, 31.975, 207.479, 25]
+    region:   c_153
     level:    [64, 66]
   17567902:
     template: Goblin_Mugger
@@ -3523,11 +3523,11 @@ spawns:
     level:    [18, 21]
   17567945:
     template: Buds_Bunny
-    at:       [-20.010, -0.059, 35.715, 48]
+    region:   region_85
     level:    [84, 86]
   17567946:
     template: Buds_Bunny
-    at:       [-21.620, 0.016, 29.142, 195]
+    region:   region_85
     level:    [84, 86]
   17567947:
     template: Buds_Bunny
@@ -3736,7 +3736,7 @@ spawns:
   17567998:
     template: Stalking_Sapling_OC
     script:   Stalking_Sapling
-    at:       [-61.570, 0.044, 455.666, 194]
+    region:   n_252
     level:    [18, 21]
   17567999:
     template: Stalking_Sapling_OC
@@ -3751,26 +3751,26 @@ spawns:
   17568001:
     template: Thread_Leech_OC
     script:   Thread_Leech
-    at:       [-63.680, 0.187, 461.437, 156]
+    region:   n_252
     level:    [18, 21]
   17568002:
     template: Thread_Leech_OC
     script:   Thread_Leech
-    at:       [-42.310, 0.218, 463.140, 151]
+    region:   n_252
     level:    [18, 21]
   17568003:
     template: Thread_Leech_OC
     script:   Thread_Leech
-    at:       [-83.210, -0.021, 463.356, 45]
+    region:   n_252
     level:    [18, 21]
   17568004:
     template: Thread_Leech_OC
     script:   Thread_Leech
-    at:       [-61.870, 0.249, 460.104, 222]
+    region:   n_252
     level:    [18, 21]
   17568005:
     template: Stink_Bats
-    at:       [-37.220, -0.068, 546.932, 252]
+    region:   n_273
     level:    [15, 18]
   17568006:
     template: Stink_Bats
@@ -3961,42 +3961,42 @@ spawns:
     level:    [17, 20]
   17568048:
     template: Hognosed_Bat
-    at:       [-154.100, -0.061, 235.057, 45]
+    region:   w_302
     level:    [17, 20]
   17568049:
     template: Shrieker_OC
     script:   Shrieker
-    at:       [-136.000, -0.194, 287.756, 53]
+    region:   w_302
     level:    [24, 27]
   17568050:
     template: Shrieker_OC
     script:   Shrieker
-    at:       [-161.002, -0.122, 283.922, 33]
+    region:   w_302
     level:    [24, 27]
   17568051:
     template: Shrieker_OC
     script:   Shrieker
-    at:       [-154.600, -0.333, 238.259, 139]
+    region:   w_302
     level:    [24, 27]
   17568052:
     template: Shrieker_OC
     script:   Shrieker
-    at:       [-131.800, -0.064, 271.397, 251]
+    region:   w_302
     level:    [24, 27]
   17568053:
     template: Shrieker_OC
     script:   Shrieker
-    at:       [-169.100, -0.234, 268.096, 227]
+    region:   w_302
     level:    [24, 27]
   17568054:
     template: Shrieker_OC
     script:   Shrieker
-    at:       [-133.200, -0.272, 286.796, 157]
+    region:   w_302
     level:    [24, 27]
   17568055:
     template: Shrieker_OC
     script:   Shrieker
-    at:       [-125.500, -0.363, 262.644, 175]
+    region:   w_302
     level:    [24, 27]
   17568056:
     template: Shrieker_OC
@@ -4017,7 +4017,7 @@ spawns:
     level:    [23, 25]
   17568060:
     template: Clipper
-    at:       [-99.030, 0.437, 276.188, 245]
+    region:   c_317
     level:    [26, 29]
   17568061:
     template: Clipper
@@ -4035,7 +4035,7 @@ spawns:
   17568064:
     template: Goliath_Beetle_aggro
     script:   Goliath_Beetle
-    at:       [-138.700, 0.005, 202.361, 59]
+    region:   region_86
     level:    [29, 31]
   17568065:
     template: Goliath_Beetle_aggro
@@ -4165,7 +4165,7 @@ spawns:
     level:    [23, 26]
   17568091:
     template: Goblin_Pathfinder
-    at:       [-93.830, -28.110, -41.158, 88]
+    region:   s_354
     level:    [31, 34]
   17568092:
     template: Goblins_Bats
@@ -4173,19 +4173,19 @@ spawns:
     level:    [24, 26]
   17568093:
     template: Goblin_Furrier
-    at:       [-105.400, -28.130, -58.549, 202]
+    region:   s_354
     level:    [31, 34]
   17568094:
     template: Goblin_Smithy
-    at:       [-97.130, -28.080, -94.714, 62]
+    region:   s_354
     level:    [31, 34]
   17568095:
     template: Goblin_Shaman
-    at:       [-103.300, -28.000, -39.032, 226]
+    region:   s_354
     level:    [31, 34]
   17568096:
     template: Goblin_Pathfinder
-    at:       [-84.410, -28.000, -100.150]
+    region:   s_354
     level:    [31, 34]
   17568097:
     template: Goblins_Bats
@@ -4197,32 +4197,32 @@ spawns:
     level:    [31, 34]
   17568099:
     template: Goblin_Smithy
-    at:       [-98.050, -28.010, -83.685, 221]
+    region:   s_354
     level:    [31, 34]
   17568100:
     template: Goblin_Shaman
-    at:       [-104.100, -27.990, -39.111, 134]
+    region:   s_354
     level:    [31, 34]
   17568101:
     template: Slash_Pine
-    at:       [-100.100, -28.000, -76.796, 150]
+    region:   s_354
     level:    [27, 29]
   17568102:
     template: Slash_Pine
-    at:       [-101.000, -27.700, -52.022, 193]
+    region:   s_354
     level:    [27, 29]
   17568103:
     template: Slash_Pine
-    at:       [-102.800, -27.870, -65.150, 234]
+    region:   s_354
     level:    [27, 29]
   17568104:
     template: Slash_Pine
-    at:       [-101.000, -28.160, -87.442, 221]
+    region:   s_354
     level:    [27, 29]
   17568105:
     template: Seeker_Bats_MoS_Ord
     script:   Seeker_Bats
-    at:       [-60.340, -28.010, -113.640, 80]
+    region:   s_362
     level:    [23, 26]
   17568106:
     template: Seeker_Bats_MoS_Ord
@@ -4337,7 +4337,7 @@ spawns:
     level:    [42, 44]
   17568133:
     template: Stroper_Chyme
-    at:       [-109.900, -28.000, -179.730, 6]
+    region:   region_87
     level:    [33, 35]
   17568134:
     template: Polevik
@@ -4362,7 +4362,6 @@ spawns:
   17568139:
     template: Air_Elemental_SA
     script:   Air_Elemental
-    at:       [-297.236, 26.926, -100.298]
     level:    [33, 36]
   17568140:
     template: Aroma_Leech
