@@ -3486,7 +3486,7 @@ spawns:
     level:    [21, 22]
   17223685:
     template: Snipper
-    at:       [473.217, 24.418, 381.678, 44]
+    region:   ne_403
     level:    [23, 23]
   17223686:
     template: Gadfly
@@ -3730,8 +3730,8 @@ spawns:
     level:    [15, 16]
   17223729:
     template: Night_Bats_MM_PM
-    region:   sw_44
     script:   Night_Bats
+    region:   sw_44
     level:    [15, 16]
     attributes:
       spawn:
@@ -3838,7 +3838,7 @@ spawns:
     level:    [23, 24]
   17223747:
     template: Thunder_Elemental
-    at:       [-265.393, 23.856, -251.569, 32]
+    region:   sw_56
     level:    [27, 29]
   17223748:
     template: Gadfly
@@ -3948,8 +3948,8 @@ spawns:
     level:    [15, 15]
   17223766:
     template: Night_Bats_MM_PM
-    region:   s_81
     script:   Night_Bats
+    region:   s_81
     level:    [15, 16]
     attributes:
       spawn:
@@ -4130,7 +4130,7 @@ spawns:
     level:    [27, 28]
   17223797:
     template: NiZho_Bladebender
-    at:       [11.309, 23.904, -337.923, 22]
+    region:   s_93
     level:    [43, 45]
   17223798:
     template: Thread_Leech
@@ -4214,8 +4214,8 @@ spawns:
     level:    [15, 16]
   17223818:
     template: Night_Bats_MM_PM
-    region:   e_132
     script:   Night_Bats
+    region:   e_132
     level:    [15, 16]
     attributes:
       spawn:
@@ -4428,8 +4428,8 @@ spawns:
           end:    5
   17223854:
     template: Night_Bats_MM_PM
-    region:   c_169
     script:   Night_Bats
+    region:   c_169
     level:    [15, 16]
     attributes:
       spawn:
@@ -4658,7 +4658,7 @@ spawns:
     level:    [24, 25]
   17223889:
     template: Jolly_Green
-    at:       [276.084, 24.146, -1.695, 20]
+    region:   c_208
     level:    [27, 28]
   17223890:
     template: Malboro
@@ -4700,11 +4700,11 @@ spawns:
     level:    [18, 19]
   17223899:
     template: Bog_Dog
-    at:       [178.177, 24.846, 109.312, 127]
+    region:   c_208
     level:    [17, 22]
   17223900:
     template: Thunder_Elemental
-    at:       [248.224, 24.171, -34.989, 127]
+    region:   c_208
     level:    [27, 28]
   17223901:
     template: Thread_Leech
@@ -4772,8 +4772,8 @@ spawns:
     level:    [15, 16]
   17223917:
     template: Night_Bats_MM_PM
-    region:   c_232
     script:   Night_Bats
+    region:   c_232
     level:    [15, 16]
     attributes:
       spawn:
@@ -4854,8 +4854,8 @@ spawns:
     level:    [15, 16]
   17223929:
     template: Night_Bats_MM_PM
-    region:   n_243
     script:   Night_Bats
+    region:   n_243
     level:    [15, 16]
     attributes:
       spawn:
@@ -4933,8 +4933,8 @@ spawns:
     level:    [15, 15]
   17223942:
     template: Night_Bats_MM_PM
-    region:   nw_257
     script:   Night_Bats
+    region:   nw_257
     level:    [15, 16]
     attributes:
       spawn:
@@ -4943,8 +4943,8 @@ spawns:
           end:    5
   17223943:
     template: Night_Bats_MM_PM
-    region:   nw_257
     script:   Night_Bats
+    region:   nw_257
     level:    [15, 16]
     attributes:
       spawn:
@@ -5061,8 +5061,8 @@ spawns:
     level:    [24, 25]
   17223965:
     template: Night_Bats_MM_PM
-    region:   w_280
     script:   Night_Bats
+    region:   w_280
     level:    [15, 16]
     attributes:
       spawn:
@@ -5071,8 +5071,8 @@ spawns:
           end:    5
   17223966:
     template: Night_Bats_MM_PM
-    region:   w_280
     script:   Night_Bats
+    region:   w_280
     level:    [15, 16]
     attributes:
       spawn:
@@ -5146,7 +5146,7 @@ spawns:
     level:    [27, 28]
   17223981:
     template: Fox_Fire
-    at:       [-119.592, 24.485, -51.208, 103]
+    region:   c_300
     level:    [24, 25]
   17223982:
     template: Toxic_Tamlyn
@@ -5308,7 +5308,7 @@ spawns:
     level:    [21, 22]
   17224019:
     template: Bloodpool_Vorax
-    at:       [-405.854, 24.113, 513.944, 30]
+    region:   nw_334
     level:    [24, 25]
   17224020:
     template: Land_Pugil
@@ -5384,8 +5384,8 @@ spawns:
     level:    [15, 16]
   17224038:
     template: Night_Bats_MM_PM
-    region:   n_353
     script:   Night_Bats
+    region:   n_353
     level:    [15, 16]
     attributes:
       spawn:
