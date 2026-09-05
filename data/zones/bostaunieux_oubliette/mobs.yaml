@@ -1507,7 +1507,7 @@ spawns:
     level:    [55, 59]
   17461275:
     template: Haunt
-    at:       [-218.968, 0.000, -171.540, 120]
+    region:   region_89
     level:    [60, 63]
   17461276:
     template: Garm_BO
@@ -1653,7 +1653,7 @@ spawns:
     level:    [58, 62]
   17461307:
     template: Sewer_Syrup
-    at:       [-20.321, 0.500, -160.689, 59]
+    region:   c_56
     level:    [64, 66]
   17461308:
     template: Garm_BO
@@ -1692,7 +1692,7 @@ spawns:
     level:    [64, 66]
   17461315:
     template: Shii
-    at:       [-58.681, -0.500, -134.123, 31]
+    region:   c_60
     level:    [70, 71]
     attributes:
       spawn:
@@ -1790,11 +1790,11 @@ spawns:
     level:    [60, 63]
   17461337:
     template: Haunt
-    at:       [-87.234, -0.176, -228.526, 103]
+    region:   s_91
     level:    [60, 63]
   17461338:
     template: Drexerion_the_Condemned
-    at:       [-94.484, -0.137, -234.021, 237]
+    region:   region_90
     level:    [72, 73]
   17461339:
     template: Garm_BO
@@ -1816,7 +1816,7 @@ spawns:
     level:    [60, 63]
   17461343:
     template: Phanduron_the_Condemned
-    at:       [-83.554, -0.500, -221.832, 188]
+    region:   region_90
     level:    [72, 73]
   17461344:
     template: Blind_Bat
@@ -2048,7 +2048,7 @@ spawns:
     level:    [94, 96]
   17461401:
     template: Dabilla
-    at:       [64.967, 0.211, -41.785, 221]
+    region:   ne_150
     level:    [94, 96]
   17461402:
     template: Wurdalak
@@ -2076,7 +2076,7 @@ spawns:
     level:    [94, 96]
   17461408:
     template: Dabilla
-    at:       [141.938, 0.017, -37.426, 19]
+    region:   ne_157
     level:    [94, 96]
   17461409:
     template: Wurdalak
@@ -2176,7 +2176,7 @@ spawns:
     level:    [55, 59]
   17461433:
     template: Arioch
-    at:       [-172.845, 12.315, -219.144, 206]
+    region:   w_181
     level:    [56, 62]
   17461434:
     template: Bloodsucker_BO
@@ -2316,7 +2316,7 @@ spawns:
   17461461:
     template: Bloodsucker_BO
     script:   Bloodsucker
-    at:       [-19.570, 17.000, -203.278, 118]
+    region:   region_91
     level:    [65, 68]
   17461462:
     template: Bloodsucker_BO
@@ -2365,7 +2365,7 @@ spawns:
     level:    [68, 70]
   17461471:
     template: Manes
-    at:       [-60.400, 17.000, -138.000, 60]
+    region:   c_221
     level:    [72, 73]
     attributes:
       spawn:
@@ -2404,6 +2404,7 @@ spawns:
     level:    [68, 70]
   17461478:
     template: Bloodsucker_NM
+    region:   region_92
     level:    [70, 73]
   17461479:
     template: Bodach
