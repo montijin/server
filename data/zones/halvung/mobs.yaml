@@ -2675,7 +2675,7 @@ spawns:
     level:    [74, 75]
   17031192:
     template: Black_Pudding
-    at:       [-161.500, 21.437, -181.680, 141]
+    region:   sw_25
     level:    [72, 74]
   17031193:
     template: Troll_Smelter
@@ -2687,11 +2687,11 @@ spawns:
     level:    [73, 75]
   17031195:
     template: Black_Pudding
-    at:       [-178.349, 20.148, -144.046, 87]
+    region:   sw_26
     level:    [72, 74]
   17031196:
     template: Black_Pudding
-    at:       [-181.638, 21.229, -119.331, 119]
+    region:   w_29
     level:    [72, 74]
   17031197:
     template: Troll_Engraver
@@ -2715,7 +2715,7 @@ spawns:
     level:    [72, 76]
   17031202:
     template: Black_Pudding
-    at:       [-271.480, 11.121, -177.918, 204]
+    region:   sw_35
     level:    [72, 74]
   17031203:
     template: Wamouracampa
@@ -2735,7 +2735,7 @@ spawns:
     level:    [73, 75]
   17031207:
     template: Black_Pudding
-    at:       [-181.690, 21.094, -43.215, 111]
+    region:   w_38
     level:    [72, 74]
   17031208:
     template: Troll_Lapidarist
@@ -2751,11 +2751,11 @@ spawns:
     level:    [73, 75]
   17031211:
     template: Black_Pudding
-    at:       [-16.690, 11.022, -160.020, 199]
+    region:   s_42
     level:    [72, 74]
   17031212:
     template: Black_Pudding
-    at:       [-22.530, 10.965, -141.280, 152]
+    region:   s_45
     level:    [72, 74]
   17031213:
     template: Troll_Stoneworker
@@ -2802,7 +2802,7 @@ spawns:
     level:    [73, 75]
   17031223:
     template: Black_Pudding
-    at:       [-43.520, 11.385, -101.910, 45]
+    region:   c_54
     level:    [72, 74]
   17031224:
     template: Troll_Gemologist
@@ -2818,7 +2818,7 @@ spawns:
     level:    [73, 75]
   17031227:
     template: Black_Pudding
-    at:       [-62.440, 11.237, -80.389, 69]
+    region:   c_60
     level:    [72, 74]
   17031228:
     template: Troll_Ironworker
@@ -2830,7 +2830,7 @@ spawns:
     level:    [73, 75]
   17031230:
     template: Black_Pudding
-    at:       [-12.360, 11.130, -63.030, 117]
+    region:   c_61
     level:    [72, 74]
   17031231:
     template: Troll_Engraver
@@ -2842,7 +2842,7 @@ spawns:
     level:    [69, 78]
   17031233:
     template: Black_Pudding
-    at:       [10.310, 9.490, -55.750, 112]
+    region:   c_63
     level:    [72, 74]
   17031234:
     template: Magmatic_Eruca
@@ -2914,7 +2914,7 @@ spawns:
     level:    [73, 75]
   17031251:
     template: Magmatic_Eruca
-    at:       [189.080, -9.012, 233.746, 242]
+    region:   region_211
     level:    [73, 75]
   17031252:
     template: Magmatic_Eruca
@@ -2986,7 +2986,7 @@ spawns:
     level:    [69, 71]
   17031269:
     template: Qiqirn_Mercenary
-    at:       [425.600, 7.061, 215.694, 238]
+    region:   region_212
     level:    [72, 73]
   17031270:
     template: Volcanic_Bats
@@ -3072,7 +3072,7 @@ spawns:
     level:    [72, 76]
   17031290:
     template: Fire_Elemental
-    at:       [113.990, 13.583, -20.493, 2]
+    region:   region_213
     level:    [74, 75]
   17031291:
     template: Troll_Lapidarist
@@ -3092,7 +3092,7 @@ spawns:
     level:    [73, 75]
   17031295:
     template: Troll_Cameist
-    at:       [294.960, 9.519, 131.572, 119]
+    region:   region_214
     level:    [71, 73]
   17031296:
     template: Troll_Engraver
@@ -3104,7 +3104,7 @@ spawns:
     level:    [69, 78]
   17031298:
     template: Troll_Gemologist
-    at:       [287.630, 9.503, 69.802, 254]
+    region:   region_215
     level:    [71, 73]
   17031299:
     template: Troll_Lapidarist
@@ -3128,7 +3128,7 @@ spawns:
     level:    [69, 78]
   17031304:
     template: Wamouracampa
-    at:       [-436.600, 19.292, 142.451, 1]
+    region:   region_216
     level:    [72, 76]
   17031305:
     template: Wamouracampa
@@ -3148,7 +3148,7 @@ spawns:
     level:    [72, 76]
   17031309:
     template: Black_Pudding
-    at:       [-395.900, 21.200, 139.013, 31]
+    region:   w_137
     level:    [72, 74]
   17031310:
     template: Wamouracampa
@@ -3160,11 +3160,11 @@ spawns:
     level:    [72, 76]
   17031312:
     template: Flammeri
-    at:       [-331.400, 19.454, 98.508, 197]
+    region:   w_142
     level:    [79, 80]
   17031313:
     template: Black_Pudding
-    at:       [-340.800, 21.500, 79.230, 185]
+    region:   w_146
     level:    [72, 74]
   17031314:
     template: Wamouracampa
@@ -3224,7 +3224,7 @@ spawns:
     level:    [73, 75]
   17031328:
     template: Magmatic_Eruca
-    at:       [85.757, -10.660, 260.584, 255]
+    region:   region_217
     level:    [73, 75]
   17031329:
     template: Magmatic_Eruca
@@ -3236,7 +3236,7 @@ spawns:
     level:    [73, 75]
   17031331:
     template: Wamouracampa
-    at:       [-256.800, 19.106, 18.894, 94]
+    region:   region_218
     level:    [72, 76]
   17031332:
     template: Friars_Lantern
@@ -3305,7 +3305,7 @@ spawns:
     level:    [73, 75]
   17031348:
     template: Troll_Cameist
-    at:       [-277.400, 19.447, 43.181, 139]
+    region:   region_219
     level:    [73, 75]
   17031349:
     template: Moblin_Billionaire
@@ -3378,11 +3378,11 @@ spawns:
   17031366:
     template: Troll_Artilleryman_H
     script:   Troll_Artilleryman
-    at:       [-90.430, -10.490, 235.054, 191]
+    region:   region_220
     level:    [78, 82]
   17031367:
     template: Troll_Combatant
-    at:       [-28.780, -10.480, 233.205, 60]
+    region:   region_221
     level:    [78, 82]
   17031368:
     template: Troll_Targeteer
@@ -3419,15 +3419,15 @@ spawns:
     level:    [72, 76]
   17031376:
     template: Ebony_Pudding
-    at:       [-538.600, 9.294, 216.481, 77]
+    region:   region_228
     level:    [77, 79]
   17031377:
     template: Ebony_Pudding
-    at:       [-541.700, 9.630, 225.350, 90]
+    region:   region_229
     level:    [77, 79]
   17031378:
     template: Ebony_Pudding
-    at:       [-499.800, 0.003, 261.326, 76]
+    region:   region_230
     level:    [77, 79]
   17031379:
     template: Friars_Lantern
@@ -3443,11 +3443,11 @@ spawns:
     level:    [72, 76]
   17031382:
     template: Ebony_Pudding
-    at:       [-498.500, 9.140, 192.949, 52]
+    region:   region_231
     level:    [77, 79]
   17031383:
     template: Ebony_Pudding
-    at:       [-499.000, 9.446, 200.707, 236]
+    region:   region_232
     level:    [77, 79]
   17031384:
     template: Friars_Lantern
@@ -3475,7 +3475,7 @@ spawns:
     level:    [72, 76]
   17031390:
     template: Friars_Lantern
-    at:       [-379.500, -0.361, 251.535, 48]
+    region:   region_222
     level:    [72, 76]
   17031391:
     template: Friars_Lantern
@@ -3487,11 +3487,11 @@ spawns:
     level:    [74, 75]
   17031393:
     template: Ebony_Pudding
-    at:       [-489.800, -0.238, 372.799, 130]
+    region:   region_233
     level:    [77, 79]
   17031394:
     template: Ebony_Pudding
-    at:       [-498.000, -0.536, 359.856, 80]
+    region:   region_233
     level:    [77, 79]
   17031395:
     template: Friars_Lantern
@@ -3562,27 +3562,27 @@ spawns:
     level:    [77, 79]
   17031411:
     template: Ebony_Pudding
-    at:       [-286.100, 8.780, 377.852, 227]
+    region:   region_234
     level:    [77, 79]
   17031412:
     template: Ebony_Pudding
-    at:       [-277.400, 9.359, 378.441, 234]
+    region:   region_234
     level:    [77, 79]
   17031413:
     template: Ebony_Pudding
-    at:       [-521.600, 9.993, 18.121, 137]
+    region:   region_235
     level:    [77, 79]
   17031414:
     template: Ebony_Pudding
-    at:       [-498.100, 19.517, -16.947, 51]
+    region:   region_236
     level:    [77, 79]
   17031415:
     template: Ebony_Pudding
-    at:       [-529.000, 17.468, -64.815, 117]
+    region:   region_237
     level:    [77, 79]
   17031416:
     template: Ebony_Pudding
-    at:       [-542.100, 7.989, -88.839, 76]
+    region:   region_238
     level:    [77, 79]
   17031417:
     template: Antares_H
@@ -3614,7 +3614,7 @@ spawns:
     level:    [78, 82]
   17031423:
     template: Ebony_Pudding
-    at:       [-365.300, -0.231, 358.096, 233]
+    region:   nw_254
     level:    [77, 79]
   17031424:
     template: Troll_Combatant
@@ -3634,7 +3634,7 @@ spawns:
     level:    [78, 82]
   17031428:
     template: Ebony_Pudding
-    at:       [-389.800, -0.384, 318.360, 198]
+    region:   nw_259
     level:    [77, 79]
   17031429:
     template: Troll_Grenadier_H
@@ -3643,7 +3643,7 @@ spawns:
     level:    [78, 82]
   17031430:
     template: Ebony_Pudding
-    at:       [-400.800, -0.293, 313.195, 58]
+    region:   nw_261
     level:    [77, 79]
   17031431:
     template: Antares_H
@@ -3686,15 +3686,15 @@ spawns:
     level:    [69, 78]
   17031440:
     template: Mythril_Mouth_Monamaq
-    at:       [-278.200, 9.500, 197.470, 24]
+    region:   region_223
     level:    [81, 81]
   17031441:
     template: Troll_Mythril_Guard
-    at:       [-279.500, 9.503, 198.063, 16]
+    region:   region_223
     level:    [82, 83]
   17031442:
     template: Troll_Mythril_Guard
-    at:       [-278.600, 9.773, 199.085, 35]
+    region:   region_223
     level:    [82, 83]
   17031443:
     template: Troll_Grenadier_H
@@ -3736,15 +3736,15 @@ spawns:
     level:    [73, 75]
   17031451:
     template: Ebony_Pudding
-    at:       [-188.000, 8.721, 459.700, 119]
+    region:   region_239
     level:    [77, 79]
   17031452:
     template: Ebony_Pudding
-    at:       [-214.100, 9.522, 455.718, 116]
+    region:   region_240
     level:    [77, 79]
   17031453:
     template: Ebony_Pudding
-    at:       [-140.900, 11.333, 447.641, 175]
+    region:   nw_286
     level:    [77, 79]
   17031454:
     template: Antares_H
@@ -3757,11 +3757,11 @@ spawns:
     level:    [74, 75]
   17031456:
     template: Ebony_Pudding
-    at:       [-177.800, 9.585, 403.365, 61]
+    region:   region_241
     level:    [77, 79]
   17031457:
     template: Ebony_Pudding
-    at:       [-176.300, 9.854, 415.864, 202]
+    region:   region_241
     level:    [77, 79]
   17031458:
     template: Antares_H
@@ -3770,15 +3770,15 @@ spawns:
     level:    [77, 79]
   17031459:
     template: Ebony_Pudding
-    at:       [-256.600, 9.677, 332.976, 76]
+    region:   region_242
     level:    [77, 79]
   17031460:
     template: Ebony_Pudding
-    at:       [-138.500, 9.571, 321.402, 236]
+    region:   region_243
     level:    [77, 79]
   17031461:
     template: Ebony_Pudding
-    at:       [-140.300, 9.824, 335.648, 50]
+    region:   region_243
     level:    [77, 79]
   17031462:
     template: Friars_Lantern
@@ -3865,15 +3865,15 @@ spawns:
     level:    [76, 77]
   17031481:
     template: Farlarder_the_Shrewd
-    at:       [-279.200, 19.472, 43.008, 203]
+    region:   w_182
     level:    [80, 80]
   17031482:
     template: Dorgerwor_the_Astute
-    at:       [111.050, -10.320, 166.533, 146]
+    region:   c_196
     level:    [81, 81]
   17031483:
     template: Troll_Targeteer
-    at:       [-90.120, -10.490, 232.466, 190]
+    region:   region_224
     level:    [78, 82]
   17031484:
     template: Troll_Scrimer
@@ -3887,7 +3887,7 @@ spawns:
   17031486:
     template: Troll_Artilleryman_H
     script:   Troll_Artilleryman
-    at:       [-27.300, -10.410, 223.177, 62]
+    region:   region_225
     level:    [78, 82]
   17031487:
     template: Troll_Combatant
@@ -3977,7 +3977,7 @@ spawns:
     level:    [77, 79]
   17031507:
     template: Ebony_Pudding
-    at:       [220.476, 31.772, -113.207, 92]
+    region:   region_244
     level:    [77, 79]
   17031508:
     template: Friars_Lantern
@@ -3985,11 +3985,11 @@ spawns:
     level:    [77, 79]
   17031509:
     template: Ebony_Pudding
-    at:       [258.192, 41.036, -82.379, 221]
+    region:   s_340
     level:    [77, 79]
   17031510:
     template: Ebony_Pudding
-    at:       [276.881, 41.406, -59.750, 168]
+    region:   c_343
     level:    [77, 79]
   17031511:
     template: Troll_Artilleryman_H
@@ -3998,7 +3998,7 @@ spawns:
     level:    [78, 82]
   17031512:
     template: Ebony_Pudding
-    at:       [284.111, 41.022, -63.997, 118]
+    region:   e_345
     level:    [77, 79]
   17031513:
     template: Troll_Machinist
@@ -4010,11 +4010,11 @@ spawns:
     level:    [69, 78]
   17031515:
     template: Ebony_Pudding
-    at:       [300.519, 29.364, -272.600, 189]
+    region:   region_246
     level:    [77, 79]
   17031516:
     template: Ebony_Pudding
-    at:       [302.108, 28.495, -286.147, 164]
+    region:   region_246
     level:    [77, 79]
   17031517:
     template: Friars_Lantern
@@ -4154,7 +4154,7 @@ spawns:
   17031548:
     template: Troll_Artilleryman_H
     script:   Troll_Artilleryman
-    at:       [303.646, 29.493, -251.651, 247]
+    region:   region_226
     level:    [78, 82]
   17031549:
     template: Troll_Combatant
@@ -4170,7 +4170,7 @@ spawns:
     level:    [69, 78]
   17031552:
     template: Troll_Scrimer
-    at:       [193.472, 29.577, -197.939, 231]
+    region:   region_227
     level:    [78, 82]
   17031553:
     template: Troll_Targeteer
@@ -4238,35 +4238,35 @@ spawns:
     level:    [80, 83]
   17031568:
     template: Archaic_Mirror
-    at:       [239.190, 9.966, 32.132, 51]
+    region:   c_408
     level:    [75, 75]
   17031569:
     template: Archaic_Mirror
-    at:       [72.905, -10.670, 208.805, 98]
+    region:   n_410
     level:    [75, 75]
   17031570:
     template: Archaic_Mirror
-    at:       [-37.110, 9.439, -282.480, 19]
+    region:   s_76
     level:    [75, 75]
   17031571:
     template: Archaic_Mirror
-    at:       [-330.400, 19.881, -0.941, 65]
+    region:   w_414
     level:    [75, 75]
   17031572:
     template: Archaic_Mirror
-    at:       [-392.000, -0.034, 285.884, 41]
+    region:   nw_264
     level:    [75, 75]
   17031573:
     template: Archaic_Mirror
-    at:       [162.960, -0.500, 316.092, 75]
+    region:   n_178
     level:    [75, 75]
   17031574:
     template: Archaic_Mirror
-    at:       [-467.800, 19.452, -39.682, 223]
+    region:   w_249
     level:    [75, 75]
   17031575:
     template: Archaic_Mirror
-    at:       [-194.200, 9.500, 360.779, 42]
+    region:   nw_305
     level:    [75, 75]
   17031576:
     template: Hilltroll_Mirror_Guard
@@ -4302,19 +4302,19 @@ spawns:
     level:    [81, 82]
   17031584:
     template: Hilltroll_Mirror_Guard
-    at:       [-394.500, -0.500, 279.817, 253]
+    region:   nw_264
     level:    [81, 82]
   17031585:
     template: Woodtroll_Mirror_Guard
-    at:       [-393.300, -0.316, 280.276, 4]
+    region:   nw_264
     level:    [81, 82]
   17031586:
     template: Hilltroll_Mirror_Guard
-    at:       [170.350, -0.767, 324.195, 228]
+    region:   n_178
     level:    [81, 82]
   17031587:
     template: Woodtroll_Mirror_Guard
-    at:       [161.600, -0.439, 309.345, 116]
+    region:   n_178
     level:    [81, 82]
   17031588:
     template: Hilltroll_Mirror_Guard
@@ -4326,11 +4326,11 @@ spawns:
     level:    [81, 82]
   17031590:
     template: Hilltroll_Mirror_Guard
-    at:       [-195.100, 9.500, 370.467, 148]
+    region:   nw_305
     level:    [81, 82]
   17031591:
     template: Woodtroll_Mirror_Guard
-    at:       [-196.100, 9.881, 366.846, 189]
+    region:   nw_305
     level:    [81, 82]
   17031592:
     template: Gurfurlur_the_Menacing
