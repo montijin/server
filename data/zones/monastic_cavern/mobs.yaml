@@ -2023,7 +2023,7 @@ spawns:
     level:    [45, 49]
   17391802:
     template: Orcish_Overlord
-    at:       [218.046, -3.017, -101.239, 58]
+    region:   e_187
     level:    [75, 75]
   17391803:
     template: Overlord_Bakgodek
@@ -2060,7 +2060,7 @@ spawns:
     level:    [69, 75]
   17391813:
     template: Orcish_Bewitcher
-    at:       [9.211, -0.715, -288.477, 80]
+    region:   s_25
     level:    [139, 139]
 
 slots:
