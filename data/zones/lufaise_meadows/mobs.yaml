@@ -4254,7 +4254,7 @@ spawns:
     level:    [40, 43]
   16875693:
     template: Atomic_Cluster
-    at:       [-369.307, -15.903, 139.577, 78]
+    region:   w_174
     level:    [44, 46]
   16875694:
     template: Gigantobugard
