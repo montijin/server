@@ -2300,7 +2300,7 @@ spawns:
     level:    [68, 70]
   17489969:
     template: Haunt
-    at:       [-18.990, -11.364, -131.422, 127]
+    region:   region_93
     level:    [63, 66]
   17489970:
     template: Robber_Crab
@@ -2344,7 +2344,7 @@ spawns:
     level:    [64, 67]
   17489980:
     template: Sabotender_Mariachi
-    at:       [-56.081, -1.546, 21.705, 127]
+    region:   w_56
     level:    [68, 70]
   17489981:
     template: Sabotender_Sediendo
@@ -2844,7 +2844,7 @@ spawns:
     level:    [78, 80]
   17490101:
     template: Pelican
-    at:       [180.299, 20.449, -42.575, 58]
+    region:   e_177
     level:    [80, 81]
   17490102:
     template: Ovinnik
@@ -2884,7 +2884,7 @@ spawns:
     level:    [80, 82]
   17490111:
     template: Kuftal_Delver
-    at:       [131.082, 20.192, -103.232, 188]
+    region:   s_192
     level:    [99, 101]
   17490112:
     template: Kuftal_Delver
@@ -2944,7 +2944,7 @@ spawns:
     level:    [99, 101]
   17490126:
     template: Kuftal_Delver
-    at:       [83.990, 18.590, -149.627]
+    region:   region_96
     level:    [99, 101]
   17490127:
     template: Machairodus
@@ -2960,7 +2960,7 @@ spawns:
     level:    [99, 101]
   17490130:
     template: Kuftal_Delver
-    at:       [67.591, 19.092, -165.148, 195]
+    region:   region_97
     level:    [99, 101]
   17490131:
     template: Machairodus
@@ -2972,7 +2972,7 @@ spawns:
     level:    [101, 103]
   17490133:
     template: Kuftal_Delver
-    at:       [48.182, 23.188, -176.566, 99]
+    region:   region_98
     level:    [99, 101]
   17490134:
     template: Machairodus
@@ -3056,15 +3056,15 @@ spawns:
     level:    [66, 69]
   17490154:
     template: Goblin_Alchemist
-    at:       [249.992, 9.348, 52.922, 210]
+    region:   region_95
     level:    [66, 69]
   17490155:
     template: Goblin_Bandit
-    at:       [260.281, 10.712, 40.538, 8]
+    region:   region_95
     level:    [66, 69]
   17490156:
     template: Goblin_Tamer
-    at:       [262.396, 10.180, 35.069, 155]
+    region:   region_95
     level:    [66, 69]
   17490157:
     template: Goblins_Spider
@@ -3072,19 +3072,19 @@ spawns:
     level:    [53, 55]
   17490158:
     template: Goblin_Mercenary
-    at:       [256.673, 10.146, 43.678, 242]
+    region:   region_95
     level:    [66, 69]
   17490159:
     template: Bloodthirster_Madkix
-    at:       [261.032, 10.414, 35.721, 61]
+    region:   region_95
     level:    [70, 72]
   17490160:
     template: Deinonychus
-    at:       [173.475, 9.878, 64.408, 10]
+    region:   e_242
     level:    [65, 68]
   17490161:
     template: Deinonychus
-    at:       [205.496, 10.451, 58.452, 22]
+    region:   e_242
     level:    [65, 68]
   17490162:
     template: Goblin_Alchemist
@@ -3256,7 +3256,7 @@ spawns:
     level:    [65, 68]
   17490204:
     template: Yowie
-    at:       [25.841, 20.252, 71.875, 83]
+    region:   w_282
     level:    [69, 71]
   17490205:
     template: Deinonychus
@@ -3264,15 +3264,15 @@ spawns:
     level:    [65, 68]
   17490206:
     template: Deinonychus
-    at:       [22.816, 19.385, 118.417, 228]
+    region:   region_99
     level:    [65, 68]
   17490207:
     template: Deinonychus
-    at:       [35.732, 20.095, 143.961, 221]
+    region:   region_99
     level:    [65, 68]
   17490208:
     template: Kuftal_Digger
-    at:       [54.795, 25.358, 136.196, 139]
+    region:   region_99
     level:    [66, 69]
   17490209:
     template: Kuftal_Digger
@@ -3280,11 +3280,11 @@ spawns:
     level:    [66, 69]
   17490210:
     template: Deinonychus
-    at:       [19.931, 19.492, 39.522, 140]
+    region:   w_292
     level:    [65, 68]
   17490211:
     template: Recluse_Spider
-    at:       [21.631, 19.612, 36.404, 46]
+    region:   w_292
     level:    [63, 66]
   17490212:
     template: Recluse_Spider
@@ -3308,7 +3308,7 @@ spawns:
     level:    [63, 66]
   17490217:
     template: Arachne
-    at:       [-22.423, 20.750, -0.009, 39]
+    region:   w_293
     level:    [67, 69]
   17490218:
     template: Deinonychus
