@@ -4454,7 +4454,7 @@ spawns:
     level:    [63, 64]
   16990226:
     template: Aht_Urhgan_Attercop
-    at:       [339.805, -10.444, 83.397, 184]
+    region:   region_86
     level:    [64, 65]
   16990227:
     template: Aht_Urhgan_Attercop
@@ -4567,11 +4567,11 @@ spawns:
     level:    [72, 73]
   16990253:
     template: Lesser_Colibri
-    at:       [419.992, -12.136, 208.738, 184]
+    region:   region_87
     level:    [63, 65]
   16990254:
     template: Lesser_Colibri
-    at:       [420.636, -14.116, 214.871, 64]
+    region:   region_87
     level:    [63, 65]
   16990255:
     template: Lesser_Colibri
@@ -4650,11 +4650,11 @@ spawns:
     level:    [64, 65]
   16990273:
     template: Aht_Urhgan_Attercop
-    at:       [491.628, -10.025, 260.410, 79]
+    region:   region_88
     level:    [64, 65]
   16990274:
     template: Aht_Urhgan_Attercop
-    at:       [499.928, -9.825, 250.201, 58]
+    region:   region_88
     level:    [64, 65]
   16990275:
     template: Aht_Urhgan_Attercop
@@ -4741,27 +4741,27 @@ spawns:
     level:    [71, 73]
   16990294:
     template: Grand_Marid
-    at:       [184.000, -18.000, 335.000, 127]
+    region:   region_90
     level:    [79, 80]
   16990295:
     template: Grand_Marid
-    at:       [137.000, -18.000, 334.000, 127]
+    region:   region_90
     level:    [79, 80]
   16990296:
     template: Marid
-    at:       [215.000, -18.000, 372.000, 127]
+    region:   region_89
     level:    [77, 78]
   16990297:
     template: Marid
-    at:       [209.000, -19.000, 341.000, 127]
+    region:   region_89
     level:    [77, 78]
   16990298:
     template: Marid
-    at:       [153.000, -15.000, 355.000, 127]
+    region:   region_90
     level:    [77, 78]
   16990299:
     template: Marid
-    at:       [149.000, -17.000, 310.000, 127]
+    region:   region_90
     level:    [77, 78]
   16990300:
     template: Colibri
@@ -4781,15 +4781,15 @@ spawns:
     level:    [71, 73]
   16990304:
     template: Marid
-    at:       [160.000, -15.000, 328.000, 127]
+    region:   region_90
     level:    [77, 78]
   16990305:
     template: Marid
-    at:       [163.000, -16.000, 312.000, 127]
+    region:   region_90
     level:    [77, 78]
   16990306:
     template: Mahishasura
-    at:       [206.510, -16.320, 357.724]
+    region:   region_89
     level:    [80, 80]
   16990307:
     template: Red_Kisser
@@ -4806,12 +4806,12 @@ spawns:
   16990310:
     template: Fomor_Paladin_WW_BT
     script:   Fomor_Paladin
-    at:       [101.938, -20.328, 350.641, 19]
+    region:   region_91
     level:    [63, 64]
   16990311:
     template: Fomor_Bard_WW_BT
     script:   Fomor_Bard
-    at:       [275.000, -8.000, 153.000, 127]
+    region:   region_91
     level:    [63, 64]
   16990312:
     template: Haunt
@@ -4931,11 +4931,11 @@ spawns:
     level:    [66, 68]
   16990340:
     template: Wajaom_Tiger
-    at:       [260.000, -17.000, 385.000, 127]
+    region:   region_92
     level:    [67, 68]
   16990341:
     template: Wajaom_Tiger
-    at:       [260.000, -19.000, 406.000, 127]
+    region:   region_92
     level:    [67, 68]
   16990342:
     template: Air_Elemental
@@ -5055,12 +5055,12 @@ spawns:
   16990369:
     template: Incubus_Bats_BT
     script:   Incubus_Bats
-    at:       [-37.000, -32.000, 476.000, 127]
+    region:   region_93
     level:    [61, 63]
   16990370:
     template: Incubus_Bats_BT
     script:   Incubus_Bats
-    at:       [-20.000, -35.000, 530.000, 127]
+    region:   region_93
     level:    [61, 63]
   16990371:
     template: Treant_Sapling_WW_BT
@@ -5086,7 +5086,7 @@ spawns:
     level:    [74, 75]
   16990376:
     template: Emergent_Elm
-    at:       [71.000, -33.000, 627.000, 127]
+    region:   n_166
     level:    [77, 78]
   16990377:
     template: Treant_Sapling_WW_BT
@@ -5206,7 +5206,7 @@ spawns:
     level:    [75, 75]
   16990403:
     template: Nis_Puk
-    at:       [-155.319, -15.959, -599.366]
+    region:   s_190
     level:    [77, 77]
   16990404:
     template: Skoffin
