@@ -1752,7 +1752,7 @@ spawns:
   17457200:
     template: Seeker_Bats_KT_RP_Qufim
     script:   Seeker_Bats
-    at:       [-152.136, -5.216, -89.814, 112]
+    region:   w_49
     level:    [25, 28]
   17457201:
     template: Seeker_Bats_KT_RP_Qufim
@@ -1860,7 +1860,7 @@ spawns:
     level:    [38, 40]
   17457226:
     template: Bat_Eye
-    at:       [163.997, 3.603, -54.476, 127]
+    region:   e_77
     level:    [42, 44]
   17457227:
     template: Seeker_Bats_KT_RP_Qufim
@@ -1907,7 +1907,7 @@ spawns:
     level:    [31, 31]
   17457236:
     template: Hyakume
-    at:       [144.098, 2.525, -63.542, 3]
+    region:   e_77
     level:    [43, 43]
   17457237:
     template: Seeker_Bats_KT_RP_Qufim
@@ -2121,7 +2121,7 @@ spawns:
     level:    [88, 90]
   17457288:
     template: Goblin_Artificer
-    at:       [3.000, -36.000, 152.000, 127]
+    region:   n_135
     level:    [88, 90]
   17457289:
     template: Goblin_Tanner
@@ -2129,7 +2129,7 @@ spawns:
     level:    [88, 90]
   17457290:
     template: Goblin_Chaser
-    at:       [-9.390, -36.264, 160.853, 127]
+    region:   n_135
     level:    [88, 90]
   17457291:
     template: Goblins_Bats
