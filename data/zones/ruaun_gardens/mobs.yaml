@@ -1415,7 +1415,7 @@ spawns:
   17309742:
     template: Groundskeeper_1827
     script:   Groundskeeper
-    at:       [17.000, -43.000, -198.000, 127]
+    region:   region_104
     level:    [75, 78]
   17309743:
     template: Groundskeeper_1827
@@ -1463,7 +1463,7 @@ spawns:
   17309753:
     template: Groundskeeper_1827
     script:   Groundskeeper
-    at:       [-26.791, -44.099, -210.834, 5]
+    region:   region_105
     level:    [75, 78]
   17309754:
     template: Groundskeeper_1827
@@ -1607,12 +1607,12 @@ spawns:
   17309787:
     template: Groundskeeper_1827
     script:   Groundskeeper
-    at:       [401.366, -40.821, -37.737, 3]
+    region:   region_106
     level:    [75, 78]
   17309788:
     template: Groundskeeper_1827
     script:   Groundskeeper
-    at:       [384.427, -40.821, 9.103, 141]
+    region:   region_109
     level:    [75, 78]
   17309789:
     template: Groundskeeper_1827
@@ -1688,12 +1688,12 @@ spawns:
   17309806:
     template: Groundskeeper_1827
     script:   Groundskeeper
-    at:       [312.723, -40.700, -198.724, 77]
+    region:   region_107
     level:    [75, 78]
   17309807:
     template: Groundskeeper_1827
     script:   Groundskeeper
-    at:       [313.080, -40.821, -240.384, 26]
+    region:   region_108
     level:    [75, 78]
   17309808:
     template: Sprinkler
@@ -1794,12 +1794,12 @@ spawns:
   17309831:
     template: Groundskeeper_1827
     script:   Groundskeeper
-    at:       [156.962, -40.788, 365.583, 80]
+    region:   region_110
     level:    [75, 78]
   17309832:
     template: Groundskeeper_1827
     script:   Groundskeeper
-    at:       [110.704, -40.788, 373.575, 68]
+    region:   region_111
     level:    [75, 78]
   17309833:
     template: Groundskeeper_1827
@@ -1875,12 +1875,12 @@ spawns:
   17309850:
     template: Groundskeeper_1827
     script:   Groundskeeper
-    at:       [327.964, -40.500, 224.733, 106]
+    region:   region_112
     level:    [75, 78]
   17309851:
     template: Groundskeeper_1827
     script:   Groundskeeper
-    at:       [305.223, -40.788, 266.461, 127]
+    region:   region_113
     level:    [75, 78]
   17309852:
     template: Sprinkler
@@ -1939,7 +1939,7 @@ spawns:
   17309865:
     template: Groundskeeper_1827
     script:   Groundskeeper
-    at:       [-90.593, -36.328, 363.433, 110]
+    region:   region_114
     level:    [75, 78]
   17309866:
     template: Flamingo
@@ -1980,12 +1980,12 @@ spawns:
   17309875:
     template: Groundskeeper_1827
     script:   Groundskeeper
-    at:       [-116.255, -40.614, 387.386, 193]
+    region:   region_115
     level:    [75, 78]
   17309876:
     template: Groundskeeper_1827
     script:   Groundskeeper
-    at:       [-157.776, -40.614, 364.483, 47]
+    region:   region_116
     level:    [75, 78]
   17309877:
     template: Sprinkler
@@ -2051,12 +2051,12 @@ spawns:
   17309892:
     template: Groundskeeper_1827
     script:   Groundskeeper
-    at:       [-333.248, -40.614, 230.699, 127]
+    region:   region_117
     level:    [75, 78]
   17309893:
     template: Groundskeeper_1827
     script:   Groundskeeper
-    at:       [-289.932, -40.614, 255.529, 44]
+    region:   region_118
     level:    [75, 78]
   17309894:
     template: Sprinkler
@@ -2112,7 +2112,7 @@ spawns:
   17309906:
     template: Groundskeeper_1827
     script:   Groundskeeper
-    at:       [-372.963, -34.581, 27.891, 127]
+    region:   region_119
     level:    [75, 78]
   17309907:
     template: Flamingo
@@ -2157,12 +2157,12 @@ spawns:
   17309917:
     template: Groundskeeper_1827
     script:   Groundskeeper
-    at:       [-372.704, -40.500, 8.931, 36]
+    region:   region_121
     level:    [75, 78]
   17309918:
     template: Groundskeeper_1827
     script:   Groundskeeper
-    at:       [-385.561, -40.500, -35.943, 127]
+    region:   region_120
     level:    [75, 78]
   17309919:
     template: Groundskeeper_1827
@@ -2238,12 +2238,12 @@ spawns:
   17309936:
     template: Groundskeeper_1827
     script:   Groundskeeper
-    at:       [-323.089, -40.500, -246.593, 101]
+    region:   region_122
     level:    [75, 78]
   17309937:
     template: Groundskeeper_1827
     script:   Groundskeeper
-    at:       [-380.817, -40.521, -219.627, 116]
+    region:   region_123
     level:    [75, 78]
   17309938:
     template: Groundskeeper_5128
