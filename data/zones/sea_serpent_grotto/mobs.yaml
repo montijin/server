@@ -3499,11 +3499,11 @@ spawns:
     level:    [38, 41]
   17498159:
     template: Masan
-    at:       [1.178, 10.799, 178.807, 2]
+    region:   n_43
     level:    [39, 39]
   17498160:
     template: Ironshell
-    at:       [24.078, 10.134, 185.711, 127]
+    region:   region_144
     level:    [37, 40]
   17498161:
     template: Royal_Leech
@@ -3612,11 +3612,11 @@ spawns:
     level:    [38, 41]
   17498184:
     template: Namtar
-    at:       [-148.457, 9.171, 175.332, 60]
+    region:   region_145
     level:    [39, 41]
   17498185:
     template: Ooze
-    at:       [-187.253, 9.364, 142.011, 127]
+    region:   region_146
     level:    [39, 42]
   17498186:
     template: Ghast_blm
@@ -3639,7 +3639,7 @@ spawns:
     level:    [38, 41]
   17498190:
     template: Ooze
-    at:       [-182.581, 25.268, 229.155, 127]
+    region:   region_147
     level:    [39, 42]
   17498191:
     template: Undead_Bats_SSG
@@ -3648,15 +3648,15 @@ spawns:
     level:    [36, 39]
   17498192:
     template: Royal_Leech
-    at:       [14.644, 7.840, 154.508, 127]
+    region:   region_148
     level:    [35, 38]
   17498193:
     template: Ironshell
-    at:       [6.944, 6.429, 148.513, 127]
+    region:   region_149
     level:    [37, 40]
   17498194:
     template: Royal_Leech
-    at:       [10.411, 3.701, 138.396, 50]
+    region:   region_150
     level:    [35, 38]
   17498195:
     template: Spring_Sahagin
@@ -3676,22 +3676,22 @@ spawns:
     level:    [35, 38]
   17498199:
     template: Wuur_the_Sandcomber
-    at:       [16.000, -0.500, 120.000, 127]
+    region:   c_83
     level:    [42, 44]
   17498200:
     template: Undead_Bats_SSG
     script:   Undead_Bats
-    at:       [151.858, -5.922, 177.846, 8]
+    region:   region_151
     level:    [36, 39]
   17498201:
     template: Undead_Bats_SSG
     script:   Undead_Bats
-    at:       [152.593, -3.660, 169.867, 104]
+    region:   region_152
     level:    [36, 39]
   17498202:
     template: Undead_Bats_SSG
     script:   Undead_Bats
-    at:       [147.285, -1.795, 167.325, 127]
+    region:   region_153
     level:    [36, 39]
   17498203:
     template: Ironshell
@@ -3969,7 +3969,7 @@ spawns:
     level:    [43, 48]
   17498269:
     template: Fyuu_the_Seabellow
-    at:       [175.000, 20.000, 41.000, 127]
+    region:   region_154
     level:    [48, 48]
   17498270:
     template: Grotto_Pugil
@@ -4035,7 +4035,7 @@ spawns:
     level:    [44, 48]
   17498285:
     template: Qull_the_Shellbuster
-    at:       [391.000, 9.000, -59.000, 127]
+    region:   e_176
     level:    [49, 51]
   17498286:
     template: Brook_Sahagin
@@ -4102,7 +4102,7 @@ spawns:
     level:    [44, 48]
   17498301:
     template: Seww_the_Squidlimbed
-    at:       [245.000, 11.000, 61.000, 127]
+    region:   e_186
     level:    [48, 49]
   17498302:
     template: Bigclaw_aggro
@@ -4269,7 +4269,7 @@ spawns:
     level:    [53, 58]
   17498341:
     template: Pahh_the_Gullcaller
-    at:       [-2.000, 21.000, -19.000, 127]
+    region:   c_223
     level:    [56, 58]
   17498342:
     template: Marsh_Sahagin
@@ -4329,7 +4329,7 @@ spawns:
     level:    [52, 55]
   17498356:
     template: Mouu_the_Waverider
-    at:       [-82.000, 21.000, 62.000, 127]
+    region:   region_156
     level:    [64, 66]
   17498357:
     template: Sahagins_Wyvern
@@ -4557,7 +4557,7 @@ spawns:
     level:    [55, 59]
   17498413:
     template: Worr_the_Clawfisted
-    at:       [-301.000, 20.000, -64.000, 127]
+    region:   w_298
     level:    [60, 61]
   17498414:
     template: Rock_Crab
@@ -4585,7 +4585,7 @@ spawns:
     level:    [57, 60]
   17498420:
     template: Sea_Hog
-    at:       [-233.000, 10.000, -59.000, 127]
+    region:   w_303
     level:    [62, 63]
   17498421:
     template: Marsh_Sahagin
@@ -4605,7 +4605,7 @@ spawns:
     level:    [57, 60]
   17498425:
     template: Razorjaw_Pugil
-    at:       [-259.000, 10.000, -77.000, 67]
+    region:   region_157
     level:    [57, 60]
   17498426:
     template: Marsh_Sahagin
@@ -4617,7 +4617,7 @@ spawns:
     level:    [55, 59]
   17498428:
     template: Voll_the_Sharkfinned
-    at:       [-320.000, 16.000, -98.000, 127]
+    region:   w_314
     level:    [64, 66]
   17498429:
     template: Mousse_SSG
@@ -4773,22 +4773,22 @@ spawns:
     level:    [63, 66]
   17498464:
     template: Denn_the_Orcavoiced
-    at:       [-94.000, 9.000, -298.000, 127]
+    region:   sw_348
     level:    [64, 65]
   17498465:
     template: Dire_Bat_UDT_TC_SSG
     script:   Dire_Bat
-    at:       [-88.186, 27.963, -177.110, 127]
+    region:   region_158
     level:    [63, 66]
   17498466:
     template: Mousse_SSG
     script:   Mousse
-    at:       [-90.964, 26.347, -167.792, 40]
+    region:   region_159
     level:    [62, 65]
   17498467:
     template: Dire_Bat_UDT_TC_SSG
     script:   Dire_Bat
-    at:       [-100.778, 23.525, -168.125, 127]
+    region:   region_160
     level:    [63, 66]
   17498468:
     template: Dire_Bat_UDT_TC_SSG
@@ -5030,16 +5030,16 @@ spawns:
     level:    [66, 69]
   17498522:
     template: Charybdis
-    at:       [-152.000, 48.000, -328.000, 127]
+    region:   sw_408
     level:    [79, 81]
   17498523:
     template: Mindgazer_SSG
     script:   Mindgazer
-    at:       [110.662, 2.660, 12.958, 127]
+    region:   region_155
     level:    [66, 69]
   17498524:
     template: Shore_Sahagin
-    at:       [107.255, 2.561, 15.756, 127]
+    region:   region_155
     level:    [69, 71]
   17498525:
     template: Greatclaw
@@ -5136,12 +5136,12 @@ spawns:
     level:    [72, 74]
   17498546:
     template: Greatclaw
-    at:       [110.267, 3.557, -218.387, 127]
+    region:   region_161
     level:    [66, 69]
   17498547:
     template: Mindgazer_SSG
     script:   Mindgazer
-    at:       [112.778, 6.217, -228.384, 127]
+    region:   region_162
     level:    [66, 69]
   17498548:
     template: Greatclaw
@@ -5173,27 +5173,27 @@ spawns:
     level:    [70, 72]
   17498555:
     template: Shore_Sahagin
-    at:       [89.394, 9.950, -282.594, 56]
+    region:   region_163
     level:    [70, 72]
   17498556:
     template: Delta_Sahagin
-    at:       [72.941, 9.564, -283.348, 6]
+    region:   region_163
     level:    [70, 72]
   17498557:
     template: Lagoon_Sahagin
-    at:       [69.274, 10.500, -264.268, 127]
+    region:   region_163
     level:    [70, 72]
   17498558:
     template: Abyss_Sahagin
-    at:       [127.653, 9.904, -277.297, 82]
+    region:   s_438
     level:    [72, 74]
   17498559:
     template: Coral_Sahagin
-    at:       [128.532, 9.997, -284.626, 61]
+    region:   s_438
     level:    [72, 74]
   17498560:
     template: Ocean_Sahagin
-    at:       [99.034, 9.626, -250.518, 127]
+    region:   region_143
     level:    [75, 75]
   17498561:
     template: Sahagins_Wyvern
@@ -5202,12 +5202,12 @@ spawns:
   17498562:
     template: Mindgazer_SSG
     script:   Mindgazer
-    at:       [20.020, 10.232, -256.663, 81]
+    region:   region_164
     level:    [66, 69]
   17498563:
     template: Mindgazer_SSG
     script:   Mindgazer
-    at:       [20.357, 10.235, -257.067, 127]
+    region:   region_164
     level:    [66, 69]
   17498564:
     template: Mimic
