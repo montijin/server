@@ -2358,15 +2358,15 @@ spawns:
     level:    [25, 26]
   17580039:
     template: Smothered_Schmidt
-    at:       [202.000, -59.000, -98.000, 127]
+    region:   region_87
     level:    [36, 38]
   17580040:
     template: Crushed_Krause
-    at:       [167.000, -39.000, -18.000, 127]
+    region:   region_91
     level:    [37, 38]
   17580041:
     template: Pulverized_Pfeffer
-    at:       [-124.000, -59.000, -101.000, 127]
+    region:   region_88
     level:    [36, 38]
   17580042:
     template: Burned_Bergmann
@@ -2513,17 +2513,17 @@ spawns:
   17580073:
     template: Ghoul_war_GM_MoS
     script:   Ghoul
-    at:       [5.000, -54.000, -92.000, 127]
+    region:   region_89
     level:    [20, 24]
   17580074:
     template: Ghoul_war_GM_MoS
     script:   Ghoul
-    at:       [15.834, -60.117, -96.727, 67]
+    region:   region_89
     level:    [20, 24]
   17580075:
     template: Ghoul_blm_GM
     script:   Ghoul
-    at:       [41.000, -54.000, -93.000, 55]
+    region:   region_89
     level:    [24, 27]
   17580076:
     template: Ghoul_war_GM_MoS
@@ -2805,17 +2805,17 @@ spawns:
   17580136:
     template: Wendigo_war
     script:   Wendigo
-    at:       [16.123, -40.100, 105.745, 185]
+    region:   region_90
     level:    [26, 30]
   17580137:
     template: Wendigo_war
     script:   Wendigo
-    at:       [18.865, -40.100, 106.229, 248]
+    region:   region_90
     level:    [26, 30]
   17580138:
     template: Wight_blm
     script:   Wight
-    at:       [19.186, -40.599, 102.541, 57]
+    region:   region_90
     level:    [29, 33]
   17580139:
     template: Accursed_Soldier
@@ -3255,7 +3255,7 @@ spawns:
     level:    [30, 32]
   17580246:
     template: Thunder_Elemental
-    at:       [-149.308, 1.016, 307.837, 86]
+    region:   nw_215
     level:    [33, 36]
   17580247:
     template: Earth_Elemental
@@ -3599,7 +3599,7 @@ spawns:
     level:    [29, 31]
   17580320:
     template: Foul_Meat
-    at:       [141.000, -19.878, 208.000, 9]
+    region:   region_92
     level:    [43, 45]
   17580321:
     template: Mauthe_Doog_GM
