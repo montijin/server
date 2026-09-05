@@ -3661,7 +3661,7 @@ spawns:
     level:    [45, 49]
   16879847:
     template: Okyupete
-    at:       [-76.467, -24.484, 523.605, 108]
+    region:   nw_223
     level:    [57, 60]
   16879848:
     template: Air_Elemental
