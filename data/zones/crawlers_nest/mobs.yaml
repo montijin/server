@@ -2580,11 +2580,11 @@ spawns:
     level:    [93, 95]
   17584294:
     template: Fire_Elemental
-    at:       [126.000, -32.000, 47.000, 20]
+    region:   c_42
     level:    [52, 54]
   17584295:
     template: Water_Elemental
-    at:       [-26.000, -1.000, 260.000, 127]
+    region:   region_61
     level:    [52, 54]
   17584296:
     template: Fire_Elemental
@@ -2592,7 +2592,7 @@ spawns:
     level:    [52, 54]
   17584297:
     template: Water_Elemental
-    at:       [132.000, -1.000, -329.000, 127]
+    region:   s_96
     level:    [52, 54]
   17584298:
     template: Blazer_Beetle
@@ -2612,7 +2612,7 @@ spawns:
     level:    [52, 54]
   17584302:
     template: Water_Elemental
-    at:       [59.000, -1.000, 99.000, 127]
+    region:   c_206
     level:    [52, 54]
   17584303:
     template: Blazer_Beetle
@@ -2628,7 +2628,7 @@ spawns:
     level:    [52, 54]
   17584306:
     template: Water_Elemental
-    at:       [64.000, -1.000, -387.000, 127]
+    region:   s_114
     level:    [52, 54]
   17584307:
     template: Blazer_Beetle
@@ -2660,7 +2660,7 @@ spawns:
     level:    [52, 54]
   17584314:
     template: Water_Elemental
-    at:       [-198.000, -1.000, -338.000, 127]
+    region:   sw_179
     level:    [52, 54]
   17584315:
     template: Helm_Beetle_aggro
@@ -2730,17 +2730,17 @@ spawns:
   17584328:
     template: Worker_Crawler_CN
     script:   Worker_Crawler
-    region:   c_199
+    region:   region_65
     level:    [42, 44]
   17584329:
     template: Worker_Crawler_CN
     script:   Worker_Crawler
-    region:   c_199
+    region:   region_65
     level:    [42, 44]
   17584330:
     template: Worker_Crawler_CN
     script:   Worker_Crawler
-    region:   c_199
+    region:   region_65
     level:    [42, 44]
   17584331:
     template: Puroboros
@@ -3035,7 +3035,7 @@ spawns:
     level:    [55, 57]
   17584398:
     template: Demonic_Tiphia
-    at:       [-98.000, -0.637, 324.000, 127]
+    region:   n_266
     level:    [60, 60]
   17584399:
     template: Dragonfly_CN
@@ -3073,7 +3073,7 @@ spawns:
     level:    [52, 54]
   17584406:
     template: Water_Elemental
-    at:       [-119.745, -0.701, 351.712, 216]
+    region:   nw_271
     level:    [52, 54]
   17584407:
     template: Crawler_Hunter
@@ -3113,7 +3113,7 @@ spawns:
     level:    [52, 54]
   17584415:
     template: Water_Elemental
-    at:       [-209.755, -0.860, 247.869, 68]
+    region:   nw_280
     level:    [52, 54]
   17584416:
     template: Aqrabuamelu
@@ -3121,39 +3121,39 @@ spawns:
     level:    [72, 75]
   17584417:
     template: Crawler_Hunter
-    at:       [-253.019, -1.339, 215.315, 23]
+    region:   region_64
     level:    [60, 62]
   17584418:
     template: Crawler_Hunter
-    at:       [-240.637, -0.772, 220.026, 204]
+    region:   region_64
     level:    [60, 62]
   17584419:
     template: Knight_Crawler_CN
     script:   Knight_Crawler
-    at:       [-248.089, -0.930, 204.837, 12]
+    region:   region_64
     level:    [60, 63]
   17584420:
     template: Knight_Crawler_CN
     script:   Knight_Crawler
-    at:       [-225.286, -1.167, 223.305, 153]
+    region:   region_64
     level:    [60, 63]
   17584421:
     template: Knight_Crawler_CN
     script:   Knight_Crawler
-    at:       [-246.709, -0.514, 217.057, 104]
+    region:   region_64
     level:    [60, 63]
   17584422:
     template: Knight_Crawler_CN
     script:   Knight_Crawler
-    at:       [-255.251, -1.511, 254.356, 182]
+    region:   region_64
     level:    [60, 63]
   17584423:
     template: Fire_Elemental
-    at:       [-230.998, -1.499, 217.899, 50]
+    region:   region_64
     level:    [52, 54]
   17584424:
     template: Water_Elemental
-    at:       [-241.676, -0.366, 193.061, 185]
+    region:   region_64
     level:    [52, 54]
   17584425:
     template: Dreadbug
