@@ -3040,6 +3040,7 @@ spawns:
     level:    [73, 75]
   17027138:
     template: Fire_Elemental
+    region:   region_218
     level:    [74, 76]
   17027139:
     template: Magmatic_Eruca
@@ -3116,7 +3117,7 @@ spawns:
     level:    [72, 74]
   17027157:
     template: Magmatic_Eruca
-    at:       [448.880, -25.690, 17.908, 5]
+    region:   region_188
     level:    [73, 75]
   17027158:
     template: Magmatic_Eruca
@@ -3216,11 +3217,11 @@ spawns:
     level:    [77, 79]
   17027182:
     template: Fire_Elemental
-    at:       [40.470, -14.140, 109.384, 55]
+    region:   c_108
     level:    [74, 76]
   17027183:
     template: Fahrafahr_the_Bloodied
-    at:       [38.967, -14.478, 115.574, 141]
+    region:   c_108
     level:    [80, 80]
   17027184:
     template: Volcanic_Leech
@@ -3276,7 +3277,7 @@ spawns:
     level:    [79, 81]
   17027197:
     template: Wamoura_Prince
-    at:       [20.340, -24.280, 193.891, 101]
+    region:   n_124
     level:    [79, 81]
   17027198:
     template: Wamoura_2
@@ -3289,7 +3290,7 @@ spawns:
     level:    [79, 81]
   17027200:
     template: Wamoura_Prince
-    at:       [52.778, -24.390, 195.606, 186]
+    region:   n_127
     level:    [79, 81]
   17027201:
     template: Wamoura_2
@@ -3435,7 +3436,7 @@ spawns:
     level:    [72, 74]
   17027236:
     template: Fire_Elemental
-    at:       [586.970, -13.830, -3.247, 133]
+    region:   region_190
     level:    [74, 76]
   17027237:
     template: Magmatic_Eruca
@@ -3576,7 +3577,7 @@ spawns:
     level:    [71, 73]
   17027271:
     template: Mountain_Clot
-    at:       [777.830, -15.120, 170.800, 65]
+    region:   region_191
     level:    [71, 73]
   17027272:
     template: Zhayolm_Apkallu
@@ -3689,24 +3690,24 @@ spawns:
     level:    [72, 74]
   17027299:
     template: Sweeping_Cluster
-    at:       [574.900, -24.960, 223.595, 167]
+    region:   region_193
     level:    [73, 75]
   17027300:
     template: Sweeping_Cluster
-    at:       [596.040, -24.190, 226.606, 171]
+    region:   region_194
     level:    [73, 75]
   17027301:
     template: Sweeping_Cluster
-    at:       [580.590, -24.180, 206.940, 205]
+    region:   region_195
     level:    [73, 75]
   17027302:
     template: Assassin_Fly_Large
     script:   Assassin_Fly
-    at:       [574.130, -24.060, 200.738, 71]
+    region:   ne_232
     level:    [74, 76]
   17027303:
     template: Assassin_Fly
-    at:       [580.110, -23.700, 199.552, 9]
+    region:   ne_232
     level:    [72, 74]
   17027304:
     template: Assassin_Fly
@@ -3735,15 +3736,15 @@ spawns:
   17027310:
     template: Assassin_Fly_Large
     script:   Assassin_Fly
-    at:       [560.390, -24.200, 130.869, 108]
+    region:   region_192
     level:    [74, 76]
   17027311:
     template: Assassin_Fly
-    at:       [555.730, -23.830, 134.423, 160]
+    region:   region_192
     level:    [72, 74]
   17027312:
     template: Assassin_Fly
-    at:       [559.940, -24.200, 129.798, 106]
+    region:   region_192
     level:    [72, 74]
   17027313:
     template: Phasma
@@ -3767,59 +3768,59 @@ spawns:
     level:    [73, 75]
   17027318:
     template: Ebony_Pudding
-    at:       [161.450, -24.500, 148.048, 123]
+    region:   region_219
     level:    [79, 80]
   17027319:
     template: Ebony_Pudding
-    at:       [171.490, -24.170, 176.166, 204]
+    region:   region_220
     level:    [79, 80]
   17027320:
     template: Ebony_Pudding
-    at:       [190.330, -24.510, 167.970, 59]
+    region:   region_221
     level:    [79, 80]
   17027321:
     template: Ebony_Pudding
-    at:       [201.130, -24.630, 168.251, 92]
+    region:   region_222
     level:    [79, 80]
   17027322:
     template: Ebony_Pudding
-    at:       [222.360, -23.700, 157.826, 25]
+    region:   region_223
     level:    [79, 80]
   17027323:
     template: Ebony_Pudding
-    at:       [216.410, -25.700, 173.216, 154]
+    region:   region_224
     level:    [79, 80]
   17027324:
     template: Ebony_Pudding
-    at:       [227.710, -24.900, 199.983, 212]
+    region:   region_196
     level:    [79, 80]
   17027325:
     template: Fire_Elemental
-    at:       [231.480, -24.120, 207.490, 142]
+    region:   region_196
     level:    [74, 76]
   17027326:
     template: Phasma
-    at:       [247.610, -24.550, 199.177, 197]
+    region:   region_196
     level:    [73, 76]
   17027327:
     template: Ebony_Pudding
-    at:       [226.750, -24.370, 148.242, 6]
+    region:   region_225
     level:    [79, 80]
   17027328:
     template: Hilltroll_Ranger
-    at:       [280.960, -24.280, 53.166, 15]
+    region:   c_263
     level:    [81, 83]
   17027329:
     template: Hilltroll_Monk
-    at:       [289.080, -24.330, 56.660, 22]
+    region:   c_263
     level:    [81, 83]
   17027330:
     template: Fire_Elemental
-    at:       [290.140, -24.480, 81.040, 12]
+    region:   region_197
     level:    [74, 76]
   17027331:
     template: Hilltroll_Puppetmaster
-    at:       [258.980, -24.450, 94.130, 7]
+    region:   region_198
     level:    [81, 83]
   17027332:
     template: Trolls_Automaton
@@ -3827,7 +3828,7 @@ spawns:
     level:    [77, 79]
   17027333:
     template: Phasma
-    at:       [263.690, -24.460, 54.649, 141]
+    region:   region_199
     level:    [73, 76]
   17027334:
     template: Hilltroll_Red_Mage
@@ -3903,7 +3904,7 @@ spawns:
     level:    [74, 76]
   17027352:
     template: Fire_Elemental
-    at:       [323.660, -24.310, -54.790, 157]
+    region:   region_200
     level:    [74, 76]
   17027353:
     template: Hilltroll_Warrior
@@ -3911,35 +3912,35 @@ spawns:
     level:    [81, 83]
   17027354:
     template: Hilltroll_Ranger
-    at:       [360.270, -24.070, 105.083, 167]
+    region:   region_201
     level:    [81, 83]
   17027355:
     template: Hilltroll_Ranger
-    at:       [247.810, -32.500, 70.033, 226]
+    region:   region_202
     level:    [81, 83]
   17027356:
     template: Hilltroll_Red_Mage
-    at:       [284.600, -32.500, 10.758, 47]
+    region:   region_203
     level:    [81, 83]
   17027357:
     template: Hilltroll_Ranger
-    at:       [324.470, -32.500, 14.765, 163]
+    region:   region_204
     level:    [81, 83]
   17027358:
     template: Hilltroll_Dark_Knight
-    at:       [363.510, -32.490, 37.735, 64]
+    region:   region_205
     level:    [81, 83]
   17027359:
     template: Hilltroll_Paladin
-    at:       [274.160, -32.500, -22.038, 169]
+    region:   region_206
     level:    [81, 83]
   17027360:
     template: Hilltroll_Red_Mage
-    at:       [278.340, -32.500, -61.180, 49]
+    region:   region_207
     level:    [81, 83]
   17027361:
     template: Hilltroll_Warrior
-    at:       [355.990, -32.490, 12.127, 96]
+    region:   region_208
     level:    [81, 83]
   17027362:
     template: Troll_Speculator_MtZhayolm
@@ -3952,43 +3953,43 @@ spawns:
     level:    [77, 79]
   17027364:
     template: Wamoura_Prince
-    at:       [-508.800, -12.500, -197.610, 49]
+    region:   region_209
     level:    [79, 81]
   17027365:
     template: Wamoura_Prince
-    at:       [-538.000, -13.450, -182.120, 238]
+    region:   region_209
     level:    [79, 81]
   17027366:
     template: King_Apkallu
-    at:       [-530.500, -13.200, -194.110, 196]
+    region:   region_210
     level:    [78, 80]
   17027367:
     template: King_Apkallu
-    at:       [-532.100, -13.020, -208.380, 244]
+    region:   region_210
     level:    [78, 80]
   17027368:
     template: King_Apkallu
-    at:       [-574.600, -11.950, -161.470, 206]
+    region:   region_210
     level:    [78, 80]
   17027369:
     template: King_Apkallu
-    at:       [-555.700, -13.060, -170.880, 158]
+    region:   region_210
     level:    [78, 80]
   17027370:
     template: King_Apkallu
-    at:       [-561.200, -12.750, -171.210, 223]
+    region:   region_210
     level:    [78, 80]
   17027371:
     template: Phasma
-    at:       [-560.000, -12.480, -158.720, 206]
+    region:   region_215
     level:    [73, 76]
   17027372:
     template: Wamoura_Prince
-    at:       [-531.100, -12.100, -163.520, 154]
+    region:   region_209
     level:    [79, 81]
   17027373:
     template: Wamoura_Prince
-    at:       [-562.300, -19.960, -119.220, 239]
+    region:   region_209
     level:    [79, 81]
   17027374:
     template: Phasma
@@ -4016,11 +4017,11 @@ spawns:
     level:    [78, 80]
   17027380:
     template: King_Apkallu
-    at:       [-597.400, -12.810, -177.810, 111]
+    region:   sw_306
     level:    [78, 80]
   17027381:
     template: King_Apkallu
-    at:       [-661.500, -12.980, -141.530, 141]
+    region:   sw_310
     level:    [78, 80]
   17027382:
     template: King_Apkallu
@@ -4084,35 +4085,35 @@ spawns:
     level:    [88, 89]
   17027397:
     template: Orichalcumshell
-    at:       [-653.100, -12.830, -85.191, 253]
+    region:   region_212
     level:    [88, 89]
   17027398:
     template: Orichalcumshell
-    at:       [-655.500, -13.060, -66.222, 173]
+    region:   region_212
     level:    [88, 89]
   17027399:
     template: Orichalcumshell
-    at:       [-612.100, -20.290, -120.840, 176]
+    region:   region_213
     level:    [88, 89]
   17027400:
     template: Orichalcumshell
-    at:       [-603.200, -20.180, -102.230, 182]
+    region:   region_213
     level:    [88, 89]
   17027401:
     template: Orichalcumshell
-    at:       [-592.500, -23.220, -113.290, 236]
+    region:   region_213
     level:    [88, 89]
   17027402:
     template: Orichalcumshell
-    at:       [-593.700, -22.160, -110.520, 130]
+    region:   region_213
     level:    [88, 89]
   17027403:
     template: Wamoura_Prince
-    at:       [-580.500, -24.350, -41.196, 62]
+    region:   region_216
     level:    [79, 81]
   17027404:
     template: Wamoura_Prince
-    at:       [-602.300, -24.370, -19.263, 126]
+    region:   region_214
     level:    [79, 81]
   17027405:
     template: Sweeping_Cluster
@@ -4124,7 +4125,7 @@ spawns:
     level:    [77, 78]
   17027407:
     template: Ebony_Pudding
-    at:       [-650.700, -14.420, 101.070, 131]
+    region:   region_226
     level:    [79, 80]
   17027408:
     template: Sweeping_Cluster
@@ -4140,7 +4141,7 @@ spawns:
     level:    [77, 78]
   17027411:
     template: Ebony_Pudding
-    at:       [-613.100, -4.250, 139.270, 130]
+    region:   region_227
     level:    [79, 80]
   17027412:
     template: Wamoura_Prince
@@ -4360,7 +4361,7 @@ spawns:
     level:    [76, 76]
   17027466:
     template: Energetic_Eruca
-    at:       [176.743, -14.210, -180.926]
+    region:   region_217
     level:    [80, 80]
   17027467:
     template: Garharlor_the_Unruly
