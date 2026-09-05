@@ -483,7 +483,7 @@ spawns:
     level:    [69, 72]
   17301514:
     template: Fire_Elemental
-    at:       [-19.868, -0.534, -29.271, 65]
+    region:   s_7
     level:    [66, 68]
   17301515:
     template: Velociraptor
@@ -527,11 +527,11 @@ spawns:
     level:    [69, 72]
   17301525:
     template: Fire_Elemental
-    at:       [-25.864, -3.904, -64.997, 62]
+    region:   sw_4
     level:    [66, 68]
   17301526:
     template: Air_Elemental
-    at:       [-14.432, -4.043, 63.329, 127]
+    region:   n_13
     level:    [66, 68]
   17301527:
     template: Velociraptor
