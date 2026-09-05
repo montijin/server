@@ -3954,7 +3954,7 @@ spawns:
     level:    [35, 35]
   17203216:
     template: King_Arthro
-    at:       [-144.000, 5.000, 474.000, 93]
+    region:   region_67
     level:    [55, 55]
   17203217:
     template: Stag_Beetle
@@ -4182,8 +4182,8 @@ spawns:
     level:    [21, 22]
   17203273:
     template: Ghoul_war
-    region:   sw_65
     script:   Ghoul
+    region:   sw_65
     level:    [16, 17]
   17203274:
     template: Zombie_blm
@@ -4430,7 +4430,7 @@ spawns:
     level:    [25, 26]
   17203334:
     template: Water_Elemental
-    at:       [-500.637, 8.492, 281.808, 127]
+    region:   nw_129
     level:    [27, 29]
   17203335:
     template: Stag_Beetle
@@ -4486,7 +4486,7 @@ spawns:
     level:    [25, 26]
   17203348:
     template: Water_Elemental
-    at:       [-13.701, 0.385, 330.864, 127]
+    region:   n_143
     level:    [27, 29]
   17203349:
     template: Snipper
@@ -4510,7 +4510,7 @@ spawns:
     level:    [25, 26]
   17203354:
     template: Water_Elemental
-    at:       [105.628, 3.643, 439.504, 127]
+    region:   n_149
     level:    [27, 29]
   17203355:
     template: Stag_Beetle
@@ -4720,7 +4720,7 @@ spawns:
     level:    [21, 22]
   17203406:
     template: Will-o-the-Wisp
-    at:       [102.831, -0.045, 159.810, 7]
+    region:   c_183
     level:    [24, 25]
   17203407:
     template: Orcish_Grunt
@@ -4752,17 +4752,17 @@ spawns:
     level:    [21, 22]
   17203414:
     template: Meteormauler_Zhagtegg
-    at:       [-232.300, -8.180, -571.660, 221]
+    region:   s_207
     level:    [37, 40]
   17203415:
     template: Orcish_Cursemaker_3
     script:   Orcish_Cursemaker
-    at:       [-142.000, -1.000, -411.000, 127]
+    region:   s_207
     level:    [25, 25]
   17203416:
     template: Orcish_Serjeant_3
     script:   Orcish_Serjeant
-    at:       [-160.949, -1.982, -392.046, 127]
+    region:   s_207
     level:    [24, 25]
   17203417:
     template: Snipper
@@ -4786,15 +4786,15 @@ spawns:
     level:    [25, 26]
   17203422:
     template: Water_Elemental
-    at:       [-8.196, -15.777, -588.725, 127]
+    region:   s_193
     level:    [27, 29]
   17203423:
     template: Forest_Tiger
-    at:       [-47.585, -19.117, -648.590, 127]
+    region:   region_68
     level:    [24, 25]
   17203424:
     template: Forest_Tiger
-    at:       [-53.845, -20.874, -654.784, 106]
+    region:   region_68
     level:    [24, 25]
   17203425:
     template: Stag_Beetle
@@ -4875,8 +4875,8 @@ spawns:
     level:    [16, 17]
   17203444:
     template: Zombie_blm
-    region:   s_235
     script:   Zombie
+    region:   s_235
     level:    [21, 22]
   17203445:
     template: Will-o-the-Wisp
@@ -4888,11 +4888,11 @@ spawns:
     level:    [22, 23]
   17203447:
     template: Fraelissa
-    region:   s_230
+    region:   s_245
     level:    [34, 35]
   17203448:
     template: Fradubio
-    at:       [76.573, -0.901, -246.241, 4]
+    region:   s_245
     level:    [59, 60]
   17203449:
     template: Duessa
@@ -4960,7 +4960,7 @@ spawns:
     level:    [25, 26]
   17203465:
     template: Water_Elemental
-    at:       [246.856, -17.062, -503.959, 127]
+    region:   se_258
     level:    [27, 29]
   17203466:
     template: Stag_Beetle
@@ -5000,7 +5000,7 @@ spawns:
     level:    [22, 23]
   17203475:
     template: Supplespine_Mujwuj
-    at:       [50.114, -0.184, -240.493, 127]
+    region:   se_292
     level:    [50, 50]
   17203476:
     template: Stag_Beetle
@@ -5101,12 +5101,12 @@ spawns:
     level:    [16, 17]
   17203500:
     template: Zombie_blm
-    region:   se_292
     script:   Zombie
+    region:   se_292
     level:    [21, 22]
   17203501:
     template: Will-o-the-Wisp
-    at:       [318.081, -15.956, -450.034, 196]
+    region:   se_266
     level:    [24, 25]
   17203502:
     template: Boggart
@@ -5138,7 +5138,7 @@ spawns:
     level:    [25, 26]
   17203509:
     template: Water_Elemental
-    at:       [321.833, -0.025, -188.876, 127]
+    region:   e_304
     level:    [27, 29]
   17203510:
     template: Boggart
@@ -5428,7 +5428,7 @@ spawns:
     level:    [24, 25]
   17203581:
     template: Stag_Beetle
-    at:       [535.504, -1.517, 152.171, 53]
+    region:   ne_382
     level:    [22, 23]
   17203582:
     template: Stag_Beetle
@@ -5444,7 +5444,7 @@ spawns:
     level:    [22, 23]
   17203585:
     template: Panzer_Percival
-    at:       [585.027, 0.044, 203.418, 13]
+    region:   ne_382
     level:    [25, 26]
   17203586:
     template: Boggart
@@ -5640,8 +5640,8 @@ spawns:
     level:    [16, 17]
   17203634:
     template: Ghoul_war
-    region:   ne_426
     script:   Ghoul
+    region:   ne_426
     level:    [16, 17]
   17203635:
     template: Zombie_blm
@@ -5662,19 +5662,19 @@ spawns:
     level:    [22, 23]
   17203639:
     template: Stag_Beetle
-    at:       [274.083, 0.250, 537.848]
+    region:   ne_437
     level:    [22, 23]
   17203640:
     template: Stag_Beetle
-    at:       [326.435, -0.877, 493.729, 55]
+    region:   ne_437
     level:    [22, 23]
   17203641:
     template: Stag_Beetle
-    at:       [242.000, -0.100, 528.000, 127]
+    region:   ne_437
     level:    [22, 23]
   17203642:
     template: Panzer_Percival
-    at:       [239.541, -0.365, 559.722, 127]
+    region:   ne_437
     level:    [25, 26]
   17203643:
     template: Jugner_Funguar
