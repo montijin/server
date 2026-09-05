@@ -3876,7 +3876,7 @@ spawns:
           end:    6
   17264738:
     template: Earth_Elemental
-    at:       [43.097, 24.488, -147.902, 101]
+    region:   s_91
     level:    [27, 29]
   17264739:
     template: Wandering_Sapling
@@ -3997,7 +3997,7 @@ spawns:
     level:    [27, 29]
   17264768:
     template: Naa_Zeku_the_Unwaiting
-    at:       [407.659, -1.452, -319.434, 127]
+    region:   s_117
     level:    [49, 49]
   17264769:
     template: Jubjub
@@ -4160,12 +4160,12 @@ spawns:
     level:    [16, 23]
   17264797:
     template: Zombie_blm
-    region:   s_129
     script:   Zombie
+    region:   s_129
     level:    [16, 23]
   17264798:
     template: Earth_Elemental
-    at:       [243.605, 6.596, -278.531, 122]
+    region:   s_129
     level:    [27, 29]
   17264799:
     template: Jubjub
@@ -4185,8 +4185,8 @@ spawns:
     level:    [27, 28]
   17264803:
     template: Night_Bats_MM_PM
-    region:   e_159
     script:   Night_Bats
+    region:   e_159
     level:    [15, 16]
     attributes:
       spawn:
@@ -4262,11 +4262,11 @@ spawns:
     level:    [24, 25]
   17264818:
     template: Daggerclaw_Dracos
-    at:       [630.430, -16.372, -494.748]
+    region:   se_169
     level:    [27, 28]
   17264819:
     template: Fire_Elemental
-    at:       [713.915, -16.088, -478.193, 59]
+    region:   se_169
     level:    [27, 29]
   17264820:
     template: Goblin_Mugger
@@ -4340,7 +4340,7 @@ spawns:
     level:    [16, 17]
   17264837:
     template: Goblin_Gambler
-    at:       [-13.686, -17.177, 183.402, 127]
+    region:   c_193
     level:    [21, 22]
   17264838:
     template: Goblin_Butcher
@@ -4354,7 +4354,7 @@ spawns:
   17264840:
     template: Zombie_blm
     script:   Zombie
-    at:       [-164.096, -16.005, 151.266, 104]
+    region:   c_193
     level:    [16, 23]
   17264841:
     template: Bogy
@@ -4374,7 +4374,7 @@ spawns:
     level:    [21, 22]
   17264845:
     template: Goblin_Gambler
-    at:       [-58.015, -16.549, 181.997, 127]
+    region:   c_193
     level:    [16, 17]
   17264846:
     template: Boggart
@@ -4567,7 +4567,7 @@ spawns:
     level:    [17, 24]
   17264883:
     template: Bogy
-    at:       [329.343, 4.938, -31.200, 127]
+    region:   region_52
     level:    [25, 26]
   17264884:
     template: Wandering_Sapling
@@ -4599,7 +4599,7 @@ spawns:
     level:    [22, 23]
   17264891:
     template: Stag_Beetle
-    at:       [87.251, -16.576, 198.690, 111]
+    region:   c_244
     level:    [22, 23]
   17264892:
     template: Wandering_Sapling
@@ -4631,7 +4631,7 @@ spawns:
     level:    [22, 23]
   17264899:
     template: Stag_Beetle
-    at:       [301.756, -16.044, 215.102, 127]
+    region:   c_252
     level:    [22, 23]
   17264900:
     template: Wandering_Sapling
@@ -4709,11 +4709,11 @@ spawns:
     level:    [17, 24]
   17264918:
     template: Fire_Elemental
-    at:       [408.109, -16.601, 127.704, 33]
+    region:   c_269
     level:    [27, 29]
   17264919:
     template: Bogy
-    at:       [297.467, -12.885, 166.107, 127]
+    region:   c_269
     level:    [25, 26]
   17264920:
     template: Yagudo_Votary
@@ -4944,7 +4944,7 @@ spawns:
     level:    [15, 16]
   17264977:
     template: Crane_Fly
-    at:       [152.814, -8.560, 585.853, 127]
+    region:   Needs_Multi_Region
     level:    [20, 21]
   17264978:
     template: Crane_Fly
@@ -4952,7 +4952,7 @@ spawns:
     level:    [20, 21]
   17264979:
     template: Crane_Fly
-    at:       [155.277, -8.462, 562.477, 1]
+    region:   Needs_Multi_Region
     level:    [20, 21]
   17264980:
     template: Crane_Fly
@@ -4960,7 +4960,7 @@ spawns:
     level:    [20, 21]
   17264981:
     template: Hill_Lizard
-    at:       [44.000, -7.000, 458.000, 127]
+    region:   Needs_Multi_Region
     level:    [21, 22]
   17264982:
     template: Hill_Lizard
@@ -4976,15 +4976,15 @@ spawns:
     level:    [21, 22]
   17264985:
     template: Hill_Lizard
-    at:       [346.541, -0.141, 516.058, 127]
+    region:   Needs_Multi_Region
     level:    [21, 22]
   17264986:
     template: Hill_Lizard
-    at:       [131.484, -8.364, 595.539, 127]
+    region:   Needs_Multi_Region
     level:    [21, 22]
   17264987:
     template: Hill_Lizard
-    at:       [-1.000, -0.010, 436.000, 127]
+    region:   Needs_Multi_Region
     level:    [21, 22]
   17264988:
     template: Will-o-the-Wisp
@@ -5359,11 +5359,11 @@ spawns:
     level:    [26, 27]
   17265080:
     template: Boggart
-    at:       [-460.000, 6.000, 307.000, 108]
+    region:   region_54
     level:    [26, 27]
   17265081:
     template: Boggart
-    at:       [-445.392, 7.235, 323.336, 127]
+    region:   region_54
     level:    [26, 27]
   17265082:
     template: Boggart
