@@ -1263,7 +1263,7 @@ templates:
 spawns:
   17530881:
     template: Epialtes
-    at:       [477.096, -0.522, 52.554, 104]
+    region:   c_2
     level:    [32, 32]
   17530882:
     template: Giant_Gatekeeper
@@ -1331,11 +1331,11 @@ spawns:
     level:    [28, 30]
   17530897:
     template: Giant_Guard
-    region:   sw_107
+    region:   sw_16
     level:    [28, 30]
   17530898:
     template: Giant_Sentry
-    at:       [402.952, -0.175, -87.349, 127]
+    region:   sw_16
     level:    [28, 30]
   17530899:
     template: Gigass_Bat
@@ -1660,7 +1660,7 @@ spawns:
     level:    [35, 36]
   17530974:
     template: Light_Elemental
-    at:       [563.268, 15.634, -10.249, 28]
+    region:   e_83
     level:    [35, 36]
   17530975:
     template: Bogy_LDT
@@ -1713,7 +1713,7 @@ spawns:
     level:    [35, 36]
   17530986:
     template: Light_Elemental
-    at:       [417.762, 15.898, -12.995, 4]
+    region:   sw_103
     level:    [35, 36]
   17530987:
     template: Giant_Gatekeeper
@@ -2257,7 +2257,7 @@ spawns:
     level:    [30, 32]
   17531114:
     template: Eurymedon
-    at:       [405.000, -32.000, -32.000, 127]
+    region:   sw_237
     level:    [32, 32]
   17531115:
     template: Gigass_Bat
