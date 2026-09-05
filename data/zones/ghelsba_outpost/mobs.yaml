@@ -1697,15 +1697,15 @@ spawns:
           end:    6
   17350680:
     template: Orcish_Stonelauncher
-    at:       [-12.000, -1.000, 109.000, 39]
+    region:   region_57
     level:    [8, 10]
   17350681:
     template: Orcish_Stonelauncher
-    at:       [12.978, -1.869, -30.634, 127]
+    region:   region_58
     level:    [8, 10]
   17350682:
     template: Orcish_Stonelauncher
-    at:       [-12.438, -1.835, -30.861, 127]
+    region:   region_56
     level:    [8, 10]
   17350683:
     template: Orcish_Grappler
@@ -1839,15 +1839,15 @@ spawns:
           end:    5
   17350711:
     template: Orcish_Stonelauncher
-    at:       [-90.000, -11.000, 26.000, 73]
+    region:   region_59
     level:    [9, 10]
   17350712:
     template: Orcish_Stonelauncher
-    at:       [-90.000, -11.000, 132.000, 103]
+    region:   region_60
     level:    [8, 10]
   17350713:
     template: Orcish_Stonelauncher
-    at:       [-176.297, -11.349, 155.934, 127]
+    region:   region_61
     level:    [8, 10]
   17350714:
     template: Orcish_Fodder
@@ -2079,11 +2079,11 @@ spawns:
     level:    [6, 7]
   17350765:
     template: Orcish_Stonelauncher
-    at:       [-90.000, -21.000, 346.000, 127]
+    region:   region_62
     level:    [9, 10]
   17350766:
     template: Orcish_Stonelauncher
-    at:       [-66.817, -22.139, 432.467, 127]
+    region:   region_63
     level:    [9, 10]
   17350767:
     template: Orcish_Fodder
@@ -2384,7 +2384,7 @@ spawns:
           end:    6
   17350834:
     template: Orcish_Stonelauncher
-    at:       [22.780, -1.288, 178.324, 65]
+    region:   region_64
     level:    [8, 10]
   17350835:
     template: Orcish_Grunt
@@ -2480,7 +2480,7 @@ spawns:
     level:    [11, 13]
   17350855:
     template: Orcish_Stonelauncher
-    at:       [-21.419, -1.222, 212.567, 108]
+    region:   region_65
     level:    [8, 10]
   17350856:
     template: Orcish_Grunt
@@ -2500,7 +2500,7 @@ spawns:
     level:    [13, 15]
   17350860:
     template: Orcish_Stonechucker
-    at:       [84.666, -0.562, 132.104, 127]
+    region:   se_201
     level:    [13, 15]
   17350861:
     template: Orcish_Neckchopper
