@@ -1987,15 +1987,15 @@ spawns:
   17379351:
     template: BiGho_Headtaker_B
     script:   BiGho_Headtaker
-    at:       [-97.000, 1.000, 78.000]
+    region:   nw_21
     level:    [25, 25]
   17379352:
     template: Ooze
-    at:       [-100.640, 0.085, 54.555, 127]
+    region:   region_84
     level:    [28, 30]
   17379353:
     template: Ooze
-    at:       [-104.888, -0.150, 56.675, 127]
+    region:   region_84
     level:    [28, 30]
   17379354:
     template: Old_Quadav
@@ -2028,35 +2028,35 @@ spawns:
     level:    [20, 23]
   17379361:
     template: Silver_Quadav
-    at:       [-234.196, 2.961, 41.944, 8]
+    region:   region_85
     level:    [33, 37]
   17379362:
     template: Silver_Quadav
-    at:       [-238.942, 2.936, 40.698, 95]
+    region:   region_85
     level:    [33, 37]
   17379363:
     template: Garnet_Quadav
-    at:       [-198.767, 2.929, 155.974, 48]
+    region:   region_86
     level:    [35, 39]
   17379364:
     template: Garnet_Quadav
-    at:       [-200.093, 2.943, 158.771, 79]
+    region:   region_86
     level:    [35, 39]
   17379365:
     template: Zircon_Quadav
-    at:       [-155.256, 2.922, 84.093, 127]
+    region:   region_87
     level:    [34, 38]
   17379366:
     template: Zircon_Quadav
-    at:       [-159.283, 2.935, 85.325, 127]
+    region:   region_87
     level:    [34, 38]
   17379367:
     template: Bronze_Quadav
-    at:       [-44.268, 2.924, 159.605, 127]
+    region:   region_88
     level:    [32, 36]
   17379368:
     template: Bronze_Quadav
-    at:       [-40.048, 2.925, 159.956, 127]
+    region:   region_88
     level:    [32, 36]
   17379369:
     template: Old_Quadav
@@ -2296,7 +2296,7 @@ spawns:
     level:    [23, 27]
   17379427:
     template: DaDha_Hundredmask
-    at:       [-184.000, 1.000, -136.000, 127]
+    region:   sw_100
     level:    [30, 30]
   17379428:
     template: Old_Quadav
@@ -2394,7 +2394,7 @@ spawns:
     level:    [20, 23]
   17379450:
     template: GeDha_Evileye
-    at:       [-238.000, 1.000, -203.000, 93]
+    region:   sw_116
     level:    [30, 30]
   17379451:
     template: Old_Quadav
@@ -2552,51 +2552,51 @@ spawns:
     level:    [47, 49]
   17379489:
     template: Bronze_Quadav
-    at:       [-239.241, 2.944, -82.531, 127]
+    region:   region_89
     level:    [32, 36]
   17379490:
     template: Silver_Quadav
-    at:       [-237.269, 2.930, -82.624, 127]
+    region:   region_89
     level:    [33, 37]
   17379491:
     template: Silver_Quadav
-    at:       [-38.872, 2.929, -41.764, 40]
+    region:   region_90
     level:    [33, 37]
   17379492:
     template: Zircon_Quadav
-    at:       [-39.645, 2.923, -40.320, 127]
+    region:   region_90
     level:    [34, 38]
   17379493:
     template: Bronze_Quadav
-    at:       [-4.301, 2.876, -81.055, 127]
+    region:   region_91
     level:    [32, 36]
   17379494:
     template: Zircon_Quadav
-    at:       [-4.615, 2.922, -81.103, 127]
+    region:   region_91
     level:    [34, 38]
   17379495:
     template: Bronze_Quadav
-    at:       [-40.132, 2.924, -199.266, 40]
+    region:   region_92
     level:    [32, 36]
   17379496:
     template: Garnet_Quadav
-    at:       [-39.541, 2.950, -197.550, 127]
+    region:   region_92
     level:    [35, 39]
   17379497:
     template: Silver_Quadav
-    at:       [-201.492, 2.964, -234.171, 127]
+    region:   region_93
     level:    [33, 37]
   17379498:
     template: Garnet_Quadav
-    at:       [-202.084, 2.972, -233.628, 127]
+    region:   region_93
     level:    [35, 39]
   17379499:
     template: Zircon_Quadav
-    at:       [-277.527, 2.922, -236.526, 127]
+    region:   region_94
     level:    [34, 38]
   17379500:
     template: Garnet_Quadav
-    at:       [-276.810, 2.936, -236.784, 127]
+    region:   region_94
     level:    [35, 39]
   17379501:
     template: Bronze_Quadav
@@ -2852,7 +2852,7 @@ spawns:
     level:    [35, 39]
   17379564:
     template: ZoKhu_Blackcloud
-    at:       [-273.000, -3.000, -253.000, 69]
+    region:   sw_232
     level:    [36, 38]
   17379565:
     template: Bronze_Quadav
@@ -2976,11 +2976,11 @@ spawns:
     level:    [43, 47]
   17379595:
     template: Spinel_Quadav
-    at:       [-118.195, -3.334, -61.240, 127]
+    region:   region_96
     level:    [44, 48]
   17379596:
     template: Emerald_Quadav
-    at:       [-120.390, -3.886, -84.510, 64]
+    region:   region_96
     level:    [45, 49]
   17379597:
     template: Bronze_Quadav
@@ -2992,7 +2992,7 @@ spawns:
     level:    [33, 37]
   17379599:
     template: Zircon_Quadav
-    at:       [24.772, -3.501, -106.135, 113]
+    region:   s_269
     level:    [34, 38]
   17379600:
     template: Garnet_Quadav
@@ -3100,7 +3100,7 @@ spawns:
     level:    [45, 49]
   17379626:
     template: GaBhu_Unvanquished
-    at:       [178.863, -3.199, 192.895, 24]
+    region:   n_293
     level:    [47, 48]
   17379627:
     template: Elder_Quadav
@@ -3154,7 +3154,7 @@ spawns:
     level:    [38, 40]
   17379639:
     template: Elder_Quadav
-    at:       [241.598, -3.706, 76.135, 124]
+    region:   ne_312
     level:    [42, 46]
   17379640:
     template: Iron_Quadav
@@ -3244,39 +3244,39 @@ spawns:
     level:    [43, 47]
   17379661:
     template: Spinel_Quadav
-    at:       [132.949, -3.500, -56.212, 78]
+    region:   c_331
     level:    [44, 48]
   17379662:
     template: Emerald_Quadav
-    at:       [83.381, -3.457, -34.595, 127]
+    region:   c_331
     level:    [45, 49]
   17379663:
     template: Broo
-    at:       [115.160, -3.690, 39.241, 127]
+    region:   region_97
     level:    [39, 41]
   17379664:
     template: Broo
-    at:       [116.644, -3.391, 36.309, 94]
+    region:   region_97
     level:    [39, 41]
   17379665:
     template: Broo
-    at:       [76.984, -3.418, 64.515, 127]
+    region:   region_97
     level:    [39, 41]
   17379666:
     template: Broo
-    at:       [82.786, -2.951, 89.398, 127]
+    region:   region_97
     level:    [39, 41]
   17379667:
     template: Elder_Quadav
-    at:       [120.819, -3.222, 33.419]
+    region:   region_97
     level:    [42, 46]
   17379668:
     template: Iron_Quadav
-    at:       [71.112, -3.177, 45.696, 127]
+    region:   region_97
     level:    [43, 47]
   17379669:
     template: Broo
-    at:       [108.412, -3.764, -2.675, 127]
+    region:   c_342
     level:    [39, 41]
   17379670:
     template: Broo
@@ -3547,52 +3547,52 @@ spawns:
   17379733:
     template: Big_Jaw_Large
     script:   Big_Jaw
-    at:       [104.646, 0.500, 177.348, 2]
+    region:   n_401
     level:    [37, 39]
   17379734:
     template: Big_Jaw_Large
     script:   Big_Jaw
-    at:       [120.856, 0.499, 143.366, 113]
+    region:   n_401
     level:    [37, 39]
   17379735:
     template: Ancient_Quadav
-    at:       [139.521, 2.926, -43.003, 127]
+    region:   region_98
     level:    [62, 66]
   17379736:
     template: Darksteel_Quadav
-    at:       [139.643, 2.926, -43.054, 127]
+    region:   region_98
     level:    [63, 67]
   17379737:
     template: Platinum_Quadav
-    at:       [44.535, 2.923, 118.881, 25]
+    region:   region_99
     level:    [64, 68]
   17379738:
     template: Sapphire_Quadav
-    at:       [43.821, 2.922, 114.646, 127]
+    region:   region_99
     level:    [65, 69]
   17379739:
     template: Ancient_Quadav
-    at:       [142.714, 2.918, 86.495, 58]
+    region:   region_100
     level:    [62, 66]
   17379740:
     template: Sapphire_Quadav
-    at:       [143.088, 2.919, 84.856, 127]
+    region:   region_100
     level:    [65, 69]
   17379741:
     template: Darksteel_Quadav
-    at:       [80.293, 2.937, 198.911, 127]
+    region:   region_101
     level:    [63, 67]
   17379742:
     template: Sapphire_Quadav
-    at:       [82.374, 2.924, 194.861, 119]
+    region:   region_101
     level:    [65, 69]
   17379743:
     template: Ancient_Quadav
-    at:       [158.195, 2.941, 200.038, 127]
+    region:   region_102
     level:    [62, 66]
   17379744:
     template: Platinum_Quadav
-    at:       [155.207, 2.955, 197.927, 127]
+    region:   region_102
     level:    [64, 68]
   17379745:
     template: Steel_Quadav
@@ -3652,11 +3652,11 @@ spawns:
     level:    [65, 69]
   17379759:
     template: Larva
-    at:       [178.746, 39.570, 50.449, 127]
+    region:   region_103
     level:    [35, 38]
   17379760:
     template: Larva
-    at:       [178.683, 39.684, 43.096, 69]
+    region:   region_103
     level:    [35, 38]
   17379761:
     template: Platinum_Quadav
@@ -3664,35 +3664,35 @@ spawns:
     level:    [64, 68]
   17379762:
     template: Platinum_Quadav
-    at:       [181.648, 39.659, 18.053, 26]
+    region:   c_433
     level:    [64, 68]
   17379763:
     template: Platinum_Quadav
-    at:       [175.428, 39.671, 12.436, 127]
+    region:   c_433
     level:    [64, 68]
   17379764:
     template: Ancient_Quadav
-    at:       [252.786, 39.806, 135.512, 38]
+    region:   region_105
     level:    [62, 66]
   17379765:
     template: Platinum_Quadav
-    at:       [265.000, 40.000, 142.000, 92]
+    region:   region_105
     level:    [64, 68]
   17379766:
     template: Larva
-    at:       [316.000, 32.000, 141.000, 127]
+    region:   region_106
     level:    [35, 38]
   17379767:
     template: Larva
-    at:       [333.634, 29.111, 135.115, 127]
+    region:   region_106
     level:    [35, 38]
   17379768:
     template: Larva
-    at:       [295.000, 37.000, 140.000, 127]
+    region:   region_106
     level:    [35, 38]
   17379769:
     template: Ancient_Quadav
-    at:       [346.141, 23.665, 93.515, 63]
+    region:   ne_442
     level:    [62, 66]
   17379770:
     template: Darksteel_Quadav
@@ -3740,11 +3740,11 @@ spawns:
     level:    [65, 69]
   17379781:
     template: Larva
-    at:       [381.904, 24.783, 100.451, 127]
+    region:   region_107
     level:    [35, 38]
   17379782:
     template: Larva
-    at:       [378.324, 24.782, 100.575, 127]
+    region:   region_107
     level:    [35, 38]
   17379783:
     template: Mimic
