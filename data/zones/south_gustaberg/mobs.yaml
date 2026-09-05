@@ -2661,7 +2661,7 @@ spawns:
     level:    [7, 8]
   17215613:
     template: Carnero
-    at:       [160.748, -40.010, -423.153, 83]
+    region:   c_120
     level:    [11, 12]
   17215614:
     template: Goblin_Thug
@@ -2725,7 +2725,7 @@ spawns:
     level:    [7, 8]
   17215626:
     template: Carnero
-    at:       [159.616, -39.970, -461.112, 127]
+    region:   c_133
     level:    [11, 12]
   17215627:
     template: Goblin_Thug
@@ -2876,7 +2876,7 @@ spawns:
     level:    [2, 3]
   17215658:
     template: Stone_Eater
-    at:       [362.820, -0.072, -270.662, 127]
+    region:   e_163
     level:    [2, 3]
   17215659:
     template: Rock_Lizard
@@ -3220,7 +3220,7 @@ spawns:
     level:    [4, 5]
   17215744:
     template: Stone_Eater
-    at:       [284.345, -0.095, -637.362, 38]
+    region:   se_257
     level:    [4, 5]
   17215745:
     template: Stone_Eater
@@ -3289,7 +3289,7 @@ spawns:
     level:    [5, 6]
   17215761:
     template: Shrapnel
-    at:       [328.320, -0.341, -610.653, 85]
+    region:   se_257
     level:    [8, 9]
   17215762:
     template: Stone_Eater
@@ -3374,7 +3374,7 @@ spawns:
     level:    [6, 7]
   17215782:
     template: Goblin_Thug
-    at:       [449.762, -20.456, -584.155, 127]
+    region:   se_291
     level:    [6, 7]
   17215783:
     template: Goblin_Weaver
@@ -3382,7 +3382,7 @@ spawns:
     level:    [6, 7]
   17215784:
     template: Goblin_Weaver
-    at:       [498.044, -20.172, -594.537, 127]
+    region:   se_291
     level:    [6, 7]
   17215785:
     template: Enchanted_Bones_blm
@@ -3392,11 +3392,11 @@ spawns:
   17215786:
     template: Enchanted_Bones_blm
     script:   Enchanted_Bones
-    at:       [442.160, -20.455, -590.081, 61]
+    region:   se_291
     level:    [6, 7]
   17215787:
     template: Goblin_Thug
-    at:       [464.716, -20.946, -579.741, 127]
+    region:   region_49
     level:    [5, 6]
   17215788:
     template: Goblin_Weaver
@@ -3404,7 +3404,7 @@ spawns:
     level:    [5, 6]
   17215789:
     template: Goblin_Weaver
-    at:       [459.527, -20.269, -555.846]
+    region:   region_49
     level:    [5, 6]
   17215790:
     template: Stone_Eater
@@ -3473,15 +3473,15 @@ spawns:
     level:    [6, 7]
   17215806:
     template: Shrapnel
-    at:       [-161.855, 10.163, -359.714, 17]
+    region:   w_302
     level:    [8, 9]
   17215807:
     template: Stone_Eater
-    at:       [-116.375, 19.793, -461.837, 68]
+    region:   c_321
     level:    [4, 5]
   17215808:
     template: Stone_Eater
-    at:       [0.910, 1.994, -428.347, 87]
+    region:   c_321
     level:    [4, 5]
   17215809:
     template: Rock_Lizard
@@ -3525,7 +3525,7 @@ spawns:
     level:    [5, 6]
   17215819:
     template: Young_Quadav
-    at:       [-22.604, 6.982, -424.051, 127]
+    region:   c_321
     level:    [6, 7]
   17215820:
     template: Young_Quadav
@@ -3538,23 +3538,23 @@ spawns:
   17215822:
     template: Enchanted_Bones_war
     script:   Enchanted_Bones
-    at:       [-85.446, 10.361, -362.531, 101]
+    region:   c_321
     level:    [6, 7]
   17215823:
     template: Shrapnel
-    at:       [-116.110, 19.076, -449.929, 127]
+    region:   region_50
     level:    [8, 10]
   17215824:
     template: Stone_Eater
-    at:       [41.121, -0.052, -577.450, 127]
+    region:   s_339
     level:    [4, 5]
   17215825:
     template: Stone_Eater
-    at:       [43.614, 2.049, -497.341, 87]
+    region:   s_339
     level:    [4, 5]
   17215826:
     template: Rock_Lizard
-    at:       [66.149, 0.232, -556.592, 127]
+    region:   s_339
     level:    [5, 6]
   17215827:
     template: Rock_Lizard
@@ -3602,7 +3602,7 @@ spawns:
     level:    [4, 5]
   17215838:
     template: Young_Quadav
-    at:       [16.735, 0.380, -428.331, 85]
+    region:   s_339
     level:    [4, 5]
   17215839:
     template: Young_Quadav
@@ -3614,28 +3614,28 @@ spawns:
     level:    [4, 5]
   17215841:
     template: Amber_Quadav
-    at:       [36.000, -0.550, -468.000, 38]
+    region:   s_339
     level:    [4, 5]
   17215842:
     template: Enchanted_Bones_blm
     script:   Enchanted_Bones
-    at:       [43.376, 0.516, -512.072, 14]
+    region:   s_339
     level:    [4, 5]
   17215843:
     template: Shrapnel
-    at:       [23.111, 2.749, -487.916, 65]
+    region:   s_339
     level:    [8, 10]
   17215844:
     template: Young_Quadav
-    at:       [100.203, 1.896, -582.310, 91]
+    region:   region_51
     level:    [4, 5]
   17215845:
     template: Amethyst_Quadav
-    at:       [91.179, 1.358, -574.910, 127]
+    region:   region_51
     level:    [4, 5]
   17215846:
     template: Amber_Quadav
-    at:       [101.035, 1.424, -573.742, 127]
+    region:   region_51
     level:    [4, 5]
   17215847:
     template: Stone_Eater
@@ -3643,11 +3643,11 @@ spawns:
     level:    [4, 5]
   17215848:
     template: Stone_Eater
-    at:       [152.407, 0.087, -593.848, 127]
+    region:   s_362
     level:    [4, 5]
   17215849:
     template: Rock_Lizard
-    at:       [150.942, 0.186, -593.710, 127]
+    region:   s_362
     level:    [5, 6]
   17215850:
     template: Rock_Lizard
@@ -3700,7 +3700,7 @@ spawns:
     level:    [4, 5]
   17215862:
     template: Shrapnel
-    at:       [210.098, 2.158, -616.197, 127]
+    region:   s_362
     level:    [8, 10]
   17215863:
     template: Rock_Lizard
@@ -3724,7 +3724,7 @@ spawns:
     level:    [7, 8]
   17215868:
     template: Leaping_Lizzy
-    at:       [-283.760, 21.444, -412.182, 127]
+    region:   w_375
     level:    [10, 11]
   17215869:
     template: Walking_Sapling
@@ -3752,36 +3752,36 @@ spawns:
     level:    [6, 7]
   17215875:
     template: Young_Quadav
-    at:       [-249.278, 20.348, -379.294, 127]
+    region:   w_375
     level:    [7, 8]
   17215876:
     template: Amethyst_Quadav
-    at:       [-245.384, 20.488, -394.565, 76]
+    region:   w_375
     level:    [7, 8]
   17215877:
     template: Amber_Quadav
-    at:       [-261.807, 22.838, -408.475, 127]
+    region:   w_375
     level:    [7, 8]
   17215878:
     template: Amber_Quadav
-    at:       [-279.381, 19.500, -393.718, 80]
+    region:   w_375
     level:    [7, 8]
   17215879:
     template: Enchanted_Bones_blm
     script:   Enchanted_Bones
-    at:       [-274.122, 20.257, -355.209, 87]
+    region:   w_375
     level:    [7, 8]
   17215880:
     template: Young_Quadav
-    at:       [-218.000, 14.000, -379.000, 127]
+    region:   region_52
     level:    [5, 6]
   17215881:
     template: Amethyst_Quadav
-    at:       [-221.428, 15.547, -382.506, 86]
+    region:   region_52
     level:    [5, 6]
   17215882:
     template: Amber_Quadav
-    at:       [-224.901, 16.142, -380.003, 92]
+    region:   region_52
     level:    [5, 6]
   17215883:
     template: Rock_Lizard
@@ -3805,7 +3805,7 @@ spawns:
     level:    [7, 8]
   17215888:
     template: Leaping_Lizzy
-    at:       [-339.499, 29.731, -441.475, 127]
+    region:   w_395
     level:    [10, 11]
   17215889:
     template: Walking_Sapling
@@ -3825,28 +3825,28 @@ spawns:
     level:    [6, 7]
   17215893:
     template: Vulture
-    at:       [-354.882, 38.491, -328.393, 127]
+    region:   w_395
     level:    [6, 7]
   17215894:
     template: Vulture
-    at:       [-403.019, 39.947, -446.894, 127]
+    region:   w_395
     level:    [6, 7]
   17215895:
     template: Young_Quadav
-    at:       [-315.369, 29.483, -353.413, 67]
+    region:   w_395
     level:    [7, 8]
   17215896:
     template: Young_Quadav
-    at:       [-362.289, 30.496, -449.346, 127]
+    region:   w_395
     level:    [7, 8]
   17215897:
     template: Amber_Quadav
-    at:       [-372.868, 34.819, -422.473, 16]
+    region:   w_395
     level:    [7, 8]
   17215898:
     template: Enchanted_Bones_war
     script:   Enchanted_Bones
-    at:       [-316.208, 32.233, -420.296, 53]
+    region:   w_395
     level:    [7, 8]
   17215899:
     template: Rock_Lizard
@@ -3975,7 +3975,7 @@ spawns:
     level:    [7, 8]
   17215930:
     template: Shrapnel
-    at:       [-519.726, 40.060, -526.655, 127]
+    region:   w_426
     level:    [8, 10]
   17215931:
     template: Maneating_Hornet
@@ -4043,7 +4043,7 @@ spawns:
     level:    [7, 8]
   17215947:
     template: Shrapnel
-    at:       [-512.816, 39.345, -366.324, 127]
+    region:   w_443
     level:    [8, 10]
   17215948:
     template: Goblin_Digger_near
