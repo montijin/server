@@ -1053,11 +1053,11 @@ spawns:
     level:    [48, 50]
   17297444:
     template: Light_Elemental
-    at:       [-209.248, -19.929, 61.437, 57]
+    region:   nw_34
     level:    [48, 50]
   17297445:
     template: Light_Elemental
-    at:       [-248.852, -20.733, 87.634, 36]
+    region:   nw_34
     level:    [48, 50]
   17297446:
     template: Picklix_Longindex
