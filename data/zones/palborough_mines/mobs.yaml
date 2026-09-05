@@ -2161,11 +2161,11 @@ spawns:
     level:    [11, 13]
   17363175:
     template: Copper_Beetle
-    at:       [66.072, -16.322, 105.198, 30]
+    region:   region_88
     level:    [9, 12]
   17363176:
     template: Copper_Beetle
-    at:       [140.000, -16.377, 129.000, 127]
+    region:   region_88
     level:    [9, 12]
   17363177:
     template: Copper_Beetle
@@ -2181,11 +2181,11 @@ spawns:
     level:    [9, 12]
   17363180:
     template: Copper_Beetle
-    region:   n_236
+    region:   region_89
     level:    [9, 12]
   17363181:
     template: BuGhi_Howlblade
-    at:       [185.502, -31.864, 175.730, 130]
+    region:   ne_239
     level:    [12, 12]
   17363182:
     template: Veteran_Quadav
@@ -2293,7 +2293,7 @@ spawns:
     level:    [12, 15]
   17363208:
     template: ZiGhi_Boneeater
-    at:       [138.839, -32.500, 72.357, 17]
+    region:   c_261
     level:    [15, 16]
   17363209:
     template: Veteran_Quadav
