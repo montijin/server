@@ -1142,7 +1142,7 @@ templates:
 spawns:
   17424385:
     template: Enkelados
-    at:       [-391.000, -145.000, 25.000, 127]
+    region:   w_3
     level:    [40, 40]
   17424386:
     template: Gigass_Bats
@@ -1170,7 +1170,7 @@ spawns:
     level:    [34, 35]
   17424392:
     template: Gigas_Torturer
-    at:       [-301.000, -144.000, 69.000, 127]
+    region:   n_15
     level:    [34, 35]
   17424393:
     template: Gigas_Bonecutter
@@ -1182,7 +1182,7 @@ spawns:
     level:    [27, 29]
   17424395:
     template: Gigas_Stonemason
-    at:       [-342.136, -144.500, 61.413, 15]
+    region:   n_7
     level:    [34, 35]
   17424396:
     template: Thunder_Elemental
@@ -1190,7 +1190,7 @@ spawns:
     level:    [35, 36]
   17424397:
     template: Light_Elemental
-    at:       [-346.861, -144.490, 62.137, 24]
+    region:   n_7
     level:    [35, 36]
   17424398:
     template: Gigas_Spirekeeper
@@ -1218,7 +1218,7 @@ spawns:
     level:    [35, 36]
   17424404:
     template: Light_Elemental
-    at:       [-298.147, -144.500, 94.070, 101]
+    region:   n_15
     level:    [35, 36]
   17424405:
     template: Gigas_Spirekeeper
@@ -1246,7 +1246,7 @@ spawns:
     level:    [35, 36]
   17424411:
     template: Light_Elemental
-    at:       [-378.961, -144.499, 44.564, 127]
+    region:   w_22
     level:    [35, 36]
   17424412:
     template: Gigas_Spirekeeper
@@ -1274,11 +1274,11 @@ spawns:
     level:    [35, 36]
   17424418:
     template: Light_Elemental
-    at:       [-218.187, -144.500, 54.253, 127]
+    region:   ne_30
     level:    [35, 36]
   17424419:
     template: Mimas
-    at:       [-293.419, -144.070, 53.648, 127]
+    region:   region_32
     level:    [36, 36]
   17424420:
     template: Magic_Urn
@@ -1326,7 +1326,7 @@ spawns:
     level:    [35, 36]
   17424431:
     template: Light_Elemental
-    at:       [-284.995, -143.924, 21.827, 114]
+    region:   c_48
     level:    [35, 36]
   17424432:
     template: Gigas_Spirekeeper
@@ -1512,7 +1512,7 @@ spawns:
     level:    [67, 69]
   17424475:
     template: Ixtab
-    at:       [-360.000, -159.500, 80.000, 60]
+    region:   nw_88
     level:    [71, 71]
   17424476:
     template: Incubus_Bats_UDT
@@ -1671,7 +1671,7 @@ spawns:
     level:    [67, 69]
   17424512:
     template: Ixtab
-    at:       [-360.000, -175.500, 78.000, 60]
+    region:   nw_125
     level:    [71, 71]
   17424513:
     template: Incubus_Bats_UDT
