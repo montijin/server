@@ -3296,7 +3296,7 @@ spawns:
   17272934:
     template: Revenant_SoZ_ENS_FY
     script:   Revenant
-    at:       [478.813, -0.273, -527.363, 36]
+    region:   se_416
     level:    [46, 47]
     attributes:
       spawn:
@@ -3395,11 +3395,11 @@ spawns:
     level:    [42, 45]
   17272950:
     template: Goobbue_Parasite
-    at:       [18.397, 3.220, -333.345, 127]
+    region:   region_102
     level:    [42, 45]
   17272951:
     template: Goobbue_Parasite
-    at:       [17.721, 3.276, -334.074, 74]
+    region:   region_102
     level:    [42, 45]
   17272952:
     template: Goobbue_Parasite
@@ -3423,7 +3423,7 @@ spawns:
     level:    [49, 50]
   17272957:
     template: Rock_Golem
-    at:       [23.359, -1.466, -420.430, 127]
+    region:   region_103
     level:    [49, 50]
   17272958:
     template: Huwasi
@@ -3431,11 +3431,11 @@ spawns:
     level:    [64, 65]
   17272959:
     template: Rock_Golem
-    at:       [418.716, -0.068, -299.483, 127]
+    region:   region_104
     level:    [49, 50]
   17272960:
     template: Rock_Golem
-    at:       [501.088, 0.684, -580.998, 127]
+    region:   region_105
     level:    [49, 50]
   17272961:
     template: Ogrefly
@@ -3527,6 +3527,7 @@ spawns:
     level:    [40, 43]
   17272978:
     template: Keeper_of_Halidom
+    region:   ne_144
     level:    [56, 58]
   17272979:
     template: Ogrefly
@@ -3603,8 +3604,8 @@ spawns:
           end:    7
   17272992:
     template: Revenant_SoZ_ENS_FY
-    region:   e_130
     script:   Revenant
+    region:   e_130
     level:    [46, 47]
     attributes:
       spawn:
@@ -3613,11 +3614,11 @@ spawns:
           end:    7
   17272993:
     template: Rock_Golem
-    at:       [293.559, -1.257, 62.537, 53]
+    region:   region_106
     level:    [49, 50]
   17272994:
     template: Rock_Golem
-    at:       [345.633, 0.069, 215.654, 122]
+    region:   ne_163
     level:    [49, 50]
   17272995:
     template: Goobbue_Parasite
@@ -3657,7 +3658,7 @@ spawns:
           end:    7
   17273001:
     template: Water_Elemental
-    at:       [-96.572, -3.493, -214.771, 47]
+    region:   c_165
     level:    [48, 49]
   17273002:
     template: Goblin_Robber_SoZ
@@ -3689,7 +3690,7 @@ spawns:
           end:    8
   17273006:
     template: Water_Elemental
-    at:       [253.887, -2.847, -174.722, 61]
+    region:   e_170
     level:    [48, 49]
   17273007:
     template: Goblin_Trader
@@ -3698,7 +3699,6 @@ spawns:
   17273008:
     template: Goblins_Leech_SoZT
     script:   Goblins_Leech
-    region:   c_175
     level:    [35, 37]
   17273009:
     template: Goblin_Robber_SoZ
@@ -3738,7 +3738,6 @@ spawns:
   17273015:
     template: Goblins_Leech_SoZT
     script:   Goblins_Leech
-    region:   c_182
     level:    [35, 37]
   17273016:
     template: Goblin_Robber_SoZ
@@ -3817,7 +3816,7 @@ spawns:
           end:    6
   17273028:
     template: Thunder_Elemental
-    at:       [115.175, -0.433, -153.442, 127]
+    region:   c_190
     level:    [48, 49]
   17273029:
     template: Ogrefly
@@ -3865,7 +3864,6 @@ spawns:
   17273036:
     template: Goblins_Leech_SoZT
     script:   Goblins_Leech
-    region:   c_203
     level:    [35, 37]
   17273037:
     template: Goblin_Robber_SoZ
@@ -3914,7 +3912,6 @@ spawns:
   17273044:
     template: Goblins_Leech_SoZT
     script:   Goblins_Leech
-    region:   c_211
     level:    [35, 37]
   17273045:
     template: Goblin_Robber_SoZ
@@ -3958,7 +3955,6 @@ spawns:
   17273052:
     template: Goblins_Leech_SoZT
     script:   Goblins_Leech
-    region:   c_219
     level:    [35, 37]
   17273053:
     template: Goblin_Robber_SoZ
@@ -4049,7 +4045,6 @@ spawns:
   17273069:
     template: Goblins_Leech_SoZT
     script:   Goblins_Leech
-    region:   c_236
     level:    [35, 37]
   17273070:
     template: Goobbue_Parasite
@@ -4091,8 +4086,8 @@ spawns:
           end:    8
   17273077:
     template: Revenant_SoZ_ENS_FY
-    region:   c_227
     script:   Revenant
+    region:   c_227
     level:    [45, 47]
     attributes:
       spawn:
@@ -4105,7 +4100,7 @@ spawns:
     level:    [49, 50]
   17273079:
     template: Rock_Golem
-    at:       [15.022, -0.534, -21.297, 95]
+    region:   region_107
     level:    [49, 50]
   17273080:
     template: Rock_Golem
@@ -4113,7 +4108,7 @@ spawns:
     level:    [49, 50]
   17273081:
     template: Rock_Golem
-    at:       [44.042, 0.030, 137.711, 127]
+    region:   region_108
     level:    [49, 50]
   17273082:
     template: Goobbue_Parasite
@@ -4180,15 +4175,15 @@ spawns:
           end:    7
   17273094:
     template: Water_Elemental
-    at:       [-106.204, -3.368, 60.872, 127]
+    region:   c_256
     level:    [48, 49]
   17273095:
     template: Goobbue_Parasite
-    at:       [-137.100, 3.254, -91.120, 127]
+    region:   region_109
     level:    [42, 45]
   17273096:
     template: Goobbue_Parasite
-    at:       [-137.844, 3.267, -92.781, 54]
+    region:   region_109
     level:    [42, 45]
   17273097:
     template: Lesser_Gaylas
@@ -4244,7 +4239,7 @@ spawns:
           end:    7
   17273105:
     template: Thunder_Elemental
-    at:       [-231.601, -1.828, -64.859, 127]
+    region:   w_266
     level:    [48, 49]
   17273106:
     template: Goblin_Poacher
@@ -4284,43 +4279,43 @@ spawns:
     level:    [42, 45]
   17273115:
     template: Goobbue_Parasite
-    at:       [-277.523, -0.498, 0.013, 127]
+    region:   w_279
     level:    [42, 45]
   17273116:
     template: Ogrefly
-    at:       [-268.337, -0.124, 0.064, 127]
+    region:   w_279
     level:    [41, 44]
   17273117:
     template: Ogrefly
-    at:       [-301.205, -0.539, -7.389, 24]
+    region:   w_279
     level:    [41, 44]
   17273118:
     template: Goblin_Reaper
-    at:       [-272.534, -0.623, 37.512]
+    region:   w_475
     level:    [42, 46]
   17273119:
     template: Goblin_Poacher
-    at:       [-221.706, -0.538, 18.922, 36]
+    region:   w_475
     level:    [42, 46]
   17273120:
     template: Goblin_Poacher
-    at:       [-219.272, -1.695, 13.643, 19]
+    region:   w_475
     level:    [42, 46]
   17273121:
     template: Goobbue_Parasite
-    at:       [-262.537, 0.514, 29.097, 127]
+    region:   w_475
     level:    [42, 45]
   17273122:
     template: Ogrefly
-    at:       [-257.696, 0.363, 48.247, 127]
+    region:   w_475
     level:    [41, 44]
   17273123:
     template: Ogrefly
-    at:       [-266.464, -0.185, 51.826, 123]
+    region:   w_475
     level:    [41, 44]
   17273124:
     template: Thunder_Elemental
-    at:       [-264.102, 0.446, 31.809, 55]
+    region:   w_475
     level:    [48, 49]
   17273125:
     template: Goblin_Reaper
@@ -4356,11 +4351,11 @@ spawns:
     level:    [49, 50]
   17273133:
     template: Thunder_Elemental
-    at:       [-311.789, -1.822, -14.682, 112]
+    region:   w_279
     level:    [48, 49]
   17273134:
     template: Rock_Golem
-    at:       [-221.449, -0.898, 61.303, 127]
+    region:   region_110
     level:    [49, 50]
   17273135:
     template: Master_Coeurl
@@ -4376,7 +4371,7 @@ spawns:
     level:    [44, 47]
   17273138:
     template: Master_Coeurl
-    at:       [-360.967, 0.348, 16.978, 127]
+    region:   w_303
     level:    [44, 47]
   17273139:
     template: Hell_Hound
@@ -4389,7 +4384,7 @@ spawns:
           end:    7
   17273140:
     template: Hell_Hound
-    at:       [-343.732, -0.147, 53.275, 127]
+    region:   w_303
     level:    [46, 50]
     attributes:
       spawn:
@@ -4424,15 +4419,15 @@ spawns:
           end:    7
   17273145:
     template: Water_Elemental
-    at:       [-422.385, -1.845, 68.379, 164]
+    region:   w_309
     level:    [48, 49]
   17273146:
     template: Master_Coeurl
-    at:       [-436.000, -0.010, -73.000, 127]
+    region:   w_323
     level:    [44, 47]
   17273147:
     template: Hell_Hound
-    at:       [-414.472, 2.299, -9.995, 21]
+    region:   w_323
     level:    [46, 50]
     attributes:
       spawn:
@@ -4445,7 +4440,7 @@ spawns:
     level:    [49, 50]
   17273149:
     template: Rot_Prowler
-    at:       [-435.460, -0.120, -92.291, 127]
+    region:   w_323
     level:    [49, 53]
     attributes:
       spawn:
@@ -4454,7 +4449,7 @@ spawns:
           end:    7
   17273150:
     template: Rot_Prowler
-    at:       [-396.989, -0.927, -128.103, 89]
+    region:   w_323
     level:    [49, 53]
     attributes:
       spawn:
@@ -4463,7 +4458,7 @@ spawns:
           end:    7
   17273151:
     template: Rot_Prowler
-    at:       [-403.235, 0.309, -139.276, 127]
+    region:   w_323
     level:    [49, 53]
     attributes:
       spawn:
@@ -4472,15 +4467,15 @@ spawns:
           end:    7
   17273152:
     template: Master_Coeurl
-    at:       [-415.883, 0.016, -140.174, 127]
+    region:   w_323
     level:    [44, 47]
   17273153:
     template: Master_Coeurl
-    at:       [-397.115, 0.331, -142.430, 63]
+    region:   w_323
     level:    [44, 47]
   17273154:
     template: Hell_Hound
-    at:       [-410.084, -0.154, -134.195, 127]
+    region:   w_323
     level:    [46, 50]
     attributes:
       spawn:
@@ -4538,7 +4533,7 @@ spawns:
     level:    [47, 49]
   17273162:
     template: Rock_Golem
-    at:       [-431.205, -0.340, -113.855, 127]
+    region:   region_111
     level:    [49, 50]
   17273163:
     template: Rock_Golem
@@ -4569,11 +4564,11 @@ spawns:
           end:    7
   17273167:
     template: Goobbue_Parasite
-    at:       [-348.352, 3.096, 139.467, 127]
+    region:   region_112
     level:    [42, 45]
   17273168:
     template: Goobbue_Parasite
-    at:       [-347.916, 3.245, 142.148, 127]
+    region:   region_112
     level:    [42, 45]
   17273169:
     template: Master_Coeurl
@@ -4732,7 +4727,7 @@ spawns:
     level:    [62, 62]
   17273191:
     template: Rock_Golem
-    at:       [-504.950, 0.420, 226.486, 127]
+    region:   region_114
     level:    [49, 50]
   17273192:
     template: Rot_Prowler
@@ -4768,11 +4763,11 @@ spawns:
     level:    [44, 47]
   17273196:
     template: Master_Coeurl
-    at:       [-444.959, -0.207, 272.722, 39]
+    region:   nw_360
     level:    [44, 47]
   17273197:
     template: Hell_Hound
-    at:       [-481.033, -0.365, 234.551, 114]
+    region:   nw_360
     level:    [46, 50]
     attributes:
       spawn:
@@ -4781,7 +4776,7 @@ spawns:
           end:    7
   17273198:
     template: Rot_Prowler
-    at:       [-320.000, -0.219, 375.000, 127]
+    region:   nw_372
     level:    [49, 53]
     attributes:
       spawn:
@@ -4790,7 +4785,7 @@ spawns:
           end:    7
   17273199:
     template: Rot_Prowler
-    at:       [-351.167, -0.195, 322.359, 75]
+    region:   nw_478
     level:    [49, 53]
     attributes:
       spawn:
@@ -4800,7 +4795,7 @@ spawns:
   17273200:
     template: Lost_Soul_blm
     script:   Lost_Soul
-    at:       [-341.648, 0.345, 329.122, 110]
+    region:   nw_478
     level:    [51, 55]
     attributes:
       spawn:
@@ -4809,15 +4804,15 @@ spawns:
           end:    7
   17273201:
     template: Master_Coeurl
-    at:       [-359.077, -0.282, 312.167, 32]
+    region:   nw_478
     level:    [44, 47]
   17273202:
     template: Master_Coeurl
-    at:       [-340.193, 0.392, 332.681, 127]
+    region:   nw_478
     level:    [44, 47]
   17273203:
     template: Hell_Hound
-    at:       [-322.545, -0.366, 309.799, 127]
+    region:   nw_478
     level:    [46, 50]
     attributes:
       spawn:
@@ -4981,7 +4976,7 @@ spawns:
     level:    [42, 45]
   17273225:
     template: Rock_Golem
-    at:       [-335.272, -0.039, 416.147, 120]
+    region:   region_113
     level:    [49, 50]
   17273226:
     template: Myxomycete
