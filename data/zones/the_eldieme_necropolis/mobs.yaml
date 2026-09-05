@@ -3174,12 +3174,12 @@ spawns:
   17576043:
     template: Ka_war
     script:   Ka
-    at:       [-436.238, 0.869, 311.702, 127]
+    region:   nw_106
     level:    [52, 54]
   17576044:
     template: Ka_blm
     script:   Ka
-    at:       [-440.729, 0.913, 311.937, 120]
+    region:   nw_106
     level:    [52, 54]
   17576045:
     template: Ka_thf
@@ -3220,7 +3220,7 @@ spawns:
     level:    [53, 55]
   17576054:
     template: Cwn_Cyrff
-    at:       [-395.612, -0.102, 378.777, 231]
+    region:   nw_114
     level:    [63, 63]
   17576055:
     template: Utukku_EN_FY
@@ -3345,11 +3345,11 @@ spawns:
     level:    [93, 95]
   17576083:
     template: Lich
-    at:       [179.429, -0.280, -98.129, 198]
+    region:   region_104
     level:    [52, 54]
   17576084:
     template: Lich
-    at:       [176.440, -0.087, -98.977, 113]
+    region:   region_104
     level:    [52, 54]
   17576085:
     template: Nekros_Hound
@@ -3483,12 +3483,12 @@ spawns:
   17576114:
     template: Dark_Stalker_thf
     script:   Dark_Stalker
-    at:       [173.009, -27.757, 146.525, 121]
+    region:   e_176
     level:    [57, 59]
   17576115:
     template: Dark_Stalker_rng
     script:   Dark_Stalker
-    at:       [174.097, -28.500, 121.675, 186]
+    region:   e_176
     level:    [57, 59]
   17576116:
     template: Utukku_EN_FY
@@ -3540,7 +3540,7 @@ spawns:
   17576126:
     template: Dark_Stalker_war
     script:   Dark_Stalker
-    at:       [66.695, -27.997, 2.430, 102]
+    region:   c_191
     level:    [57, 59]
   17576127:
     template: Dark_Stalker_blm
@@ -3555,7 +3555,7 @@ spawns:
   17576129:
     template: Dark_Stalker_rng
     script:   Dark_Stalker
-    at:       [78.432, -27.826, 13.744, 66]
+    region:   c_191
     level:    [57, 59]
   17576130:
     template: Utukku_EN_FY
@@ -3645,7 +3645,7 @@ spawns:
   17576149:
     template: Ka_war
     script:   Ka
-    at:       [218.834, -32.051, 10.271, 70]
+    region:   e_214
     level:    [52, 54]
   17576150:
     template: Ka_blm
@@ -3655,7 +3655,7 @@ spawns:
   17576151:
     template: Ka_thf
     script:   Ka
-    at:       [186.407, -31.049, 16.021, 83]
+    region:   e_214
     level:    [52, 54]
   17576152:
     template: Ka_rng
@@ -3672,7 +3672,7 @@ spawns:
     level:    [53, 55]
   17576155:
     template: Ice_Elemental
-    at:       [220.835, -32.051, 30.241, 63]
+    region:   e_217
     level:    [52, 55]
   17576156:
     template: Earth_Elemental
@@ -3688,7 +3688,7 @@ spawns:
     level:    [53, 55]
   17576159:
     template: Ice_Elemental
-    at:       [159.953, -32.051, 59.704]
+    region:   e_221
     level:    [52, 55]
   17576160:
     template: Earth_Elemental
@@ -3704,7 +3704,7 @@ spawns:
     level:    [53, 55]
   17576163:
     template: Ice_Elemental
-    at:       [170.399, -32.051, -18.512, 252]
+    region:   e_225
     level:    [52, 55]
   17576164:
     template: Earth_Elemental
@@ -3720,7 +3720,7 @@ spawns:
     level:    [53, 55]
   17576167:
     template: Ice_Elemental
-    at:       [140.258, -32.051, 2.562, 64]
+    region:   e_229
     level:    [52, 55]
   17576168:
     template: Earth_Elemental
@@ -3892,7 +3892,7 @@ spawns:
     level:    [57, 59]
   17576204:
     template: Ice_Elemental
-    at:       [295.354, 0.948, 14.378, 8]
+    region:   e_269
     level:    [52, 55]
   17576205:
     template: Earth_Elemental
