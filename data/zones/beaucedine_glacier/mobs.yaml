@@ -3014,7 +3014,7 @@ spawns:
     level:    [40, 43]
   17231906:
     template: Dark_Elemental
-    at:       [-80.464, -40.528, -257.926, 127]
+    region:   region_48
     level:    [44, 46]
   17231907:
     template: Bat_Eye
@@ -3249,7 +3249,7 @@ spawns:
     level:    [39, 42]
   17231963:
     template: Dark_Elemental
-    at:       [-120.503, -100.061, 62.239, 127]
+    region:   region_47
     level:    [44, 46]
   17231964:
     template: Bat_Eye
@@ -3283,7 +3283,7 @@ spawns:
     level:    [34, 37]
   17231971:
     template: Nue
-    at:       [-313.911, -100.308, 147.196, 127]
+    region:   w_98
     level:    [41, 42]
   17231972:
     template: Goblin_Poacher
@@ -3414,15 +3414,15 @@ spawns:
     level:    [35, 38]
   17232004:
     template: Living_Statue
-    at:       [96.398, -20.750, 137.904, 123]
+    region:   region_49
     level:    [37, 39]
   17232005:
     template: Living_Statue
-    at:       [94.726, -20.750, 144.150, 127]
+    region:   region_49
     level:    [37, 39]
   17232006:
     template: Dark_Elemental
-    at:       [223.772, -19.969, 241.855, 64]
+    region:   region_50
     level:    [44, 46]
   17232007:
     template: Bat_Eye
@@ -3574,7 +3574,7 @@ spawns:
     level:    [34, 37]
   17232044:
     template: Kirata
-    at:       [63.000, -0.500, -303.000, 127]
+    region:   s_170
     level:    [41, 41]
   17232045:
     template: Goblin_Poacher
@@ -3714,7 +3714,7 @@ spawns:
     level:    [40, 42]
   17232079:
     template: Gargantua
-    at:       [348.000, -0.500, 17.000, 127]
+    region:   e_206
     level:    [47, 48]
   17232080:
     template: Goblin_Poacher
@@ -3801,11 +3801,11 @@ spawns:
     level:    [40, 43]
   17232101:
     template: Snow_Gigas
-    at:       [279.137, -0.745, 248.435, 111]
+    region:   ne_223
     level:    [40, 43]
   17232102:
     template: Rime_Gigas
-    at:       [278.000, -0.563, 206.000, 83]
+    region:   ne_223
     level:    [40, 43]
   17232103:
     template: Gigass_Tiger
@@ -3813,7 +3813,7 @@ spawns:
     level:    [33, 35]
   17232104:
     template: Sleet_Gigas
-    at:       [294.860, -0.382, 218.798, 127]
+    region:   ne_223
     level:    [40, 43]
   17232105:
     template: Ice_Elemental
