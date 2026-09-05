@@ -2276,8 +2276,8 @@ spawns:
     level:    [47, 49]
   17469481:
     template: Bigclaw_aggro
-    region:   c_38
     script:   Bigclaw
+    region:   c_38
     level:    [49, 52]
   17469482:
     template: Bigclaw_aggro
@@ -2382,26 +2382,27 @@ spawns:
     level:    [52, 55]
   17469503:
     template: Dark_Aspic
-    at:       [-215.800, 15.498, 212.582, 167]
+    region:   region_92
     level:    [53, 55]
   17469504:
     template: Dark_Aspic
-    at:       [-207.057, 15.500, 212.578, 127]
+    region:   region_91
     level:    [53, 55]
   17469505:
     template: Dark_Aspic
-    at:       [-137.700, 15.498, 150.932, 134]
+    region:   region_90
     level:    [53, 55]
   17469506:
     template: Dark_Aspic
+    region:   region_90
     level:    [53, 55]
   17469507:
     template: Dark_Aspic
-    at:       [-95.040, 15.500, -28.836, 156]
+    region:   region_93
     level:    [53, 55]
   17469508:
     template: Dark_Aspic
-    at:       [-17.900, 15.498, -1.197, 141]
+    region:   region_94
     level:    [53, 55]
   17469509:
     template: Bloodsucker_TC
@@ -2488,8 +2489,8 @@ spawns:
     level:    [47, 49]
   17469527:
     template: Hell_Bat_TC
-    region:   w_85
     script:   Hell_Bat
+    region:   w_85
     level:    [47, 49]
   17469528:
     template: Bigclaw_aggro
@@ -2690,7 +2691,7 @@ spawns:
     level:    [49, 52]
   17469575:
     template: Bouncing_Ball
-    at:       [-134.900, 21.986, 18.316, 84]
+    region:   c_136
     level:    [64, 67]
   17469576:
     template: Bouncing_Ball
@@ -2722,19 +2723,19 @@ spawns:
     level:    [63, 65]
   17469583:
     template: Stygian_Pugil
-    at:       [-303.000, 21.002, -21.481, 108]
+    region:   region_95
     level:    [63, 65]
   17469584:
     template: Stygian_Pugil
-    at:       [-304.600, 21.000, -18.027, 254]
+    region:   region_95
     level:    [63, 65]
   17469585:
     template: Stygian_Pugil
-    at:       [-328.900, 17.500, -7.620, 151]
+    region:   region_96
     level:    [63, 65]
   17469586:
     template: Stygian_Pugil
-    at:       [-338.100, 20.650, -17.672, 41]
+    region:   region_96
     level:    [63, 65]
   17469587:
     template: Oni_Carcass
@@ -2862,19 +2863,19 @@ spawns:
     level:    [96, 97]
   17469617:
     template: Blackwater_Pugil
-    at:       [23.510, 17.500, -193.050, 4]
+    region:   region_97
     level:    [96, 97]
   17469618:
     template: Blackwater_Pugil
-    at:       [25.121, 17.499, -196.150, 121]
+    region:   region_97
     level:    [96, 97]
   17469619:
     template: Blackwater_Pugil
-    at:       [51.506, 21.023, -178.310, 233]
+    region:   region_98
     level:    [96, 97]
   17469620:
     template: Blackwater_Pugil
-    at:       [59.535, 18.554, -187.750, 58]
+    region:   region_98
     level:    [96, 97]
   17469621:
     template: Plunderer_Crab
@@ -3201,11 +3202,11 @@ spawns:
     level:    [96, 97]
   17469701:
     template: Blackwater_Pugil
-    at:       [301.860, 21.003, -67.757, 253]
+    region:   region_99
     level:    [96, 97]
   17469702:
     template: Blackwater_Pugil
-    at:       [299.960, 21.305, -71.077, 215]
+    region:   region_99
     level:    [96, 97]
   17469703:
     template: Blackwater_Pugil
@@ -3217,11 +3218,11 @@ spawns:
     level:    [96, 97]
   17469705:
     template: Blackwater_Pugil
-    at:       [306.210, 18.500, -83.663, 138]
+    region:   region_100
     level:    [96, 97]
   17469706:
     template: Blackwater_Pugil
-    at:       [312.610, 17.500, -87.714, 88]
+    region:   region_100
     level:    [96, 97]
   17469707:
     template: Blackwater_Pugil
