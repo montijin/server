@@ -2553,7 +2553,7 @@ spawns:
     level:    [3, 4]
   17252480:
     template: Yagudo_Initiate
-    at:       [-240.201, -4.972, 51.552, 127]
+    region:   w_116
     level:    [3, 4]
   17252481:
     template: Yagudo_Acolyte
@@ -2570,7 +2570,7 @@ spawns:
   17252484:
     template: Magicked_Bones_blm
     script:   Magicked_Bones
-    at:       [-238.946, -4.829, 49.344, 127]
+    region:   w_116
     level:    [3, 5]
   17252485:
     template: Crawler
@@ -2590,7 +2590,7 @@ spawns:
     level:    [2, 3]
   17252489:
     template: Sharp-Eared_Ropipi
-    at:       [332.000, -13.000, -325.000]
+    region:   se_152
     level:    [10, 11]
   17252490:
     template: Carrion_Crow
@@ -2635,20 +2635,20 @@ spawns:
     level:    [3, 5]
   17252500:
     template: Magicked_Bones_blm
-    region:   se_133
     script:   Magicked_Bones
+    region:   se_133
     level:    [3, 5]
   17252501:
     template: Goblin_Thug
-    at:       [216.562, -17.983, -460.089, 127]
+    region:   region_42
     level:    [3, 4]
   17252502:
     template: Goblin_Thug
-    at:       [218.673, -17.996, -458.735, 97]
+    region:   region_42
     level:    [3, 4]
   17252503:
     template: Goblin_Weaver
-    at:       [215.000, -17.188, -454.000, 79]
+    region:   region_42
     level:    [3, 4]
   17252504:
     template: Crawler
@@ -2664,7 +2664,7 @@ spawns:
     level:    [2, 3]
   17252507:
     template: Savanna_Rarab
-    at:       [363.152, -16.705, -326.213, 127]
+    region:   se_152
     level:    [2, 3]
   17252508:
     template: Sharp-Eared_Ropipi
@@ -2830,7 +2830,7 @@ spawns:
     level:    [6, 8]
   17252548:
     template: Balloon
-    at:       [57.321, -5.688, -31.624, 35]
+    region:   c_177
     level:    [8, 10]
   17252549:
     template: Mandragora
@@ -2886,15 +2886,15 @@ spawns:
     level:    [5, 6]
   17252562:
     template: Yagudo_Initiate
-    at:       [17.574, -11.215, 187.995, 127]
+    region:   c_197
     level:    [5, 6]
   17252563:
     template: Yagudo_Acolyte
-    at:       [22.395, -12.748, 157.753, 127]
+    region:   c_197
     level:    [5, 6]
   17252564:
     template: Yagudo_Scribe
-    at:       [115.570, -11.449, 67.592, 127]
+    region:   c_197
     level:    [5, 6]
   17252565:
     template: Mad_Fox
@@ -2907,19 +2907,19 @@ spawns:
     level:    [6, 8]
   17252567:
     template: Balloon
-    at:       [124.201, -10.728, 177.435, 104]
+    region:   c_197
     level:    [8, 10]
   17252568:
     template: Yagudo_Initiate
-    at:       [58.109, -11.249, 174.864, 6]
+    region:   region_43
     level:    [5, 6]
   17252569:
     template: Yagudo_Acolyte
-    at:       [56.450, -10.866, 178.541, 127]
+    region:   region_43
     level:    [5, 6]
   17252570:
     template: Yagudo_Scribe
-    at:       [59.000, -11.000, 177.000, 65]
+    region:   region_43
     level:    [5, 6]
   17252571:
     template: Mandragora
@@ -3179,15 +3179,15 @@ spawns:
     level:    [5, 6]
   17252635:
     template: Goblin_Thug
-    at:       [346.851, -13.728, 100.262, 127]
+    region:   e_270
     level:    [5, 6]
   17252636:
     template: Goblin_Thug
-    at:       [255.012, -9.500, 24.750, 79]
+    region:   e_270
     level:    [5, 6]
   17252637:
     template: Goblin_Weaver
-    at:       [225.562, -7.647, -16.070, 127]
+    region:   e_270
     level:    [5, 6]
   17252638:
     template: Goblin_Weaver
@@ -3196,24 +3196,24 @@ spawns:
   17252639:
     template: Magicked_Bones_blm
     script:   Magicked_Bones
-    at:       [343.525, -10.760, -43.632, 24]
+    region:   e_270
     level:    [6, 8]
   17252640:
     template: Magicked_Bones_blm
-    region:   e_270
     script:   Magicked_Bones
+    region:   e_270
     level:    [6, 8]
   17252641:
     template: Goblin_Thug
-    at:       [342.020, -11.164, -25.738, 127]
+    region:   region_44
     level:    [5, 6]
   17252642:
     template: Goblin_Thug
-    at:       [338.607, -10.764, -24.184, 127]
+    region:   region_44
     level:    [5, 6]
   17252643:
     template: Goblin_Weaver
-    at:       [342.000, -11.000, -21.000, 92]
+    region:   region_44
     level:    [5, 6]
   17252644:
     template: Mandragora
@@ -3269,7 +3269,7 @@ spawns:
     level:    [5, 6]
   17252657:
     template: Spiny_Spipi
-    at:       [270.957, -12.815, 118.668, 114]
+    region:   e_292
     level:    [9, 10]
   17252658:
     template: Goblin_Thug
@@ -3334,7 +3334,7 @@ spawns:
     level:    [5, 6]
   17252673:
     template: Balloon
-    at:       [179.688, -9.698, 286.191, 127]
+    region:   e_310
     level:    [8, 10]
   17252674:
     template: River_Crab
@@ -3482,19 +3482,19 @@ spawns:
     level:    [6, 7]
   17252710:
     template: Pug_Pugil
-    at:       [-225.605, -7.078, 392.051, 127]
+    region:   nw_353
     level:    [6, 7]
   17252711:
     template: Mandragora
-    at:       [-356.567, -21.296, 505.270, 127]
+    region:   nw_362
     level:    [4, 5]
   17252712:
     template: Mandragora
-    at:       [-356.284, -21.351, 502.639, 71]
+    region:   nw_362
     level:    [4, 5]
   17252713:
     template: Mandragora
-    at:       [-357.983, -21.152, 494.585, 127]
+    region:   nw_362
     level:    [4, 5]
   17252714:
     template: Mandragora
@@ -3623,8 +3623,8 @@ spawns:
     level:    [6, 8]
   17252745:
     template: Magicked_Bones_blm
-    region:   nw_378
     script:   Magicked_Bones
+    region:   nw_378
     level:    [6, 8]
   17252746:
     template: Mandragora
@@ -3680,7 +3680,7 @@ spawns:
     level:    [5, 6]
   17252759:
     template: Yagudo_Acolyte
-    at:       [119.321, -24.500, 442.207, 127]
+    region:   n_394
     level:    [5, 6]
   17252760:
     template: Yagudo_Scribe
@@ -3702,19 +3702,19 @@ spawns:
     level:    [6, 8]
   17252764:
     template: Balloon
-    at:       [24.592, -25.151, 482.157, 127]
+    region:   n_394
     level:    [8, 10]
   17252765:
     template: Yagudo_Initiate
-    at:       [103.555, -25.248, 497.301, 22]
+    region:   region_45
     level:    [5, 6]
   17252766:
     template: Yagudo_Acolyte
-    at:       [103.766, -25.216, 497.118, 127]
+    region:   region_45
     level:    [5, 6]
   17252767:
     template: Yagudo_Scribe
-    at:       [104.400, -24.869, 495.291, 127]
+    region:   region_45
     level:    [5, 6]
   17252768:
     template: Crawler
@@ -3871,7 +3871,7 @@ spawns:
     level:    [5, 6]
   17252806:
     template: Mad_Fox
-    at:       [258.794, -21.228, 483.047, 1]
+    region:   ne_442
     level:    [6, 8]
   17252807:
     template: Magicked_Bones_club
