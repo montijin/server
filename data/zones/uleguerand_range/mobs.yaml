@@ -2732,7 +2732,7 @@ spawns:
     level:    [65, 68]
   16797770:
     template: Skvader
-    at:       [186.278, 0.072, -278.215, 48]
+    region:   s_72
     level:    [77, 78]
   16797771:
     template: Polar_Hare
@@ -3684,7 +3684,7 @@ spawns:
     level:    [79, 82]
   16797995:
     template: Ice_Elemental
-    at:       [-231.856, -176.756, -103.258, 218]
+    region:   w_297
     level:    [82, 84]
   16797996:
     template: Agloolik
