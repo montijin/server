@@ -2609,7 +2609,7 @@ spawns:
           end:    5
   17186909:
     template: Orcish_Fodder
-    at:       [-289.602, -39.223, 137.827, 15]
+    region:   region_39
     level:    [3, 4]
   17186910:
     template: Forest_Hare
@@ -3263,7 +3263,7 @@ spawns:
   17187038:
     template: Mouse_Bat_Ronf
     script:   Mouse_Bat
-    at:       [-398.180, -30.448, -43.745, 36]
+    region:   c_203
     level:    [5, 6]
     attributes:
       spawn:
@@ -3452,8 +3452,8 @@ spawns:
           end:    5
   17187081:
     template: Mouse_Bat_Ronf
-    region:   w_246
     script:   Mouse_Bat
+    region:   w_246
     level:    [5, 6]
     attributes:
       spawn:
@@ -3481,8 +3481,8 @@ spawns:
     level:    [6, 7]
   17187085:
     template: Enchanted_Bones_blm
-    region:   w_246
     script:   Enchanted_Bones
+    region:   w_246
     level:    [6, 7]
   17187086:
     template: Bomb
@@ -3522,7 +3522,7 @@ spawns:
     level:    [4, 5]
   17187095:
     template: Carrion_Worm
-    at:       [-537.148, -20.730, -163.945, 48]
+    region:   c_274
     level:    [4, 5]
   17187096:
     template: Wild_Sheep
@@ -3587,7 +3587,7 @@ spawns:
     level:    [4, 5]
   17187111:
     template: Jaggedy-Eared_Jack
-    at:       [-281.000, -19.000, -220.000, 127]
+    region:   s_292
     level:    [9, 10]
   17187112:
     template: Carrion_Worm
@@ -3681,7 +3681,7 @@ spawns:
   17187130:
     template: Enchanted_Bones_blm
     script:   Enchanted_Bones
-    at:       [-279.841, -20.769, -277.004, 31]
+    region:   s_292
     level:    [6, 7]
   17187131:
     template: Forest_Hare
@@ -3933,7 +3933,7 @@ spawns:
     level:    [7, 8]
   17187187:
     template: Goblin_Thug
-    at:       [-571.314, -4.891, -424.566, 127]
+    region:   sw_357
     level:    [6, 7]
   17187188:
     template: Goblin_Thug
@@ -4005,7 +4005,7 @@ spawns:
     level:    [7, 8]
   17187199:
     template: Goblin_Thug
-    at:       [-457.000, -8.000, -381.000, 127]
+    region:   region_40
     level:    [6, 7]
   17187200:
     template: Goblin_Thug
@@ -4089,35 +4089,35 @@ spawns:
     level:    [5, 6]
   17187220:
     template: River_Crab
-    at:       [-390.448, -10.042, -433.274, 127]
+    region:   s_399
     level:    [5, 6]
   17187221:
     template: River_Crab
-    at:       [-372.494, -9.452, -412.679, 127]
+    region:   s_399
     level:    [5, 6]
   17187222:
     template: River_Crab
-    at:       [-388.631, -10.004, -453.983, 49]
+    region:   s_399
     level:    [5, 6]
   17187223:
     template: Forest_Hare
-    at:       [-386.211, -1.722, -517.241, 127]
+    region:   s_412
     level:    [5, 6]
   17187224:
     template: Forest_Hare
-    at:       [-388.392, -5.133, -503.495, 127]
+    region:   s_412
     level:    [5, 6]
   17187225:
     template: Forest_Hare
-    at:       [-461.510, -2.892, -464.823, 127]
+    region:   s_412
     level:    [5, 6]
   17187226:
     template: Forest_Hare
-    at:       [-323.028, -2.628, -509.947, 127]
+    region:   s_412
     level:    [5, 6]
   17187227:
     template: Carrion_Worm
-    at:       [-438.758, -0.796, -491.137, 127]
+    region:   s_412
     level:    [5, 6]
   17187228:
     template: Carrion_Worm
@@ -4317,8 +4317,8 @@ spawns:
           end:    5
   17187271:
     template: Enchanted_Bones_blm
-    region:   se_440
     script:   Enchanted_Bones
+    region:   se_440
     level:    [7, 8]
   17187272:
     template: Goblin_Digger_near
