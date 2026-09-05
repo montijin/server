@@ -874,7 +874,7 @@ spawns:
     level:    [75, 75]
   17072150:
     template: Cookieduster_Lipiroon
-    at:       [-105.000, -8.000, 94.000, 60]
+    region:   c_14
     level:    [80, 82]
   17072151:
     template: Qiqirn_Poulterer
