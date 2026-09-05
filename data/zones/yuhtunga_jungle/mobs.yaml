@@ -2784,7 +2784,7 @@ spawns:
     level:    [42, 47]
   17281086:
     template: Lava_Bomb
-    at:       [-626.739, -0.760, 27.452, 57]
+    region:   w_58
     level:    [47, 50]
   17281087:
     template: Soldier_Crawler
@@ -3042,7 +3042,7 @@ spawns:
     level:    [34, 36]
   17281149:
     template: Mischievous_Micholas
-    at:       [-279.575, 3.317, 16.011, 127]
+    region:   w_119
     level:    [53, 55]
   17281150:
     template: Overgrown_Rose
@@ -3200,7 +3200,7 @@ spawns:
     level:    [32, 37]
   17281186:
     template: Water_Elemental
-    at:       [-443.367, -0.238, -247.954, 127]
+    region:   sw_157
     level:    [48, 50]
   17281187:
     template: Soldier_Crawler
@@ -3216,7 +3216,7 @@ spawns:
     level:    [32, 37]
   17281190:
     template: Water_Elemental
-    at:       [-361.185, -0.467, -191.072, 127]
+    region:   w_163
     level:    [48, 50]
   17281191:
     template: Death_Jacket_jungle
@@ -3282,7 +3282,7 @@ spawns:
     level:    [32, 37]
   17281205:
     template: Fire_Elemental
-    at:       [-79.731, -3.507, -87.759, 18]
+    region:   c_177
     level:    [48, 50]
   17281206:
     template: Death_Jacket_jungle
@@ -3573,7 +3573,7 @@ spawns:
     level:    [34, 38]
   17281276:
     template: Water_Elemental
-    at:       [-336.736, 16.716, -445.514, 123]
+    region:   sw_283
     level:    [48, 49]
   17281277:
     template: Young_Opo-opo
@@ -3627,7 +3627,7 @@ spawns:
     level:    [34, 38]
   17281289:
     template: Water_Elemental
-    at:       [-388.503, 16.305, -329.763, 127]
+    region:   sw_260
     level:    [48, 50]
   17281290:
     template: Young_Opo-opo
@@ -3703,11 +3703,11 @@ spawns:
     level:    [35, 38]
   17281308:
     template: Makara
-    at:       [-344.771, 16.169, -342.925, 94]
+    region:   region_129
     level:    [35, 38]
   17281309:
     template: Makara
-    at:       [-457.397, 16.687, -345.215, 127]
+    region:   region_130
     level:    [35, 38]
   17281310:
     template: Death_Jacket_jungle
@@ -3745,7 +3745,7 @@ spawns:
     level:    [42, 47]
   17281318:
     template: Lava_Bomb
-    at:       [-17.064, -0.301, -478.274, 59]
+    region:   s_290
     level:    [47, 50]
   17281319:
     template: Soldier_Crawler
@@ -3911,7 +3911,7 @@ spawns:
     level:    [45, 48]
   17281357:
     template: Rose_Garden
-    at:       [50.000, 10.000, 245.000, 127]
+    region:   n_326
     level:    [50, 50]
   17281358:
     template: Voluptuous_Vilma
@@ -4099,11 +4099,11 @@ spawns:
     level:    [37, 41]
   17281404:
     template: Goblin_Poacher
-    at:       [338.386, 20.493, 297.339, 127]
+    region:   ne_379
     level:    [42, 47]
   17281405:
     template: Goblin_Poacher
-    at:       [341.070, 20.576, 275.163, 26]
+    region:   ne_379
     level:    [42, 47]
   17281406:
     template: Goblin_Reaper
@@ -4115,7 +4115,7 @@ spawns:
     level:    [42, 47]
   17281408:
     template: Fire_Elemental
-    at:       [330.347, 20.346, 285.439, 189]
+    region:   ne_379
     level:    [48, 50]
   17281409:
     template: Soldier_Crawler
@@ -4181,7 +4181,7 @@ spawns:
     level:    [34, 37]
   17281424:
     template: Water_Elemental
-    at:       [413.113, 20.942, 168.948, 15]
+    region:   ne_395
     level:    [48, 50]
   17281425:
     template: Young_Opo-opo
@@ -4207,7 +4207,7 @@ spawns:
     level:    [34, 37]
   17281430:
     template: Water_Elemental
-    at:       [461.707, 20.799, 140.829, 125]
+    region:   e_407
     level:    [48, 50]
   17281431:
     template: Young_Opo-opo
@@ -4266,7 +4266,7 @@ spawns:
     level:    [42, 47]
   17281444:
     template: Lava_Bomb
-    at:       [461.118, 15.796, 78.404, 72]
+    region:   e_421
     level:    [47, 50]
   17281445:
     template: Fire_Elemental
@@ -4282,27 +4282,27 @@ spawns:
     level:    [37, 41]
   17281448:
     template: Goblin_Poacher
-    at:       [460.685, 19.753, 239.610, 127]
+    region:   ne_422
     level:    [42, 47]
   17281449:
     template: Goblin_Poacher
-    at:       [459.878, 19.620, 235.322, 127]
+    region:   ne_422
     level:    [42, 47]
   17281450:
     template: Soldier_Crawler
-    at:       [537.902, 20.898, 186.563, 59]
+    region:   region_131
     level:    [37, 41]
   17281451:
     template: Soldier_Crawler
-    at:       [547.149, 20.356, 174.596, 33]
+    region:   region_131
     level:    [37, 41]
   17281452:
     template: Soldier_Crawler
-    at:       [540.549, 19.817, 165.330, 80]
+    region:   region_131
     level:    [37, 41]
   17281453:
     template: Soldier_Crawler
-    at:       [537.987, 21.162, 184.557, 51]
+    region:   region_131
     level:    [37, 41]
   17281454:
     template: Makara
@@ -4314,11 +4314,11 @@ spawns:
     level:    [35, 38]
   17281456:
     template: Makara
-    at:       [455.856, 20.640, 179.568, 127]
+    region:   region_132
     level:    [35, 38]
   17281457:
     template: Makara
-    at:       [416.435, 20.758, 228.039, 127]
+    region:   region_133
     level:    [35, 38]
   17281458:
     template: Makara
@@ -4354,7 +4354,7 @@ spawns:
     level:    [35, 38]
   17281466:
     template: Makara
-    at:       [335.094, 20.648, 298.502, 99]
+    region:   region_134
     level:    [35, 38]
   17281467:
     template: Goblin_Digger_jungle
