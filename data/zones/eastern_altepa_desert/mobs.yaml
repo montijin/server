@@ -3130,7 +3130,7 @@ spawns:
     level:    [39, 44]
   17244199:
     template: Fire_Elemental
-    at:       [278.699, -10.467, 173.905, 8]
+    region:   e_35
     level:    [47, 49]
   17244200:
     template: Giant_Spider
@@ -3154,7 +3154,7 @@ spawns:
     level:    [39, 44]
   17244205:
     template: Fire_Elemental
-    at:       [287.674, -0.558, -37.520, 78]
+    region:   e_40
     level:    [47, 49]
   17244206:
     template: Giant_Spider
@@ -3174,7 +3174,7 @@ spawns:
     level:    [39, 44]
   17244210:
     template: Fire_Elemental
-    at:       [372.205, -3.309, -113.198, 123]
+    region:   se_46
     level:    [47, 49]
   17244211:
     template: Giant_Spider
@@ -3194,7 +3194,7 @@ spawns:
     level:    [39, 44]
   17244215:
     template: Fire_Elemental
-    at:       [306.207, 2.790, -188.849, 127]
+    region:   se_51
     level:    [47, 49]
   17244216:
     template: Giant_Spider
@@ -3211,7 +3211,7 @@ spawns:
   17244219:
     template: Diatryma_Altepa
     script:   Diatryma
-    at:       [231.360, 6.563, -355.726, 127]
+    region:   se_56
     level:    [47, 50]
   17244220:
     template: Giant_Spider
@@ -3227,7 +3227,7 @@ spawns:
     level:    [36, 40]
   17244223:
     template: Fire_Elemental
-    at:       [223.252, -11.188, 181.899, 127]
+    region:   n_60
     level:    [47, 49]
   17244224:
     template: Giant_Spider
@@ -3337,7 +3337,7 @@ spawns:
     level:    [39, 44]
   17244250:
     template: Fire_Elemental
-    at:       [126.004, -9.943, 233.344, 30]
+    region:   n_86
     level:    [47, 49]
   17244251:
     template: Giant_Spider
@@ -3409,7 +3409,7 @@ spawns:
     level:    [47, 49]
   17244268:
     template: Donnergugi
-    at:       [217.000, -8.200, 376.000, 60]
+    region:   n_102
     level:    [60, 60]
   17244269:
     template: Giant_Spider
@@ -3482,7 +3482,7 @@ spawns:
   17244286:
     template: Flesh_Eater_EAD
     script:   Flesh_Eater
-    at:       [87.183, -14.956, 226.406, 127]
+    region:   n_121
     level:    [37, 42]
   17244287:
     template: Sabotender
@@ -3523,11 +3523,11 @@ spawns:
     level:    [35, 38]
   17244296:
     template: Antican_Funditor
-    at:       [74.751, -8.401, -81.522, 127]
+    region:   c_153
     level:    [35, 38]
   17244297:
     template: Antican_Decurio
-    at:       [54.910, -19.563, 93.139, 57]
+    region:   c_153
     level:    [44, 49]
   17244298:
     template: Giant_Spider
@@ -3548,7 +3548,7 @@ spawns:
   17244302:
     template: Flesh_Eater_EAD
     script:   Flesh_Eater
-    at:       [32.115, -28.308, 87.105, 116]
+    region:   c_138
     level:    [37, 42]
   17244303:
     template: Flesh_Eater_EAD
@@ -3695,7 +3695,7 @@ spawns:
   17244337:
     template: Flesh_Eater_EAD
     script:   Flesh_Eater
-    at:       [20.571, 0.082, -236.279, 127]
+    region:   s_173
     level:    [37, 42]
   17244338:
     template: Lost_Soul_war
@@ -3734,7 +3734,7 @@ spawns:
   17244346:
     template: Flesh_Eater_EAD
     script:   Flesh_Eater
-    at:       [30.569, 4.645, -343.652, 106]
+    region:   s_181
     level:    [37, 42]
   17244347:
     template: Lost_Soul_blm
@@ -3813,7 +3813,7 @@ spawns:
   17244364:
     template: Flesh_Eater_EAD
     script:   Flesh_Eater
-    at:       [-34.202, 7.779, -351.015, 16]
+    region:   s_198
     level:    [37, 42]
   17244365:
     template: Lost_Soul_war
@@ -3951,7 +3951,7 @@ spawns:
     level:    [30, 34]
   17244396:
     template: Dune_Widow
-    at:       [-124.890, -8.576, 32.533, 64]
+    region:   w_295
     level:    [45, 47]
   17244397:
     template: Giant_Spider
@@ -3968,17 +3968,17 @@ spawns:
   17244400:
     template: Flesh_Eater_EAD
     script:   Flesh_Eater
-    at:       [-166.360, 6.692, -71.013, 127]
+    region:   w_235
     level:    [37, 42]
   17244401:
     template: Flesh_Eater_EAD
     script:   Flesh_Eater
-    at:       [-153.801, 5.918, -75.302, 41]
+    region:   w_235
     level:    [37, 42]
   17244402:
     template: Lost_Soul_war
     script:   Lost_Soul
-    at:       [-88.297, -0.991, -60.190, 33]
+    region:   w_235
     level:    [44, 48]
   17244403:
     template: Lost_Soul_blm
@@ -4085,7 +4085,7 @@ spawns:
   17244427:
     template: Diatryma_Altepa
     script:   Diatryma
-    at:       [-39.000, -8.000, 326.000, 75]
+    region:   nw_260
     level:    [47, 50]
   17244428:
     template: Giant_Spider
@@ -4553,7 +4553,7 @@ spawns:
     level:    [50, 53]
   17244539:
     template: Cactrot_Rapido
-    at:       [-43.733, 0.029, -205.890, 66]
+    region:   region_64
     level:    [80, 81]
   17244540:
     template: Hastatus_XIII-LXXV
