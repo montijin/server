@@ -2851,15 +2851,15 @@ spawns:
     level:    [88, 90]
   17559831:
     template: Goblin_Bushwhacker
-    at:       [-360.000, -1.000, 180.000, 62]
+    region:   region_59
     level:    [90, 91]
   17559832:
     template: Couloir_Leech
-    at:       [-385.000, 3.000, 107.000, 127]
+    region:   w_282
     level:    [87, 88]
   17559833:
     template: Couloir_Leech
-    at:       [-405.000, 3.000, 108.000, 127]
+    region:   w_282
     level:    [87, 88]
   17559834:
     template: Couloir_Leech
@@ -3008,7 +3008,6 @@ spawns:
   17559870:
     template: Fire_Elemental_SA
     script:   Fire_Elemental
-    at:       [-496.638, -5.045, -100.004, 127]
     level:    [75, 75]
   17559871:
     template: Celaeno
