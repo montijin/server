@@ -367,7 +367,7 @@ spawns:
     level:    [76, 79]
   17408011:
     template: Darter
-    at:       [-20.941, -1.635, 30.774, 20]
+    region:   region_8
     level:    [76, 79]
   17408012:
     template: Darter
