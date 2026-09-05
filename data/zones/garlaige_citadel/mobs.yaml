@@ -2451,7 +2451,7 @@ spawns:
     level:    [43, 45]
   17596442:
     template: Siege_Bat
-    at:       [-298.429, -0.012, 258.423, 127]
+    region:   region_99
     level:    [40, 42]
   17596443:
     template: Wingrats_GC
@@ -2543,12 +2543,12 @@ spawns:
   17596462:
     template: Revenant_NGS_EN_GC
     script:   Revenant
-    at:       [-196.720, -0.012, 301.766, 127]
+    region:   region_100
     level:    [44, 46]
   17596463:
     template: Revenant_NGS_EN_GC
     script:   Revenant
-    at:       [-237.000, -0.012, 379.000, 127]
+    region:   region_101
     level:    [44, 46]
   17596464:
     template: Borer_Beetle
@@ -2596,11 +2596,11 @@ spawns:
     level:    [46, 48]
   17596475:
     template: Demonic_Weapon
-    at:       [-167.104, -0.012, 252.127, 127]
+    region:   region_102
     level:    [47, 49]
   17596476:
     template: Demonic_Weapon
-    at:       [-170.384, -0.013, 250.528, 127]
+    region:   region_102
     level:    [47, 49]
   17596477:
     template: Fallen_Soldier_war
@@ -2624,7 +2624,7 @@ spawns:
     level:    [47, 49]
   17596481:
     template: Bhuta
-    at:       [-164.283, -0.012, 188.818, 63]
+    region:   region_103
     level:    [47, 48]
   17596482:
     template: Citadel_Bats
@@ -2696,11 +2696,11 @@ spawns:
     level:    [46, 48]
   17596499:
     template: Demonic_Weapon
-    at:       [-114.825, -0.012, 246.148, 105]
+    region:   region_104
     level:    [47, 49]
   17596500:
     template: Demonic_Weapon
-    at:       [-110.000, -0.013, 251.000, 102]
+    region:   region_104
     level:    [47, 49]
   17596501:
     template: Fallen_Soldier_war
@@ -2724,7 +2724,7 @@ spawns:
     level:    [47, 49]
   17596505:
     template: Bhuta
-    at:       [-111.482, -0.012, 189.914, 127]
+    region:   region_105
     level:    [47, 48]
   17596506:
     template: Old_Two-Wings
@@ -2746,7 +2746,7 @@ spawns:
     level:    [51, 53]
   17596510:
     template: Fetid_Flesh
-    at:       [-79.947, 6.265, 139.543, 127]
+    region:   region_106
     level:    [54, 56]
   17596511:
     template: Funnel_Bats_GC
@@ -2790,17 +2790,17 @@ spawns:
     level:    [52, 54]
   17596520:
     template: Hazmat
-    at:       [5.839, 7.014, 197.462, 127]
+    region:   c_99
     level:    [57, 58]
   17596521:
     template: Droma_GC
     script:   Droma
-    at:       [13.034, 6.088, 186.750, 78]
+    region:   region_107
     level:    [53, 54]
   17596522:
     template: Droma_GC
     script:   Droma
-    at:       [7.220, 6.184, 215.250, 11]
+    region:   region_108
     level:    [53, 54]
   17596523:
     template: Explosure
@@ -2825,7 +2825,7 @@ spawns:
   17596528:
     template: Droma_GC
     script:   Droma
-    at:       [-49.427, 6.191, 225.777, 21]
+    region:   region_109
     level:    [52, 54]
   17596529:
     template: Fallen_Officer_war
@@ -2863,7 +2863,7 @@ spawns:
     level:    [51, 53]
   17596536:
     template: Fetid_Flesh
-    at:       [-83.768, 6.232, 298.557, 115]
+    region:   region_110
     level:    [54, 56]
   17596537:
     template: Funnel_Bats_GC
@@ -2943,7 +2943,7 @@ spawns:
   17596553:
     template: Funnel_Bats_GC
     script:   Funnel_Bats
-    at:       [-146.000, 14.000, 215.000, 127]
+    region:   region_112
     level:    [51, 53]
   17596554:
     template: Acid_Grease
@@ -2955,7 +2955,7 @@ spawns:
     level:    [52, 54]
   17596556:
     template: Wraith
-    at:       [-126.813, -0.012, 381.813, 163]
+    region:   region_111
     level:    [60, 62]
   17596557:
     template: Fallen_Officer_war
@@ -3180,19 +3180,19 @@ spawns:
     level:    [52, 54]
   17596605:
     template: Over_Weapon
-    at:       [-319.000, 18.000, 179.000, 127]
+    region:   w_219
     level:    [59, 61]
   17596606:
     template: Vault_Weapon
-    at:       [-305.000, 19.000, 171.000, 48]
+    region:   w_219
     level:    [60, 62]
   17596607:
     template: Over_Weapon
-    at:       [-300.000, 20.000, 176.000, 127]
+    region:   w_219
     level:    [59, 61]
   17596608:
     template: Vault_Weapon
-    at:       [-297.000, 18.000, 171.000, 127]
+    region:   w_219
     level:    [60, 62]
   17596609:
     template: Chamber_Beetle
@@ -3256,7 +3256,7 @@ spawns:
     level:    [60, 62]
   17596624:
     template: Fallen_Major
-    at:       [180.846, -0.014, 24.911, 20]
+    region:   se_207
     level:    [60, 62]
   17596625:
     template: Fallen_Mage
@@ -3264,7 +3264,7 @@ spawns:
     level:    [59, 62]
   17596626:
     template: Fallen_Mage
-    at:       [153.345, -0.012, 18.278, 123]
+    region:   se_207
     level:    [59, 62]
   17596627:
     template: Wraith
@@ -3486,7 +3486,7 @@ spawns:
     level:    [91, 93]
   17596681:
     template: Kaboom
-    at:       [-373.000, 18.000, 291.000, 127]
+    region:   nw_228
     level:    [94, 96]
   17596682:
     template: Fortalice_Bats
@@ -3502,15 +3502,15 @@ spawns:
     level:    [92, 94]
   17596685:
     template: Fortalice_Bats
-    at:       [-52.000, 6.000, 137.000, 127]
+    region:   nw_266
     level:    [92, 94]
   17596686:
     template: Donjon_Bat
-    at:       [-273.156, 18.332, 279.846, 120]
+    region:   nw_249
     level:    [91, 93]
   17596687:
     template: Kaboom
-    at:       [-371.000, 18.000, 227.000, 127]
+    region:   w_280
     level:    [94, 96]
   17596688:
     template: Fortalice_Bats
@@ -3590,47 +3590,47 @@ spawns:
     level:    [91, 93]
   17596707:
     template: Kaboom
-    at:       [-200.082, 19.011, 321.116, 87]
+    region:   nw_290
     level:    [95, 96]
   17596708:
     template: Fortalice_Bats
-    at:       [-340.000, 19.000, 283.000, 127]
+    region:   nw_228
     level:    [92, 94]
   17596709:
     template: Fortalice_Bats
-    at:       [-285.000, 19.000, 283.000, 127]
+    region:   nw_249
     level:    [92, 94]
   17596710:
     template: Fortalice_Bats
-    at:       [-306.000, 19.000, 258.000, 127]
+    region:   nw_255
     level:    [92, 94]
   17596711:
     template: Donjon_Bat
-    at:       [-172.928, 19.451, 320.467, 180]
+    region:   nw_290
     level:    [91, 93]
   17596712:
     template: Kaboom
-    at:       [-173.775, 19.223, 329.076, 231]
+    region:   nw_272
     level:    [94, 96]
   17596713:
     template: Fortalice_Bats
-    at:       [-346.633, 12.126, 249.586, 115]
+    region:   nw_245
     level:    [92, 94]
   17596714:
     template: Fortalice_Bats
-    at:       [-274.000, 19.000, 233.000, 25]
+    region:   w_280
     level:    [92, 94]
   17596715:
     template: Fortalice_Bats
-    at:       [-340.000, 12.000, 261.000, 127]
+    region:   nw_245
     level:    [92, 94]
   17596716:
     template: Wraith
-    at:       [183.809, -0.012, 32.565, 127]
+    region:   se_207
     level:    [60, 62]
   17596717:
     template: Wraith
-    at:       [-159.000, 19.000, 217.000, 127]
+    region:   c_302
     level:    [60, 62]
   17596718:
     template: Wraith
@@ -3646,11 +3646,11 @@ spawns:
     level:    [70, 70]
   17596721:
     template: Wraith
-    at:       [-145.818, 12.250, 226.362, 127]
+    region:   region_113
     level:    [60, 62]
   17596722:
     template: Magic_Jug
-    at:       [-171.000, 18.000, 186.000, 127]
+    region:   region_114
     level:    [63, 64]
   17596723:
     template: Magic_Jug
@@ -3658,11 +3658,11 @@ spawns:
     level:    [62, 64]
   17596724:
     template: Magic_Jug
-    at:       [-109.000, 18.000, 253.000, 127]
+    region:   region_115
     level:    [62, 64]
   17596725:
     template: Magic_Jug
-    at:       [-174.000, 18.000, 251.000, 127]
+    region:   region_116
     level:    [62, 63]
   17596726:
     template: Hellmine
