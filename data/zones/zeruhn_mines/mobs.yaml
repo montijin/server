@@ -463,15 +463,15 @@ spawns:
     level:    [1, 2]
   17481734:
     template: Ding_Bats
-    at:       [-31.308, -0.073, 75.119, 199]
+    region:   region_22
     level:    [1, 2]
   17481735:
     template: River_Crab
-    at:       [-28.942, -0.062, 69.577, 118]
+    region:   region_22
     level:    [2, 3]
   17481736:
     template: Ding_Bats
-    at:       [-24.311, -0.073, 45.751, 1]
+    region:   nw_9
     level:    [1, 2]
   17481737:
     template: River_Crab
@@ -479,7 +479,7 @@ spawns:
     level:    [2, 4]
   17481738:
     template: Ding_Bats
-    at:       [-14.830, -0.073, 69.932, 127]
+    region:   n_11
     level:    [1, 2]
   17481739:
     template: River_Crab
@@ -607,7 +607,7 @@ spawns:
     level:    [77, 79]
   17481770:
     template: Burrower_Worm
-    at:       [-59.465, 8.068, -280.254, 174]
+    region:   region_23
     level:    [77, 79]
   17481771:
     template: Soot_Crab
