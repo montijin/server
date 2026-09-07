@@ -11,6 +11,29 @@ templates:
         skill: staff
       resists:
         immune_status: [silence, slow, elegy, light_sleep, dark_sleep]
+        dmg_physical:
+          slashing: -5000
+          piercing: -5000
+          blunt:    -5000
+          h2h:      -5000
+        rank_element:
+          fire:     1
+          ice:     -1
+          wind:    -1
+          earth:   -1
+          thunder: -2
+          water:    1
+          light:   -1
+          dark:    -1
+        rank_status:
+          paralyze:    -1
+          bind:        -1
+          silence:     -1
+          slow:        -1
+          poison:       1
+          light_sleep: -1
+          dark_sleep:  -1
+          blind:       -1
       render:
         look:
           type:  standard
@@ -48,6 +71,21 @@ templates:
     attributes:
       combat:
         skill: scythe
+      resists:
+        rank_element:
+          fire:     4
+          ice:      1
+          thunder: -2
+          water:   -2
+          light:   -2
+          dark:    -3
+        rank_status:
+          paralyze:     1
+          bind:         1
+          poison:      -2
+          light_sleep: -2
+          dark_sleep:  -3
+          blind:       -3
       render:
         look:
           type:  standard
@@ -76,10 +114,13 @@ templates:
       resists:
         rank_element:
           fire:  -2
+          ice:    2
           earth: -1
           water: -1
           light: -2
         rank_status:
+          paralyze:     2
+          bind:         2
           slow:        -1
           poison:      -1
           light_sleep: -2
@@ -117,10 +158,13 @@ templates:
       resists:
         rank_element:
           fire:  -2
+          ice:    2
           earth: -1
           water: -1
           light: -2
         rank_status:
+          paralyze:     2
+          bind:         2
           slow:        -1
           poison:      -1
           light_sleep: -2
@@ -156,10 +200,13 @@ templates:
       resists:
         rank_element:
           fire:  -2
+          ice:    2
           earth: -1
           water: -1
           light: -2
         rank_status:
+          paralyze:     2
+          bind:         2
           slow:        -1
           poison:      -1
           light_sleep: -2
@@ -196,10 +243,13 @@ templates:
       resists:
         rank_element:
           fire:  -2
+          ice:    2
           earth: -1
           water: -1
           light: -2
         rank_status:
+          paralyze:     2
+          bind:         2
           slow:        -1
           poison:      -1
           light_sleep: -2
@@ -237,10 +287,13 @@ templates:
       resists:
         rank_element:
           fire:  -2
+          ice:    2
           earth: -1
           water: -1
           light: -2
         rank_status:
+          paralyze:     2
+          bind:         2
           slow:        -1
           poison:      -1
           light_sleep: -2
@@ -278,10 +331,13 @@ templates:
       resists:
         rank_element:
           fire:  -2
+          ice:    2
           earth: -1
           water: -1
           light: -2
         rank_status:
+          paralyze:     2
+          bind:         2
           slow:        -1
           poison:      -1
           light_sleep: -2
@@ -315,15 +371,18 @@ templates:
     attributes:
       combat:
         skill: hand_to_hand
-        delay: 240
+        delay: 480
       jobs: [mnk, mnk]
       resists:
         rank_element:
           fire:  -2
+          ice:    2
           earth: -1
           water: -1
           light: -2
         rank_status:
+          paralyze:     2
+          bind:         2
           slow:        -1
           poison:      -1
           light_sleep: -2
@@ -361,10 +420,13 @@ templates:
       resists:
         rank_element:
           fire:  -2
+          ice:    2
           earth: -1
           water: -1
           light: -2
         rank_status:
+          paralyze:     2
+          bind:         2
           slow:        -1
           poison:      -1
           light_sleep: -2
@@ -401,10 +463,13 @@ templates:
       resists:
         rank_element:
           fire:  -2
+          ice:    2
           earth: -1
           water: -1
           light: -2
         rank_status:
+          paralyze:     2
+          bind:         2
           slow:        -1
           poison:      -1
           light_sleep: -2
@@ -442,10 +507,13 @@ templates:
       resists:
         rank_element:
           fire:  -2
+          ice:    2
           earth: -1
           water: -1
           light: -2
         rank_status:
+          paralyze:     2
+          bind:         2
           slow:        -1
           poison:      -1
           light_sleep: -2
@@ -483,10 +551,13 @@ templates:
       resists:
         rank_element:
           fire:  -2
+          ice:    2
           earth: -1
           water: -1
           light: -2
         rank_status:
+          paralyze:     2
+          bind:         2
           slow:        -1
           poison:      -1
           light_sleep: -2
@@ -524,10 +595,13 @@ templates:
       resists:
         rank_element:
           fire:  -2
+          ice:    2
           earth: -1
           water: -1
           light: -2
         rank_status:
+          paralyze:     2
+          bind:         2
           slow:        -1
           poison:      -1
           light_sleep: -2
@@ -566,10 +640,13 @@ templates:
       resists:
         rank_element:
           fire:  -2
+          ice:    2
           earth: -1
           water: -1
           light: -2
         rank_status:
+          paralyze:     2
+          bind:         2
           slow:        -1
           poison:      -1
           light_sleep: -2
@@ -607,10 +684,13 @@ templates:
       resists:
         rank_element:
           fire:  -2
+          ice:    2
           earth: -1
           water: -1
           light: -2
         rank_status:
+          paralyze:     2
+          bind:         2
           slow:        -1
           poison:      -1
           light_sleep: -2
@@ -648,10 +728,13 @@ templates:
       resists:
         rank_element:
           fire:  -2
+          ice:    2
           earth: -1
           water: -1
           light: -2
         rank_status:
+          paralyze:     2
+          bind:         2
           slow:        -1
           poison:      -1
           light_sleep: -2
@@ -689,10 +772,13 @@ templates:
       resists:
         rank_element:
           fire:  -2
+          ice:    2
           earth: -1
           water: -1
           light: -2
         rank_status:
+          paralyze:     2
+          bind:         2
           slow:        -1
           poison:      -1
           light_sleep: -2
@@ -791,6 +877,29 @@ templates:
       jobs: [blm, blm]
       resists:
         immune_status: [silence, slow, elegy, light_sleep, dark_sleep]
+        dmg_physical:
+          slashing: -5000
+          piercing: -5000
+          blunt:    -5000
+          h2h:      -5000
+        rank_element:
+          fire:    -1
+          ice:     -2
+          wind:     1
+          earth:    1
+          thunder: -1
+          water:   -1
+          light:   -1
+          dark:    -1
+        rank_status:
+          paralyze:    -2
+          bind:        -2
+          silence:      1
+          slow:         1
+          poison:      -1
+          light_sleep: -1
+          dark_sleep:  -1
+          blind:       -1
       render:
         look:
           type:  standard
@@ -825,11 +934,15 @@ templates:
     species:       kindred
     type:          [notorious]
     spell_list_id: 5
-    skill_list_id: 2111
     attributes:
       combat:
         skill: katana
       jobs: [thf, drk]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -868,6 +981,21 @@ templates:
     attributes:
       combat:
         skill: scythe
+      resists:
+        rank_element:
+          fire:     4
+          ice:      1
+          thunder: -2
+          water:   -2
+          light:   -2
+          dark:    -3
+        rank_status:
+          paralyze:     1
+          bind:         1
+          poison:      -2
+          light_sleep: -2
+          dark_sleep:  -3
+          blind:       -3
       render:
         look:
           type:  standard
@@ -887,11 +1015,15 @@ templates:
     species:       kindred
     type:          [notorious]
     spell_list_id: 30
-    skill_list_id: 2111
     attributes:
       combat:
         skill: axe
       jobs: [smn, smn]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -927,11 +1059,16 @@ templates:
     id:            817
     species:       kindred
     type:          [notorious]
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: katana
       jobs: [thf, thf]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -965,11 +1102,16 @@ templates:
     id:            818
     species:       kindred
     type:          [notorious]
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: sword
       jobs: [sam, sam]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -1003,10 +1145,15 @@ templates:
     id:            819
     species:       kindred
     type:          [notorious]
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: axe
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -1041,11 +1188,16 @@ templates:
     species:       kindred
     type:          [notorious]
     spell_list_id: 3
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: katana
       jobs: [rdm, rdm]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -1079,12 +1231,17 @@ templates:
     id:            1133
     species:       kindred
     type:          [notorious]
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: hand_to_hand
-        delay: 240
+        delay: 480
       jobs: [mnk, mnk]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -1119,11 +1276,15 @@ templates:
     species:       kindred
     type:          [notorious]
     spell_list_id: 3
-    skill_list_id: 2111
     attributes:
       combat:
         skill: katana
       jobs: [rdm, brd]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -1160,11 +1321,16 @@ templates:
     species:       kindred
     type:          [notorious]
     spell_list_id: 5
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: scythe
       jobs: [drk, drk]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -1268,6 +1434,24 @@ templates:
           piercing: -5000
           blunt:    -5000
           h2h:      -5000
+        rank_element:
+          fire:     1
+          ice:     -1
+          wind:    -1
+          earth:   -1
+          thunder: -2
+          water:    1
+          light:   -1
+          dark:    -1
+        rank_status:
+          paralyze:    -1
+          bind:        -1
+          silence:     -1
+          slow:        -1
+          poison:       1
+          light_sleep: -1
+          dark_sleep:  -1
+          blind:       -1
       render:
         look:
           type:  standard
@@ -1297,6 +1481,29 @@ templates:
       jobs: [whm, whm]
       resists:
         immune_status: [silence, slow, elegy, light_sleep, dark_sleep]
+        dmg_physical:
+          slashing: -5000
+          piercing: -5000
+          blunt:    -5000
+          h2h:      -5000
+        rank_element:
+          fire:    -1
+          ice:     -1
+          wind:    -1
+          earth:   -1
+          thunder: -1
+          water:   -1
+          light:   -2
+          dark:     1
+        rank_status:
+          paralyze:    -1
+          bind:        -1
+          silence:     -1
+          slow:        -1
+          poison:      -1
+          light_sleep: -2
+          dark_sleep:   1
+          blind:        1
       render:
         look:
           type:  standard
@@ -1334,6 +1541,25 @@ templates:
     attributes:
       combat:
         skill: great_axe
+      resists:
+        rank_element:
+          fire:    -3
+          ice:     11
+          wind:    11
+          earth:   11
+          thunder: 11
+          water:   11
+          light:   11
+          dark:    11
+        rank_status:
+          paralyze:    11
+          bind:        11
+          silence:     11
+          slow:        11
+          poison:      11
+          light_sleep: 11
+          dark_sleep:  11
+          blind:       11
       render:
         look:
           type:  standard
@@ -1366,6 +1592,24 @@ templates:
           piercing: -5000
           blunt:    -5000
           h2h:      -5000
+        rank_element:
+          fire:    -1
+          ice:     -2
+          wind:     1
+          earth:    1
+          thunder: -1
+          water:   -1
+          light:   -1
+          dark:    -1
+        rank_status:
+          paralyze:    -2
+          bind:        -2
+          silence:      1
+          slow:         1
+          poison:      -1
+          light_sleep: -1
+          dark_sleep:  -1
+          blind:       -1
       render:
         look:
           type:  standard
@@ -1388,11 +1632,16 @@ templates:
     id:            2232
     species:       kindred
     spell_list_id: 6
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: club
       jobs: [brd, brd]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -1421,11 +1670,16 @@ templates:
     id:            6615
     species:       kindred
     spell_list_id: 6
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: club
       jobs: [brd, brd]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -1455,11 +1709,16 @@ templates:
   Kindred_Beastmaster:
     id:            2233
     species:       kindred
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: axe
       jobs: [bst, bst]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -1487,11 +1746,16 @@ templates:
   Kindred_Beastmaster_HI:
     id:            6616
     species:       kindred
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: axe
       jobs: [bst, bst]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -1522,12 +1786,17 @@ templates:
     id:            2234
     species:       kindred
     spell_list_id: 21
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: staff
         delay: 290
       jobs: [blm, blm]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -1556,12 +1825,17 @@ templates:
     id:            6618
     species:       kindred
     spell_list_id: 21
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: staff
         delay: 290
       jobs: [blm, blm]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -1592,11 +1866,16 @@ templates:
     id:            2235
     species:       kindred
     spell_list_id: 5
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: sword
       jobs: [drk, drk]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -1625,11 +1904,16 @@ templates:
     id:            6620
     species:       kindred
     spell_list_id: 5
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: sword
       jobs: [drk, drk]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -1659,11 +1943,16 @@ templates:
   Kindred_Dragoon:
     id:            2236
     species:       kindred
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: sword
       jobs: [drg, drg]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -1691,11 +1980,16 @@ templates:
   Kindred_Dragoon_HI:
     id:            6621
     species:       kindred
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: sword
       jobs: [drg, drg]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -1725,11 +2019,16 @@ templates:
   Kindred_Monk:
     id:            2237
     species:       kindred
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: axe
       jobs: [mnk, mnk]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -1757,11 +2056,16 @@ templates:
   Kindred_Monk_HI:
     id:            6622
     species:       kindred
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: axe
       jobs: [mnk, mnk]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -1792,12 +2096,17 @@ templates:
     id:            2238
     species:       kindred
     spell_list_id: 7
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: scythe
         delay: 290
       jobs: [nin, nin]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -1826,12 +2135,17 @@ templates:
     id:            6623
     species:       kindred
     spell_list_id: 7
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: scythe
         delay: 290
       jobs: [nin, nin]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -1862,11 +2176,16 @@ templates:
     id:            2239
     species:       kindred
     spell_list_id: 4
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: sword
       jobs: [pld, pld]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -1895,11 +2214,16 @@ templates:
     id:            6624
     species:       kindred
     spell_list_id: 4
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: sword
       jobs: [pld, pld]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -1929,11 +2253,16 @@ templates:
   Kindred_Ranger:
     id:            2240
     species:       kindred
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: axe
       jobs: [rng, rng]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -1961,11 +2290,16 @@ templates:
   Kindred_Ranger_HI:
     id:            6625
     species:       kindred
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: axe
       jobs: [rng, rng]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -1996,11 +2330,16 @@ templates:
     id:            2241
     species:       kindred
     spell_list_id: 3
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: club
       jobs: [rdm, rdm]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -2029,11 +2368,16 @@ templates:
     id:            6626
     species:       kindred
     spell_list_id: 3
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: club
       jobs: [rdm, rdm]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -2063,11 +2407,16 @@ templates:
   Kindred_Samurai:
     id:            2242
     species:       kindred
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: sword
       jobs: [sam, sam]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -2095,11 +2444,16 @@ templates:
   Kindred_Samurai_HI:
     id:            6627
     species:       kindred
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: sword
       jobs: [sam, sam]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -2130,12 +2484,17 @@ templates:
     id:            2243
     species:       kindred
     spell_list_id: 31
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: scythe
         delay: 290
       jobs: [smn, smn]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -2164,12 +2523,17 @@ templates:
     id:            6629
     species:       kindred
     spell_list_id: 31
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: scythe
         delay: 290
       jobs: [smn, smn]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -2199,11 +2563,16 @@ templates:
   Kindred_Thief:
     id:            2248
     species:       kindred
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: sword
       jobs: [thf, thf]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -2231,11 +2600,16 @@ templates:
   Kindred_Thief_HI:
     id:            6630
     species:       kindred
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: sword
       jobs: [thf, thf]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -2265,10 +2639,15 @@ templates:
   Kindred_Warrior:
     id:            2249
     species:       kindred
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: axe
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -2296,10 +2675,15 @@ templates:
   Kindred_Warrior_HI:
     id:            6632
     species:       kindred
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: axe
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -2330,11 +2714,16 @@ templates:
     id:            2250
     species:       kindred
     spell_list_id: 20
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: club
       jobs: [whm, whm]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -2363,11 +2752,16 @@ templates:
     id:            6633
     species:       kindred
     spell_list_id: 20
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: club
       jobs: [whm, whm]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -2403,6 +2797,22 @@ templates:
       combat:
         skill: scythe
       jobs: [blm, blm]
+      resists:
+        rank_element:
+          fire:     6
+          ice:      6
+          wind:     6
+          earth:    6
+          thunder:  6
+          water:    6
+          light:   11
+        rank_status:
+          paralyze:     6
+          bind:         6
+          silence:      6
+          slow:         6
+          poison:       6
+          light_sleep: 11
       render:
         look:
           type:  standard
@@ -2424,6 +2834,21 @@ templates:
     attributes:
       combat:
         skill: scythe
+      resists:
+        rank_element:
+          fire:     4
+          ice:      1
+          thunder: -2
+          water:   -2
+          light:   -2
+          dark:    -3
+        rank_status:
+          paralyze:     1
+          bind:         1
+          poison:      -2
+          light_sleep: -2
+          dark_sleep:  -3
+          blind:       -3
       render:
         look:
           type:  standard
@@ -2449,6 +2874,25 @@ templates:
         skill: scythe
         delay: 200
       jobs: [drg, drg]
+      resists:
+        rank_element:
+          fire:    -2
+          ice:     -2
+          wind:    -2
+          earth:   -2
+          thunder: -2
+          water:   -2
+          light:   -2
+          dark:    -2
+        rank_status:
+          paralyze:    -2
+          bind:        -2
+          silence:     -2
+          slow:        -2
+          poison:      -2
+          light_sleep: -2
+          dark_sleep:  -2
+          blind:       -2
       render:
         look:
           type:  standard
@@ -2469,11 +2913,16 @@ templates:
     id:            2263
     species:       kindred
     type:          [notorious]
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: polearm
       jobs: [drg, drg]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -2506,11 +2955,16 @@ templates:
     id:            2570
     species:       kindred
     type:          [notorious]
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: great_axe
       jobs: [bst, bst]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -2546,11 +3000,15 @@ templates:
     species:       kindred
     type:          [notorious]
     spell_list_id: 7
-    skill_list_id: 2111
     attributes:
       combat:
         skill: sword
       jobs: [bst, nin]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -2584,11 +3042,16 @@ templates:
     id:            2572
     species:       kindred
     type:          [notorious]
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: great_axe
       jobs: [rng, rng]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -2624,11 +3087,16 @@ templates:
     species:       kindred
     type:          [notorious]
     spell_list_id: 6
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: katana
       jobs: [brd, brd]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -2664,11 +3132,16 @@ templates:
     species:       kindred
     type:          [notorious]
     spell_list_id: 7
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: sword
       jobs: [nin, nin]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -2704,11 +3177,16 @@ templates:
     species:       kindred
     type:          [notorious]
     spell_list_id: 141
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: great_sword
       jobs: [smn, smn]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -2744,11 +3222,16 @@ templates:
     species:       kindred
     type:          [notorious]
     spell_list_id: 21
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: axe
       jobs: [blm, blm]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -2784,11 +3267,16 @@ templates:
     species:       kindred
     type:          [notorious]
     spell_list_id: 4
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: great_sword
       jobs: [pld, pld]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -2828,6 +3316,22 @@ templates:
       combat:
         skill: scythe
       jobs: [blm, blm]
+      resists:
+        rank_element:
+          fire:     6
+          ice:      6
+          wind:     6
+          earth:    6
+          thunder:  6
+          water:    6
+          light:   11
+        rank_status:
+          paralyze:     6
+          bind:         6
+          silence:      6
+          slow:         6
+          poison:       6
+          light_sleep: 11
       render:
         look:
           type:  standard
@@ -2847,11 +3351,16 @@ templates:
     species:       kindred
     type:          [notorious]
     spell_list_id: 20
-    skill_list_id: 2111
+    skill_list_id: 358
     attributes:
       combat:
         skill: sword
       jobs: [whm, whm]
+      resists:
+        rank_element:
+          light: -2
+        rank_status:
+          light_sleep: -2
       render:
         look:
           type:  standard
@@ -2886,13 +3395,21 @@ templates:
     species:       ahriman
     type:          [notorious]
     spell_list_id: 11
-    skill_list_id: 2110
+    skill_list_id: 4
     attributes:
       combat:
         skill: staff
       jobs: [blm, rdm]
       resists:
         immune_status: [elegy, light_sleep, dark_sleep]
+        rank_element:
+          light: -2
+          dark:   6
+        rank_status:
+          silence:     11
+          light_sleep: -2
+          dark_sleep:   4
+          blind:        6
       render:
         look:
           type:  standard
@@ -2923,10 +3440,13 @@ templates:
       resists:
         rank_element:
           fire:  -2
+          ice:    2
           earth: -1
           water: -1
           light: -2
         rank_status:
+          paralyze:     2
+          bind:         2
           slow:        -1
           poison:      -1
           light_sleep: -2
@@ -2961,10 +3481,13 @@ templates:
       resists:
         rank_element:
           fire:  -2
+          ice:    2
           earth: -1
           water: -1
           light: -2
         rank_status:
+          paralyze:     2
+          bind:         2
           slow:        -1
           poison:      -1
           light_sleep: -2
@@ -2998,10 +3521,13 @@ templates:
       resists:
         rank_element:
           fire:  -2
+          ice:    2
           earth: -1
           water: -1
           light: -2
         rank_status:
+          paralyze:     2
+          bind:         2
           slow:        -1
           poison:      -1
           light_sleep: -2
@@ -3036,10 +3562,13 @@ templates:
       resists:
         rank_element:
           fire:  -2
+          ice:    2
           earth: -1
           water: -1
           light: -2
         rank_status:
+          paralyze:     2
+          bind:         2
           slow:        -1
           poison:      -1
           light_sleep: -2
@@ -3075,10 +3604,13 @@ templates:
       resists:
         rank_element:
           fire:  -2
+          ice:    2
           earth: -1
           water: -1
           light: -2
         rank_status:
+          paralyze:     2
+          bind:         2
           slow:        -1
           poison:      -1
           light_sleep: -2
@@ -3114,10 +3646,13 @@ templates:
       resists:
         rank_element:
           fire:  -2
+          ice:    2
           earth: -1
           water: -1
           light: -2
         rank_status:
+          paralyze:     2
+          bind:         2
           slow:        -1
           poison:      -1
           light_sleep: -2
@@ -3148,15 +3683,18 @@ templates:
     attributes:
       combat:
         skill: hand_to_hand
-        delay: 240
+        delay: 480
       jobs: [mnk, mnk]
       resists:
         rank_element:
           fire:  -2
+          ice:    2
           earth: -1
           water: -1
           light: -2
         rank_status:
+          paralyze:     2
+          bind:         2
           slow:        -1
           poison:      -1
           light_sleep: -2
@@ -3192,10 +3730,13 @@ templates:
       resists:
         rank_element:
           fire:  -2
+          ice:    2
           earth: -1
           water: -1
           light: -2
         rank_status:
+          paralyze:     2
+          bind:         2
           slow:        -1
           poison:      -1
           light_sleep: -2
@@ -3230,10 +3771,13 @@ templates:
       resists:
         rank_element:
           fire:  -2
+          ice:    2
           earth: -1
           water: -1
           light: -2
         rank_status:
+          paralyze:     2
+          bind:         2
           slow:        -1
           poison:      -1
           light_sleep: -2
@@ -3269,10 +3813,13 @@ templates:
       resists:
         rank_element:
           fire:  -2
+          ice:    2
           earth: -1
           water: -1
           light: -2
         rank_status:
+          paralyze:     2
+          bind:         2
           slow:        -1
           poison:      -1
           light_sleep: -2
@@ -3308,10 +3855,13 @@ templates:
       resists:
         rank_element:
           fire:  -2
+          ice:    2
           earth: -1
           water: -1
           light: -2
         rank_status:
+          paralyze:     2
+          bind:         2
           slow:        -1
           poison:      -1
           light_sleep: -2
@@ -3347,10 +3897,13 @@ templates:
       resists:
         rank_element:
           fire:  -2
+          ice:    2
           earth: -1
           water: -1
           light: -2
         rank_status:
+          paralyze:     2
+          bind:         2
           slow:        -1
           poison:      -1
           light_sleep: -2
@@ -3385,10 +3938,13 @@ templates:
       resists:
         rank_element:
           fire:  -2
+          ice:    2
           earth: -1
           water: -1
           light: -2
         rank_status:
+          paralyze:     2
+          bind:         2
           slow:        -1
           poison:      -1
           light_sleep: -2
@@ -3424,10 +3980,13 @@ templates:
       resists:
         rank_element:
           fire:  -2
+          ice:    2
           earth: -1
           water: -1
           light: -2
         rank_status:
+          paralyze:     2
+          bind:         2
           slow:        -1
           poison:      -1
           light_sleep: -2
@@ -3462,10 +4021,13 @@ templates:
       resists:
         rank_element:
           fire:  -2
+          ice:    2
           earth: -1
           water: -1
           light: -2
         rank_status:
+          paralyze:     2
+          bind:         2
           slow:        -1
           poison:      -1
           light_sleep: -2
@@ -3500,10 +4062,13 @@ templates:
       resists:
         rank_element:
           fire:  -2
+          ice:    2
           earth: -1
           water: -1
           light: -2
         rank_status:
+          paralyze:     2
+          bind:         2
           slow:        -1
           poison:      -1
           light_sleep: -2
@@ -3537,6 +4102,29 @@ templates:
       jobs: [blm, blm]
       resists:
         immune_status: [silence, slow, elegy, light_sleep, dark_sleep]
+        dmg_physical:
+          slashing: -5000
+          piercing: -5000
+          blunt:    -5000
+          h2h:      -5000
+        rank_element:
+          fire:     1
+          ice:      1
+          wind:    -1
+          earth:   -1
+          thunder: -1
+          water:   -2
+          light:   -1
+          dark:    -1
+        rank_status:
+          paralyze:     1
+          bind:         1
+          silence:     -1
+          slow:        -1
+          poison:      -2
+          light_sleep: -1
+          dark_sleep:  -1
+          blind:       -1
       render:
         look:
           type:  standard
@@ -3583,6 +4171,24 @@ templates:
           piercing: -5000
           blunt:    -5000
           h2h:      -5000
+        rank_element:
+          fire:    -1
+          ice:     -1
+          wind:    -1
+          earth:   -1
+          thunder: -1
+          water:   -1
+          light:   -2
+          dark:     1
+        rank_status:
+          paralyze:    -1
+          bind:        -1
+          silence:     -1
+          slow:        -1
+          poison:      -1
+          light_sleep: -2
+          dark_sleep:   1
+          blind:        1
       render:
         look:
           type:  standard
@@ -3619,6 +4225,24 @@ templates:
           piercing: -5000
           blunt:    -5000
           h2h:      -5000
+        rank_element:
+          fire:     1
+          ice:      1
+          wind:    -1
+          earth:   -1
+          thunder: -1
+          water:   -2
+          light:   -1
+          dark:    -1
+        rank_status:
+          paralyze:     1
+          bind:         1
+          silence:     -1
+          slow:        -1
+          poison:      -2
+          light_sleep: -1
+          dark_sleep:  -1
+          blind:       -1
       render:
         look:
           type:  standard
@@ -3644,6 +4268,25 @@ templates:
     attributes:
       combat:
         skill: staff
+      resists:
+        rank_element:
+          fire:    2
+          ice:     2
+          wind:    2
+          earth:   2
+          thunder: 2
+          water:   2
+          light:   2
+          dark:    2
+        rank_status:
+          paralyze:    2
+          bind:        2
+          silence:     2
+          slow:        2
+          poison:      2
+          light_sleep: 2
+          dark_sleep:  2
+          blind:       2
       render:
         look:
           type:  standard
@@ -3670,13 +4313,21 @@ templates:
     species:       ahriman
     type:          [notorious]
     spell_list_id: 11
-    skill_list_id: 2110
+    skill_list_id: 4
     attributes:
       combat:
         skill: staff
       jobs: [blm, rdm]
       resists:
         immune_status: [elegy, light_sleep, dark_sleep]
+        rank_element:
+          light: -2
+          dark:   6
+        rank_status:
+          silence:     11
+          light_sleep: -2
+          dark_sleep:   4
+          blind:        6
       render:
         look:
           type:  standard
@@ -3708,6 +4359,25 @@ templates:
     attributes:
       combat:
         skill: staff
+      resists:
+        rank_element:
+          fire:    2
+          ice:     2
+          wind:    2
+          earth:   2
+          thunder: 2
+          water:   2
+          light:   2
+          dark:    2
+        rank_status:
+          paralyze:    2
+          bind:        2
+          silence:     2
+          slow:        2
+          poison:      2
+          light_sleep: 2
+          dark_sleep:  2
+          blind:       2
       render:
         look:
           type:  standard
@@ -3734,6 +4404,25 @@ templates:
     attributes:
       combat:
         skill: staff
+      resists:
+        rank_element:
+          fire:    2
+          ice:     2
+          wind:    2
+          earth:   2
+          thunder: 2
+          water:   2
+          light:   2
+          dark:    2
+        rank_status:
+          paralyze:    2
+          bind:        2
+          silence:     2
+          slow:        2
+          poison:      2
+          light_sleep: 2
+          dark_sleep:  2
+          blind:       2
       render:
         look:
           type:  standard
@@ -3761,6 +4450,25 @@ templates:
       combat:
         skill: scythe
         delay: 200
+      resists:
+        rank_element:
+          fire:    -2
+          ice:     -2
+          wind:    -2
+          earth:   -2
+          thunder: -2
+          water:   -2
+          light:   -2
+          dark:    -2
+        rank_status:
+          paralyze:    -2
+          bind:        -2
+          silence:     -2
+          slow:        -2
+          poison:      -2
+          light_sleep: -2
+          dark_sleep:  -2
+          blind:       -2
       render:
         look:
           type:  standard
